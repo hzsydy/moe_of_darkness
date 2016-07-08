@@ -6,15 +6,23 @@
 
 ## 简介
 
-TODO
+# TODO
 
 ## 制作组：
 
 （靠现在好惨）
 
-策划 hzsydy(Du)
+策划 hzsydy
 
-## Change Log
+# TODO
+
+近期计划：
+
+- 画完地图
+- 学习python
+- 调试画完的地图
+
+# Change Log
 
 2016.7.7 建立仓库
 
