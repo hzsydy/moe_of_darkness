@@ -1,0 +1,64 @@
+#;;;;;;;;;;;;;x
+Start Research;开始研究;;;;;;;;;;;;;;;;;x
+LEDGER;统计表;;;;;;;;;;;;;;;;;x
+BUY;购买;;;;;;;;;;;;;;;;;x
+Ideology;意识形态;;;;;;;;;;;;;;;;;x
+Culture;民族;;;;;;;;;;;;;;;;;x
+Workforce;职业;;;;;;;;;;;;;;;;;x
+OL_VIEW_rebel_occupations;叛军围城;;;;;;;;;;;;;;;;;x
+OL VIEW rebel occupations;叛军围城;;;;;;;;;;;;;;;;;x
+OL_VIEW_sieges;围城;;;;;;;;;;;;;;;;;x
+OL VIEW sieges;围城;;;;;;;;;;;;;;;;;x
+OL_VIEW_hostile_sieges;敌军围城;;;;;;;;;;;;;;;;;x
+OL VIEW hostile sieges;敌军围城;;;;;;;;;;;;;;;;;x
+OL_VIEW_combat;陆战;;;;;;;;;;;;;;;;;x
+OL VIEW combat;陆战;;;;;;;;;;;;;;;;;x
+OL_VIEW_navalcombat;海战;;;;;;;;;;;;;;;;;x
+OL VIEW navalcombat;海战;;;;;;;;;;;;;;;;;x
+OL_VIEW_armies;陆军;;;;;;;;;;;;;;;;;x
+OL VIEW armies;陆军;;;;;;;;;;;;;;;;;x
+OL_VIEW_navies;海军;;;;;;;;;;;;;;;;;x
+OL VIEW navies;海军;;;;;;;;;;;;;;;;;x
+OL_VIEW_factories;工厂;;;;;;;;;;;;;;;;;x
+OL VIEW factories;工厂;;;;;;;;;;;;;;;;;x
+OL_VIEW_buildings;建设;;;;;;;;;;;;;;;;;x
+OL VIEW buildings;建设;;;;;;;;;;;;;;;;;x
+OL_VIEW_army_construction;陆军招募;;;;;;;;;;;;;;;;;x
+OL VIEW army construction;陆军招募;;;;;;;;;;;;;;;;;x
+OL_VIEW_navy_construction;海军建设;;;;;;;;;;;;;;;;;x
+OL VIEW navy construction;海军建设;;;;;;;;;;;;;;;;;x
+OL_VIEW_gp_influence;影响国家;;;;;;;;;;;;;;;;;x
+OL VIEW gp influence;影响国家;;;;;;;;;;;;;;;;;x
+OL_VIEW_natfocus;国家焦点;;;;;;;;;;;;;;;;;x
+OL VIEW natfocus;国家焦点;;;;;;;;;;;;;;;;;x
+OL_VIEW_rallypoints;集结点;;;;;;;;;;;;;;;;;x
+OL VIEW rallypoints;集结点;;;;;;;;;;;;;;;;;x
+PAP_absolute_monarchy;教皇国;;;;;;;;;;X
+PAP_prussian_constitutionalism;教皇国;;;;;;;;;;X
+AUS_absolute_monarchy;奥地利帝国;;;;;;;;;;X
+AUS_prussian_constitutionalism;奥地利帝国;;;;;;;;;;X
+KUK_absolute_monarchy;奥匈帝国;;;;;;;;;;X
+KUK_prussian_constitutionalism;奥匈帝国;;;;;;;;;;X
+SPA_absolute_monarchy;西班牙帝国;;;;;;;;;;X
+FRA_absolute_monarchy;革命法兰西;;;;;;;;;;X
+TUR_absolute_monarchy;奥斯曼帝国;;;;;;;;;;X
+TUR_absolute_monarchy_ADJ;奥斯曼的;;;;;;;;;;X
+TUR_prussian_constitutionalism;奥斯曼帝国;;;;;;;;;;X
+TUR_prussian_constitutionalism_ADJ;奥斯曼的;;;;;;;;;;X
+CHI_absolute_monarchy;天朝;;;;;;;;;;X
+CHI_prussian_constitutionalism;天朝;;;;;;;;;;X
+DAI_absolute_monarchy;大南帝国;;;;;;;;;;X
+DAI_prussian_constitutionalism;大南帝国;;;;;;;;;;X
+SAR_absolute_monarchy;萨丁尼亚王国;;;;;;;;;;X
+SAR_prussian_constitutionalism;萨丁尼亚王国;;;;;;;;;;X
+SIA_absolute_monarchy;暹罗;;;;;;;;;;X
+SIA_absolute_monarchy_ADJ;暹罗的;;;;;;;;;;X
+SIA_prussian_constitutionalism;暹罗;;;;;;;;;;X
+SIA_prussian_constitutionalism_ADJ;暹罗的;;;;;;;;;;X
+ETH_absolute_monarchy;埃塞俄比亚帝国;;;;;;;;;;X
+ETH_prussian_constitutionalism;埃塞俄比亚帝国;;;;;;;;;;X
+MAD_absolute_monarchy;梅里纳王国;;;;;;;;;;X
+MAD_prussian_constitutionalism;梅里纳王国;;;;;;;;;;X
+BRZ_absolute_monarchy;巴西帝国;;;;;;;;;;X
+BRZ_prussian_constitutionalism;巴西帝国;;;;;;;;;;X
+BRZ_hms_government;巴西帝国;;;;;;;;;;X

@@ -1,0 +1,394 @@
+#New Zealand : 99021 + 54300 Maori
+#British in 1861
+#North Island Region (41641) + 52300 Maori
+#Auckland (24420/6105 European POPS) + (12000/3000 Maori POPs)
+2509 = {
+
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 115
+	}
+
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 105
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 55
+	}
+	
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 195
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 3960
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 895
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 105
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 925
+	}
+
+	aristocrats = {
+		culture = polynesian
+		religion = catholic
+		size = 105
+	}
+	
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 135
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 1690
+	}
+	
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1035
+	}
+	
+}
+#New Plymouth (2040/510 European POPS) + (4000/1000 Maori POPS)
+2510 = {
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 20
+	}
+	
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 335
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 105
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 650
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 350
+	}
+}
+#Napier (2610/650 European POPS) + (13000/3250 Maori POPS)
+2511 = {
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 60
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 480
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 105
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 1045
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 2100
+	}
+}
+#Wellington (12570/3140 European POPS) +(2300/575 Maori POPs)
+2512 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 40
+	}
+	
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 115
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2335
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 635
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 460
+	}
+	
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 105
+	}
+}
+#Tauranga (20000/4000 Maori POPS)
+2571 = {
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 40
+	}
+
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 85
+	}
+
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 120
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 2555
+	}
+	
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 45
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 1145
+	}
+
+}
+#South Island Region (57380) +2000 Maori
+#Dunedin (28980/7245 POPS) + (400/100 Maori POPS)
+2513 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 115
+	}
+	
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 135
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 6415
+	}
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 105
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 905
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 100
+	}
+}
+#Hokitikia (2880/720 European POPS) + (400/100 Maori POPS)
+2514 = {
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 10
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 545
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 145
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 100
+	}
+}
+#Christchurch (16150/4040 POPS) + (400/100 Maori POPs)
+2515 = {
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2985
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 355
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 520
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 100
+	}
+}
+#Nelson (12250/3060 POPS) + (800/200 Maori POPS)
+2516 = {
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 40
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2890
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 345
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 200
+	}
+}

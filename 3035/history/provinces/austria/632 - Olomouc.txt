@@ -1,0 +1,26 @@
+owner = CZH
+
+controller = CZH
+add_core = AUS
+
+
+add_core = CZH
+
+
+1861.1.1 = {
+	remove_core = AUS
+
+
+
+	owner = KUK
+	controller = KUK
+
+        add_core = KUK
+}
+
+
+trade_goods = coal
+life_rating = 35
+
+
+1861.1.1 = { railroad = 3 }

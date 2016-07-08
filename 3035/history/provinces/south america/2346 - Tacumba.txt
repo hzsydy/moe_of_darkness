@@ -1,0 +1,8 @@
+owner = BRZ
+controller = BRZ
+add_core = ARG
+add_core = BRZ
+trade_goods = wool
+life_rating = 35
+
+

@@ -1,0 +1,13 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = CHI
+add_core = HND
+1861.1.1 = {
+	owner = HND
+	controller = HND
+	colonial = 0
+}
+trade_goods = wool
+life_rating = 25
+

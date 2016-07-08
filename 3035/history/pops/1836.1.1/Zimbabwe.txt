@@ -1,0 +1,499 @@
+#Mashonaland Region (296000)  
+#uncolonized in 1836/dominated by Mutapa in 1836
+#Harare (68000/17000 POPS) 
+2068 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 13675
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 1800
+	}
+}
+#Gweru (96000/24000 POPS) 
+2069 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 21850
+	}
+}
+#Mutare (96000/24000 POPS) 
+2070 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 20025
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 1800
+	}
+}
+#Kariba (36000/9000 POPS) 
+2635 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 5525
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 900
+	}
+}
+#Matabeleland Region (188000)  
+#uncolonized in 1836/dominated by the Ndebele in 1836
+#Bulawayo (68000/17000 POPS) 
+2071 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = zulu
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 10825
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 2700
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 1825
+	}
+}
+#Hwange (48000/64000 POPS) 
+2072 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 5475
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 900
+	}
+}
+#Masvingo (72000/18000 POPS) 
+2073 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 175
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 14575
+	}
+
+}

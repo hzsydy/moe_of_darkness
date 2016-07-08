@@ -1,0 +1,59 @@
+capital = 1236
+primary_culture = marathi
+
+religion = hindu
+government = democracy
+plurality = 50.0
+nationalvalue = nv_equality
+literacy = 0.01
+civilized = yes
+
+prestige = 0
+
+# Technologies
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+#Inventions
+india = yes
+ruling_party = HND_conservative
+upper_house = {
+	fascist = 0
+	liberal = 11
+	conservative = 73
+	reactionary = 16
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+oob = "HND_oob.txt"
+1861.1.1 = {
+prestige = 0
+	oob = "/1861/HND_oob.txt"
+}
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = population_equal_weight
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools

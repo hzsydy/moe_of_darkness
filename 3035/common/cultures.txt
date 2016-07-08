@@ -1,0 +1,962 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+germanic = {
+	leader = european
+	unit = EuropeanGC
+	north_german = { 
+		color = { 90 60 60 }
+		first_names = { °£µÂ²®ÌØ °¢µÀ·ò °¢¶û²®ÌØ ÑÇÀúÉ½´ó °¬¸¥À×µÂ °Â¹ÅË¹Í¡ ±´ÄÉµÂ ²©¿Ë¹şµÂ µÏÌØ¶û
+		°®µÂ»ª °£µÂÎÂ °£¶ûÎÂ °£Èğ¿Ë ¶÷Ë¹ÌØ ¸¥ÂåÀï°² ¸¥À¼´Ä ¸¥ÀïµÂÀïÏ£ ¸¥Àï´Ä ÇÇÖÎ ¿ÆÔó¶û
+		¹ÅË¹Ëş·ò »ôË÷ º£ÒòÀïÏ£ ºÕ¶ûÄÂÌØ ºÕ¶ûÂü Óê¹û ÇÇÎ÷Ä· Ô¼º² ÇÇ¸ñ ¿¨¶û
+		¿µÀ­µÂ À³Òò¹şµÂ Àû°Â²¨µÂ Â·µÂÎ¬Ï£ Â¬¿¨Ë¹ Âü¸¥ÀïµÂ Âí¿ËÎ÷Ä· Ä¬¿Ë¶û Äá¹ÅÀ­Ë¹ °ÂÍĞ
+		ÅÁË¹¿¨ ±£ÂŞ Æ¤ÌØ À³Òò¹şÌØ Â³µÀ·ò Â³²®ÀÕÏ£ÌØ Ë¹µÙ·Ò °Â¶àÅµ ÍşÁ® ÎÖ¶û·ò¸Ô }
+		
+		last_names = {.²©Ï£¶÷¿Æ .²¼ÂåÄ· .¿ËµÏÂü .À×µÂ¶û .µÂÂŞË¹ÌØ .¸ñÅµÄÉ .ÎÖ´Ä.·ë.²ªÌÚ·Æ¶û .µÂÎÖ·ò .»ô·òÂü .¿ËÀÍ¶÷ .Â³µÇµÀ·ò .´ÄÍş
+	 .ÎÖ¶û¸ù .·ë.·¨¶û¿ÏË¹ÌØ .·ë.°¢µÇ .·ë.°²¹şÌØ .·ë.°²ÌØµÏ .·ë.²®¶ûÅµ .·ë.ÙÂË¹Âó-²©À³ .·ë.²®Â³ÂüÌØ .·ë.²¼Âå²®¸ñ 
+	 .·ë.²©¶÷ .·ë.²©Â×´ÄÍş¸ñ .·ë.µÏÄ· .ÄÚ´Ä²®¸ñ .·ë.¸Ç²¼Ôó¶û .·ë.¸¥ÀïÆæ .·ë.»ôÌØ .·ë.ÅµÎÖ¶û 
+	 .·ë.ºÚÉ­-´÷Ä·Ê©ËşÌØ .·ë.ºÚÉ­-¿¨Èû¶û .·ë.ĞËµÇ±¤ .·ë.»ôºàË÷Â× .·ë.»ôºàË÷Â×-¸êÍĞÆÕ .·ë.¿ËÅµ¶û .·ë.¿ËÀÕ·Ñ¶ûµÂ 
+	 .·ë.ÂüÍÓ·Æ¶û .·ë.Ã·¿ËÂ×±¤-´ÄÎºÁÕ .·ë.Ã·¿ËÂ×±¤-Ë¹ÌØÀ×´Ä .·ë.Ã«Ææ .·ë.Å·µÇ±¤ .·ë.ÀÍºÕ .·ë.À³Òò´Ä²®¸ñ 
+	 .·ë.ÂåÌØ .·ë.ÀïÏ£»ô·Ò .·ë.Èø¿ËÉ­-°Âëø±¤ .·ë.Èø¿ËÉ­-¿Æ²®¶û-¿ÆÉª .·ë.Èø¿ËÉ­-ÂõÄş¸ù 
+	 .·ë.Èø¿ËÉ­-ÎºÂê-°®É­ÄÉºÕ .·ë.Ê©Àû·Ò .·ë.Êæ¶û´Ä²®¸ñ .·ë.Ê©Åå .·ë.Ìá¶ûÆ¤´Ä .·ë.ÎÖ¶ûµÂ¿Ë.ÅåÃÉ .·ë.»³ÌØ  
+	 .·ë.¸¥À¼¸ñ¶û .·ë.Ôó¶ûÌØ .Çü¶û.ÀÕ²¼ .·ë.Â³¶÷  }
+	}
+	south_german = {
+		color = { 50 80 80}
+		first_names = { °¢µÀ·ò °¢¶û²¼À×ÌØ ÑÇÀúÉ½´ó °¢¶û·¨ °¢ÂåÒÁË¹ °²¶« ÑÇÉª ²®¶÷¹şµÂ ¿ËÀïË¹µÇ
+		°£µÂÃÉ °®µÂ»ª ¶÷¸ñ¶û±´ÌØ ¶÷Ë¹ÌØ Å·ÎÄ ·ÑµÏÄÏµÂ ¸¥ÀÊ´Ä ¸¥ÀïµÂÀïÏ£ ¸ñ²¼¹şÌØ ¸ñ¹şµÂ ¸êÌØ¸¥ÀïµÂ
+		¶÷¸ñÍş ¹ÅË¹Ëş·ò º£ÒòÀïÏ£ ºÕ¶ûÂü »ôË¹ÌØ ÑÅ¸÷²¼ Ô¼°¢Ï£Ä· Ô¼º² Ô¼Éª·ò
+		ÖìÀûÒ¶ ¿¨¶û ¿µÀ­µÂ ¸ÇÌØ À³Òò¹şµÂ Àû°Â²¨µÂ ÂåÂ×´Ä ÂåÈø Â·µÂÎ¬Ï£ Âí¿ËÎ÷Ã×Àû
+		Âó¿Ë¶û °ÂÍĞ À³Òò¹şµÂ Â³µÀ·ò Ê©Àû·Ò Î÷°Â¶à Î¬¿Ë¶à ÎÖ¶ûÌØ ÎÖ¶ûÄÉ ÍşÁ® }
+		
+		last_names = { .±´¿Ë-¿ÆË¹¿Ë .²¼ÂåË¹ .µÇ¿Æ¶û .°®ÄÉ .¸ÇË¹ .¸êÁÖ .ººÒòÀïÎ÷ .»ôË¹ .»ôÌØ .»ô¶û²®´Ä
+	.»ô·òÂü .ºúÄ¬¶û .¿ÆÀÕ¶û .Ä¬¸ùÌØÀÕ .Ã·¿ËÀÕË¹ .ÀÕÄ¬À³ .Ê©ÃÜÌØ .ÇÇ²® .Èû´Ä.Ë¾µÏÆÕ
+	.µÀÔó¶û .ÇÇ°²¿Ë .·ë.°ÍµÇ .·ë.±´ÄÚµÂ¿Ë .·ë.±«Âü-°¬¶ûÄ¬Àû .·ë.²¼Â³µÂÂü .·ë.¿ÆÀÕ¶û-¼ÓÀ­ .·ë.µÂÌ¹¶÷ .·ë.µÏÌØÀïÏ£ .·ë.¸Ç±¤´Ä 
+	.·ë.¸ñÄÚÄÉ .·ë.¹ş²¼Ë¹±¤ .·ë.¹şÌØÂü .·ë.ºàÅµ .·ë.ºÕË¹ .·ë.»ôºàºÀÉ­ .µÏ.°¢Ë¹²¼ .·ë.²ªÂ³¿Ë .·ë.»ô´ÄÍ¡ .·ë.ºà´ÄµÀ·ò .·ë.¿Æ°Í¿Ë 
+	.·ë.¿Æ²¼ÀÊ .·ë.ÀïÏ£²®¸ñ .·ë.ÌØ¸ñËş·ò .·ë.¸ÇÏÄ .·ë.Î¬ÌØË¹°ÍºÕ .·ë.ÎÖµÇ²®¸ñ .·ë.²éÀí¸ù .Íß¸ñÄÉ.ÎºÌØÂü .Çü.»ô¶÷Âå¶ò  }
+	}
+	ashkenazi = { 
+		color = { 130 100 100}
+		first_names = { ÑÇ²®À­º± °¢¶û²®ÌØ ±¾½ÜÃ÷ µ¤Äá¶û ´óÎÀ ¸¥ÀÊ´Ä ¹ÅË¹Ëş·ò º£ÒòÀïÏ£ ºÕ¶ûÂü ÒÁÈø¿Ë ÒÁ¸ñÄÉ´Ä ÑÅ¸÷²¼ Ò®ÀûÃ× Ô¼Éª·ò À³Òò¹şµÂ Ä¬¿Ë¶û Ä¦Î÷ ËùÂŞÃÅ Ë÷¶û ÒÁÊ²Ã·¶û
+		Î÷¸ñÃÉµÂ Î÷ÃÉ Î÷°Â¶à }
+
+		last_names = { .°¢²¼À­ÄªÎ¬Ææ .²¼À­ÄªÎ¬Ææ .²®¶÷Ë¹Ì¹ .²®¶÷±«Ä· .²ªÂåºÕ .¿µÌ¹ .¿Æ¶÷ .¸¥À¼¿Æ .¸¥À×µÂÀï¿Ë .½ğË¹²®¸ñ .¸ê¶û´ÄÌ¹ .»ôÂåÎ¬´Ä .ÒÁË¹À×¶û .½Ü¿Æ²¼É­ .¿¨¸ù .¿¨ÆÕµÇ .¿ËÀ³¶÷
+	.À³ÎÄ .Â¬ÀïÑÇ .Äª¸ùÊ©ÌØ¶÷ .ÄÎÔó .°ÂÂ× .ÂŞÉ­Ëş¶û .ÏÄ¿ËË¹ .ÏÄÅÁÂŞ .Ê©Íß´Ä .Î¤¶÷Ë¹Ì¹ .ÎºË¹ }
+	}
+	union = GER
+}
+
+beneluxian = {
+	leader = european
+	unit = EuropeanGC
+	dutch = { 
+		color = { 230 130 50}
+		first_names = { 
+			°¢µÀ·ò °¢µÂÀï°² ÑÇÀúÉ½´ó °²µÂÁÒË¹ °²¶« °²µÂÀï °² ÑÇ²®À­º±
+			°Í¶ûÌØ°Â
+			¿¨Î÷Ã× ¿µË¹Ì¹¶¡ ¿ÆÄÚÀûË¹ ¿ËÀïË¹µÙ°² ¿ËÀïË¹ÍĞ·ò 
+			´ïÄá×È ´óÎÀ ¶àÃ×Äá µ¤Äá¶û ½Ü¿Ë
+			°£ÀûÑÇË¹ ¶÷Ë¹ÌØ Å·ÎÄ ¸Ç×È
+			¸¥À¼Ë¹ ¸¥À×µÂÀï¿Ë
+			µÒ½ÜË¹²®ÌØ ¸ñµÃ¸¥À× ¹ÅË¹Ëş·ò ¼ÓË¹ÅÁ ¼Ó°ÙÁĞ ½ÜÀ­µÂ ¸ê±¾
+			º£µÂÀïÏ£ ººË¹ Óê¹û
+			ÒÁÈø
+			Ô¼º² ÓÈ¶û¸ù ÑÅ¸ê ¼ªÂ× ¼ò ÓÈË¹ÌØ
+			¿¨À×¶û ¿¨Ë¹ÅÁ
+			Â¬¿¨ ÂåµÂÎ¤¿Ë ÀÍÂ×Ë¹
+			ÂíÂÀË¹ Âí½ÜË¹ Âí¿ËÎ÷Ã×Àû Äª¸ùË¹ ÄªÀï´Ä Äª¶û×È
+			Äá¹ÅÀ­Ë¹
+			ÅÁÍß¶û ±£ÂŞ Æ¤ÌØ
+			À¥ÌØ
+			±´ÄáÌØË¹ Â³±¾ Â³µÀ·ò ÂŞÀ¼µÂ ¼ª¶û À­ÌØ¸ñ
+			Ë¹ÌØ·² Î÷ÃÉ
+			ÍĞÂíË¹
+			Î¬¿Ë¶à ÍşÁ® ÎÄÉ­ÌØ
+			Ù¤¿¨ÀûÑÇ
+		}
+		
+		last_names = { 
+		.·¶µÂ·¨ .·¶.°¢É­µÀ¶û  
+		.²©ÌØ¸ñ .²¼Ã·Ë¹ÌØ .·¶.²¼ÀÊ¿ËÎÖ .±´ÌØ²®¸ñ .±´Í¢¿Ë .²©À×¶û .²ªÀ¼ÌØ .·¶.²¼À×µÂÅµ .²¼ÀÍÍş¶û.°İ´Ä¿ËË¹ .·¶.²¼À­Ä·.»ô¿Ë¼ªË¹ÌØ
+		.·¶.¿¨ÅåÂ× .²é¶ûË¹ .¿ÆÇĞ¶û .¿â²® .µË.¿ËÉ­²¼¶û .¿ËÀûÂ× .¿â»ô¶÷ .¿Æ¶÷ .µË.¿µË¹Ì¹¶¡ .À×±´¿Ë .¿ËÀïÉ­ 	
+
+		.·¶.¿ËÂ×²©¸ñ
+		.´÷¿Æ¶û .µË.ÒÁÂ×Ë¹ .µË.¿Æ¿Ë .µÂ¿Ë»ô·ò .µË.±È¶û .²¨ÌØ¸ñ .µ¤µÂ¶ûË¹ .·¶.µÏÃÉ .·¶µÂ¶È .·¶.µÂÒÁ·ÒÎÖµÂ
+		.°¬ÀûË¹ .¶÷¸ñË¹ .¶÷¸ñ¶û·¨ÌØ .·¶.°£¸ñÃÉÌØ .°¬¸¥ÌØ×È
+		.·¨±ÈÓÈË¹
+		.¸ñÀ×¸êÀï .·¶.¸ÇÂ× .µË.¸êÀÍ .·¶.¼ª¶÷ 
+		.·¶.É­Ä· .·¶.¹şÂ× .·¶.¼ªÄ·Ë¹¿Æ¶û .·¶.»ôÏ£ .¿ÆÌØ-ºàÀû¸ñ .µË.¹şÌØÂü .·¶.ºàÌØ²¼Â³¿Ë
+		.·¶.ÒÁÀÕ±¾
+		.Õ²É­
+		.¿ÆÀÕ¶û .¿â¶û .¿âÄÚË¹ .¿­ÌØ¶û .·¶.¼ª±£ .¿ÆÌØÄá¶û
+		.ÀîË¹ÌØ.Â¬¿¨Ë¹
+		.Âõ¸êË¹ .·¶.ÂíÄá¿ËË¹ .Âí¸ñÄÉ .µË.Ä¦¶û .Ã×¶ûÍş.·¶.¿µ±ö
+		.ÄÚÆÕÂ¬ .ÄÉÌØ¸ñ¶û .·¶.ÅµÄÎ¶û .·¶.ÅµÌØ
+		.°²¸ñ²¼¶û
+		.·¶.ÅÁÀ¼ÌØ
+		.Èğ¿Ë.°¢¶ûÀ­ .·¶.À×¸¥Ë¹ÌØ .·¶.À­¿ËÌØÀ× .À×ºÕÉ­ .·¶.À×Ú«Éª .·¶.»İ±È¿Ë .µË.À×¿Ë .·¶.ÂŞÉ­
+		.Éª²®Â× .Î÷Ã·¶ûÅåÄÚÌØ .·¶.µË.°ÂÒ® .·¶.Èø¿ËÉ­-ÎºÂê .·¶.Ë¹±È¶û²®¸ñ .Ë¹Ëş¶û .µÀÔó¶û .Ğ¤¶÷ .Ê²¿Ë .Ë¹±È¸ê¶û
+
+		.Ë¹µÀÌØÂü.Ë¹Ì©¸¥É­ÌØ
+		.ËşË¹Âü .·¶.ÇÇ¶÷ .Ğª¶ûÆÕ
+		.·¶.µÇ±´Åµ .·¶.µË.²©Î÷ .·¶.µË.ºÕ¶Ù .·¶.»ô¶÷Ë¹²¼Âå¿Ë .·¶.°ÂÀ¼ÖÎ-ÄÃÉ§ .·¶.Ê©ÎºµÇ 
+		.·¶.Î¬µÇ²¨ÇĞ .¸¥Ë¹Åå½Ü.Î¬ÌØ¶û.Î¤²ß¶û .·¶.ÓÈµÇ¹ş·ò
+		.·¶.ÎÖ¶û±È¿Ë .·¶.ÍßÉ­ÄÉ .·¶.µË.Î¤¸¥ .·¶.Î¤É­°İ¿Ë .·¶.ÎÂ¸ñ¶û .·¶.µË.»³¿Ë .·¶.»³¼ÓµÇ .µË.ÎÄÌØ
+		.ÎÖÌØ±´¿Ë
+		}
+	}
+	union = NET
+}
+
+	
+scandinavian = {
+	leader = european
+	unit = EuropeanGC
+	swedish = { 
+		color = { 20 40 160}
+		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
+		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
+		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
+		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+		
+		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
+		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
+		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
+		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+	}
+	finnish = { 
+		color = { 220 220 220}
+		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
+		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
+		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
+		
+		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
+		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
+		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
+	}
+	union = SCA
+}
+
+british = {
+	leader = european
+	unit = BritishGC
+	british = {
+		color = { 220 100 220}
+		first_names = { °¢¶û²®ÌØ ÑÇÀúÉ½´ó °¢¶û¸¥À×µÂ °¢Ææ²©¶ûµÂ ÑÇÉª °Â¹ÅË¹ ±¾½ÜÃ÷ ²®ÄÉµÂ ²é¶ûË¹ ¿Æ¶û²®ÌØ
+		¿ÆÁÖ Î÷Àï¶û ´óÎÀ ÌÆÄÉµÂ µÀ¸ñÀ­Ë¹ °£µÂÃÉ °®µÂ»ª ·Ñ¶û·¨¿ËË¹ ·ÑµÏÄÏµÂ ¸¥ÀÊÎ÷Ë¹
+		¸¥À×µÂÀï¿Ë ½Ü¸¥Àï ÇÇÖÎ ¸ñÀ×¶òÄ· ºàÀû ºÕ²®ÌØ »ôÀ×Ğ¤ Ğİ²®ÌØ Ğİ ÒÁ¶÷
+		Õ²Ä·Ë¹ ½ÜÀïÃ× Ô¼º² Ô¼Éª·ò Àû°Â²¨µÂ À³Ë¹ÌØ Â·Ò×Ë¹ Âí¶¡ ÄÎ½Ü¶û °ÂË¹Íß¶ûµÂ
+		çêÎ÷ À×½ğÄÉµÂ Àí²éµÂ ÂŞ²®ÌØ ÂŞËØ Ë¹Ì¹Àû ÍĞÂíË¹ »ªÀ³Ê¿ ÍşÁ® ÎÂË¹¶Ù Ôú¿¨Àï }
+		
+		last_names = { .°¬Â×±È .±´µÇ²®¸ñ .±ÈµÙ .±´À×Ë¹¸£µÂ .²¼ÀÊ .±«Àï .²¼À³¶û .¿²±´¶û .¿¨Àï¿Ë .Çğ¼ª¶û
+		.¿Æ¿ËÂ× .¿Æ²®¶÷ .µÂ.ÂŞ°İ .µÇ´ïÊ¿ .·ÑÉá¶û .¸¥À¼´Ä .¸ß·ò .¸ñÀ¼ÌØ .¸ñÀ¼·Ñ¶û .ºÚ¸ñ
+		.ººÃÜ¶û¶Ù .¹şÍ¡ .¹ş·òÂå¿Ë .»ôÆÕ .½ÜÀû¿Æ .»ùÆæÄÉ .À³°º .ÂõµÇ .Ã×¶û¶÷ .ÃÉ¸çÂíÀû
+		.Äª¶û×È±È .ÃÉµÙ .ÄÉÆ¤¶û .°ÂµÏÄá .ÎÖ·ò.ººÅµÍş .ÎÖ·ò.Èø¿ËÉ­-¿Æ±¤-¸ç´ï .ÆÕÀ­Ä¬ .À­¸ñÀ¼ .ÂŞ²®´Ä .Î÷¶Ù .Î÷Ä¦
+		.Ê·ÃÜË¹ .Ê·ÃÜË¹-µÀÂ× .Ë¹Í¼¶ûÌØ .ÈûÎ÷½Ü .Ì©Â× .µÙÀïÌØ .ÍşÁ®Ä·Ë¹ .ÎÂÉ¯ .ÎÖ¶ûË¹Àû .ÎÖµÂ }
+	}
+	union = ENG	
+}
+
+italian = {
+	leader = european
+	unit = ItalianGC
+	north_italian = { 
+		color = { 90 210 130}
+		first_names = { ÑÇÀúÉ£µÂÂŞ °¢·½Ë÷ °²²¼ÂŞ¼ª °¢Ã·Àû°Â °²µÂÁÒ °²½ÜÂå °²¶«Äá°Â ±´ÄáÍĞ ¿¨Ã×Âå ¿¨ÂŞ
+		ÇĞÈøÀ× ¿ÆË¹Ì¹×ô ´ïÎ¬µÂ ¶÷Àï¿Æ °£ÍĞÀ× ·¨²¼ÀïÆæ°Â ¸£Ë¹µÙÅµ ·ÑµÂÀï¿Æ ¸¥Àï´Ä ·ÑµÏÄÏ
+		·Æ°ÂÂ×ÇÇ ¸¥ÀÊÇĞË¹¿Æ Ù¤ËşÅµ ¼ÓÍ¼Ë÷ ¼ªÂŞÀ­Äª ÖìÀû°Â ÖìÈûÅå ¹ÅÀû°ÂÄ¬ ÒÁÅµÇÙ×ô ²¨¶û¶à
+		Â·Ò×¼ª Âí¸ê ÂíÎ÷Äª ÀûÂêñ¼ Äá¹ÅÀ­ °ÂË¹ÌØ ÅÁÂŞ ÅÁË¹¿äÀ³ ±ËµÃÂŞ ÆÕÂåË¹±ËÂŞ
+		À­ì³¶û ÂŞ²®ÍĞ Â³½ÜÂŞ Î÷¶ûÎ¬°Â Î÷ÃÉ Ì¹¿ÆÀ×µÏ ÎÚ¸ê ÎÌ±´ÍĞ ÎÄÉ­×ô Î¬ÍĞÀï°Â
+		ÑÇÀúÉ£µÂÂŞ °¢Âü °Â¹ÅË¹ÍĞ ¿¨ÂŞ ÇĞÈøÀ× ¿ÆÀ­¶à ¶àÃ·Äá¿Æ ¶÷Àï¿Æ ·¨±È°Â ·¨²¼ÀïÆæ°Â
+		·ÑµÏÄÏ ¸¥ÀÊÎ÷Ë¹¿Æ ¼Ó°£ËşÅµ ¼ª¶û¿ÆÄª ÇÇÍßÄá ÖìÀû°Â ÖìÈûÅå ¹Å ²¨¶û¶à ÂåÂ××ô
+		Â¬¶àÎ¬¿Æ ÄáÅ· Ê¥ÂíÁ¦Åµ ÂíÀï°Â ÀûÂêñ¼ Äá¹ÅÀ­ °ÂÀ­Æë°Â °²Åµ ÍĞÂíÉ­ ÎÄÉ­×ô
+		}
+		
+		last_names = { .°¢¿Ë¶Ù .°¢²¼À×Ææ .°Í¶à¸ñÀû°Â .°ÍµÏÉª¶û .°ÍÀ­µÙÒ® °Í·¥-±´¿¨ÀûË¹ .¿¨¶àÄÉ .¼ÓÀû .¿¨ÄÚÍßÂŞ .¿¨ÅåÂŞ
+		.¿¨Î¬Ù¤Àû .²é¿ËÀïÄá .²é¶ûµÙÄá .¿âÈøÄá .µÙ'°¢²¼Ë¹²¨-ÍĞË¹¿¨ÄÉ .µÙ'°ÂË¹-°£Ë¹ÌØ .µÙÈø .µÙ.²©¶û²®¶÷.ÅÁ¶ûÂí .µÙ ÂŞ²©ÀÊ .µÙ.ÈøÎÖÑÇ
+		.µÙ.Ë÷·ÆÑÇ-°ÂË¹Ëş .ÒÁÃÉ .·²µÙ .·¨À­ .·ÑÂŞÊ¥ÂíÁ¦Åµ .¼ÓÀï²¨µÚ ¼ªÑÇµÙÅµ .¸ê·² .À­.Ä¦¶û .ÃÉ°ÍµÙ 
+		.Ã·ÄÉ²¼À×ÑÇ .°ÂÂ×¸ê .ÅÁ¸êÀ­.µÙ.Ê¥±¾ .ÅÁÀ­Î¬ÆæÅµ .²¨¿ËÈğ-¼ªÀ­µÂ .ÅÁÀû¶÷.µÙ.Åå¶ûÈøÅµ .ÅåÂ¬ .±£ÂŞÇĞµÙ .Æ¤ÑÇÄÉ .±£ÂŞ
+		.ÅÁÀ×Æ¤ÌØÂå .À­ÄªÀ×ÄÉ .À×¿ÆµÙ-Âó¸ñÄÉÄá .Èø»ù .ÈøÀ³Ëş .É£ÄÉ .Ë÷À­Àï .·Æ°º.µÙ.À×Î¬¶û .Íß¿¨Àï .ÖìÅåÀï
+		.°²¸¥À­ .°Í±´ÀïÄá-¿ÆÂ¡ÄÉ .²©ÄÉ¿Æ×È .¿¨À­¼Ó .¿¨À­Äá°Â .»ù¼ª .¿ËÀ­Àï .¿ÆÂ¡ÄÉ .µÙ.Àû¸ê .µÙ.»³ÈüË¹
+		.µÂÀ­.À­ì³¶û .µÂÀ­.Öì.Î÷Î÷Àï .µÏÑÇÊ¿ .·¨À­Àû .·ÑÀ¼¼ªÀï .¼ªÂ¡´ï .¸ñÀ­Î¬ÄÉ .¸ê·Æ¶û .À¼Ôú .Â¡°Í¶à
+		.Â¬ÄÉ¶ûµÏ .ÄªÀûÄÚÀû .°Â¶ûÎ÷Äá .°ÂËşÎ¬ÑÇÄá .ÅÁÂ¡µÙ .Ë¹¿¨ÂíÔú .ÍĞÂåÄáÑÇ .Í¼Èğ×È .Î¤¶ûÄÉÔú .ÖìÄá¿¨ }
+	}
+	union = ITA
+}
+
+iberian = {
+	leader = southamerican
+	unit = SpanishGC
+	spanish = {
+		color = {220 220 30}
+		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		
+	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
+		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
+		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
+		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	}
+	portuguese = {
+		color = {160 220 30}
+		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino 
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
+		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando 
+		Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio JErónimo João Joaquim Jorge
+		José Júlio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando 
+		Óscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
+		Sebastião Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório }
+		
+		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
+		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho" 
+		"de Castro" "de Gusmão" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
+		Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira 
+		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
+		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
+	}
+	union = SPA
+}
+
+french = {
+	leader = european
+	unit = FrenchGC
+	french = { 
+		color = {20 20 100}
+		first_names = { °¢Ï£¶û °¬¶à·Æ¶û °¬Àï°² °¬Ã·²® °¢·½Ë÷ °¬¶û °²ÍĞÍò °¢¶ûÃ¢ °¢¸ñË¹ °Â¹ÅË¹Í¡
+		²é¶ûË¹ µ¤Äá¶û µ¤ÄáË¹ Å·ÍßµÏ °£Àû Ï¯ ÓÈµÙ ·ÆÉá¶û ·Ñ¿ËË¹ ¸¥¶ûÄÏ
+		¸¥À¼Î÷Ë¹ ¸¥À×¿Ë ÇÇÖÎ ¼ª°ÂÄ· ¹ÅË¹Ëş·ò ºàÀû Ğİ²®ÌØ Óê¹û ÑÅ¿Ë ¼ª¶÷
+		Ô¼Éª·ò ÓÚÀÕ ÖìÀû°² À­Ôú¶û Àû°Â²¨µÂ ÀÕÂŞÒÁ Â·Ò× ÂÀĞª¶û ÂíĞŞ Ã×ÇĞ¶û
+		ÄÃÆÆÂØ Èø¿Æ ÅÁÌØÀïË¹ ±£ÂŞ ·ÆÀûÆÕ Æ¤°£¶û ÂŞ²®ÌØ µÙ²© µÙ°£Àï ÍĞÂíË¹ }
+		
+		last_names = { .°²¶«Äá°Â  .²¼À×µÏ.ºÕÀû×È  .°ÍÔŞ .²¼Âå .²¨ÄÃ°Í .²¨Ê¿¿äÌØ .²¨µÃÄÃ°Í .²¼-Î¤²ß¶û .²¼ÀÊ½Ü .²¼¶û°Í»ù
+		.°Í¸ê .¿­À­µÂ .¿µÀ­±´ .¿â¶û±´ .¿¨É­-ÂíÌØ±¾ .´ïÎÖ .´÷.²¨ÅÔ .´÷.¿¨Ë¹ÌØÀ­ .´÷.¿¨Ë¹Ì©¶ûÅµ .´÷¸ßÀÖ
+		.´÷ÀÊ¸ñÀû.´÷.¿¨Àï .´÷.Âó¿ËÂíºé .´÷.ÃÉµÙÄá¸ê .´÷.Ê¥ÌØ.°¢¶ûÅµ .µÏ'°Â¶ûÁ¼ .¶à±´¶û .¶Å²¨ÒÀË¹ .¶ÅºÕ .¶ÅÅå-¶ÅÒÁË¹ .°£¿ËÈûÂüË¹
+		.¸£ìã .¸¥ÀÕ .¸¥À¼ÇĞÌØ.µÏ'°£Ë¹±È .¸ñÁ¦ .¸êÂåË¹ .¸ñÂåÂõÌØ .¹şÃ·ÁÖ .ºàÀ­Ë¹ÅÁ .ºÕ¿Æ .ºà²®ÌØ
+		.²é¶û .Ï¼·É .ÀÕ²¨·ò .À³Å·ÌØ .çÑÀ­ÌØ .ÄÎÒÁ.°ÂÇÙÄá .ÄáÎ¤ÀÕ .ÆÕÀûÎ÷¶û .±´µ± .ÍßÀ¼ÌØ }
+	}
+	union = FRA
+}
+
+south_slavic = {
+	leader = european
+	unit = AustriaHungaryGC
+	croat = {
+		color = {140 140 190}
+		first_names = { °²µÂÀïÑÇ °²¶« °ÍÔúÀû¼ª ²¼À×Åµ µÂÀ­¹ÅÍ¢ ¼ªÎ¬ ·ÆÀûÆÕ ¸¥À­Äá°Â ¼ÓË¹ÅÁ °¬ÎÄ
+		Ò®¿Æ ÆæÂå Ò®ÂŞÀûÄ· Ô¼ÉªÆÕ ÓÈÀ­ÒÁ ¿¨¶ûÂå ¿ËÀ×Ï£Ã×¶û ¿ÆË¹ÍĞ Â·µÂÎ¬µÂ Â¬Î÷¼ª¶÷
+		Â¬¿¨ ÂíÀûÆæ ÂíÁÖ ÂíÌØÆæ ÂíÌØ¿Æ Âí¿ËÎ÷Ã×Á¬ Ã·ÌØ Ã×¹şÒÁÂå Ã×¶û¿Æ Ã×ÂŞË¹À­·ò
+		Äá¿Æ Äá¹ÅÀ­ °ÂÈûÌØ ÅÁ·òÀ³ ÅÁÍĞ À×¸¥ Èü°ÍË¹µÙÑÇ Î÷Ë¹ÃÉ¶à Ë¹À­¿Æ·ò Èû½ÜÅÁ
+		Ë¹Î¤ÍĞË¹À­ Ë¹Î¤ÍĞÔú¶û µÙÅ· ÌØ°Â¶à¶û ÍĞÂí ÍĞÃ×Ë¹À­·ò Î¬¿Æ ¸¥À­»ùÃ×¶û ¸¥À­»ô ÒÁ²¼À­Ï£Äª
+		}
+
+		last_names = { .À­Î¬Ææ .°Í¿¨À×Ææ .±´ÌØÀ­ .±ÈÀûÆæ .²¼À­ÔóÎ¬Ææ .°àµÏÆæ .²©¶û°¬Î¬Ææ .°àÊ¿Äá .²¼ÄáÆæ .¿ÆÍĞ¿ÆÎ¬Ææ
+		.¿¨Î¬Ææ .µÂÀ­Ë¹¿ÆÎ¬Ææ .µÏ×ÈÃÉ .·Ñ¶ûË¹ .¶òµÏ .¸¥À¼¸ê°à .¸ÇÆæ .¸ÇµÀµÒ¿Ë .¸ñÄÚµÏÆæ .¸ñ¸êµÏÆæ
+		.¸êÈûµÏÆæ .À¥¶¼Àï¿Ë .»ôÀû¿Ë .Ò®À­ÆõÆæ .¿Æ²¼ÔŞÆæ .¿¨¸ñÀïÎ¬Ææ .¿ÆË¹ÌØÂ×Î÷¿Ë .¿ÆË¹Í¼ÂåÎ¬Ææ .À­¸ñÃ×ÑÇ .ÄÂÔóÀ¼Äá¿Ë
+		.Ã×µÏÂåÎ¬Ææ .Äª»ôÇĞ¿Æ .ÄÂÀ­ÔóÎ¬Ææ .ÄÉËşÀû .ÄÉ×ô¶û .Äá¸êÍò .ÅÁ¶ûÔó¿Ë .ÅÁ½İÎ¬Ææ .·ÑÀÕÆÕÎ¬Ææ .ÆÕÄÚÂåÎ¬Ææ
+		.ÆÕÎ÷ .À×¼ªÄÉ .Èø¿ÆµÒ¿Ë .Ë÷ÇĞÎ¬¿Ë .Ë÷¿ÆÉáÎ¬Ææ .Ë¹Ì¹¿ÆÎ¬Ææ .ÍĞÂíÎ÷Ææ .ÍĞÂíÀïÅµÎ¬Ææ .Íß¿¨ÅµÎ¬Ææ .¸¥À­Ï£Ææ
+		}
+	}
+	serb = {
+		color = {150 65 80}
+		first_names = { °²µÂÀïÑÇ °²¶« °ÍÔúÀû¼ª ²¼À×Åµ µÂÀ­¹ÅÍ¢ ¼ªÎ¬ ·ÆÀûÆÕ ¸¥À­Äá°Â ¼ÓË¹ÅÁ °¬ÎÄ
+		Ò®¿Æ ÆæÂå Ò®ÂŞÀûÄ· Ô¼ÉªÆÕ ÓÈÀ­ÒÁ ¿¨¶ûÂå ¿ËÀ×Ï£Ã×¶û ¿ÆË¹ÍĞ Â·µÂÎ¬µÂ Â¬Î÷¼ª¶÷
+		Â¬¿¨ ÂíÀûÆæ ÂíÁÖ ÂíÌØÆæ ÂíÌØ¿Æ Âí¿ËÎ÷Ã×Á¬ Ã·ÌØ Ã×¹şÒÁÂå Ã×¶û¿Æ Ã×ÂŞË¹À­·ò
+		Äá¿Æ Äá¹ÅÀ­ °ÂÈûÌØ ÅÁ·òÀ³ ÅÁÍĞ À×¸¥ Èü°ÍË¹µÙÑÇ Î÷Ë¹ÃÉ¶à Ë¹À­¿Æ·ò Èû½ÜÅÁ
+		Ë¹Î¤ÍĞË¹À­ Ë¹Î¤ÍĞÔú¶û µÙÅ· ÌØ°Â¶à¶û ÍĞÂí ÍĞÃ×Ë¹À­·ò Î¬¿Æ ¸¥À­»ùÃ×¶û ¸¥À­»ô ÒÁ²¼À­Ï£Äª
+		}
+
+		last_names = { .À­Î¬Ææ .°Í¿¨À×Ææ .±´ÌØÀ­ .±ÈÀûÆæ .²¼À­ÔóÎ¬Ææ .°àµÏÆæ .²©¶û°¬Î¬Ææ .°àÊ¿Äá .²¼ÄáÆæ .¿ÆÍĞ¿ÆÎ¬Ææ
+		.¿¨Î¬Ææ .µÂÀ­Ë¹¿ÆÎ¬Ææ .µÏ×ÈÃÉ .·Ñ¶ûË¹ .¶òµÏ .¸¥À¼¸ê°à .¸ÇÆæ .¸ÇµÀµÒ¿Ë .¸ñÄÚµÏÆæ .¸ñ¸êµÏÆæ
+		.¸êÈûµÏÆæ .À¥¶¼Àï¿Ë .»ôÀû¿Ë .Ò®À­ÆõÆæ .¿Æ²¼ÔŞÆæ .¿¨¸ñÀïÎ¬Ææ .¿ÆË¹ÌØÂ×Î÷¿Ë .¿ÆË¹Í¼ÂåÎ¬Ææ .À­¸ñÃ×ÑÇ .ÄÂÔóÀ¼Äá¿Ë
+		.Ã×µÏÂåÎ¬Ææ .Äª»ôÇĞ¿Æ .ÄÂÀ­ÔóÎ¬Ææ .ÄÉËşÀû .ÄÉ×ô¶û .Äá¸êÍò .ÅÁ¶ûÔó¿Ë .ÅÁ½İÎ¬Ææ .·ÑÀÕÆÕÎ¬Ææ .ÆÕÄÚÂåÎ¬Ææ
+		.ÆÕÎ÷ .À×¼ªÄÉ .Èø¿ÆµÒ¿Ë .Ë÷ÇĞÎ¬¿Ë .Ë÷¿ÆÉáÎ¬Ææ .Ë¹Ì¹¿ÆÎ¬Ææ .ÍĞÂíÎ÷Ææ .ÍĞÂíÀïÅµÎ¬Ææ .Íß¿¨ÅµÎ¬Ææ .¸¥À­Ï£Ææ
+		}
+	}
+	bulgarian = {
+		color = {65 150 100}
+		first_names = { °²µÂÀïÑÇ °²¶« °ÍÔúÀû¼ª ²¼À×Åµ µÂÀ­¹ÅÍ¢ ¼ªÎ¬ ·ÆÀûÆÕ ¸¥À­Äá°Â ¼ÓË¹ÅÁ °¬ÎÄ
+		Ò®¿Æ ÆæÂå Ò®ÂŞÀûÄ· Ô¼ÉªÆÕ ÓÈÀ­ÒÁ ¿¨¶ûÂå ¿ËÀ×Ï£Ã×¶û ¿ÆË¹ÍĞ Â·µÂÎ¬µÂ Â¬Î÷¼ª¶÷
+		Â¬¿¨ ÂíÀûÆæ ÂíÁÖ ÂíÌØÆæ ÂíÌØ¿Æ Âí¿ËÎ÷Ã×Á¬ Ã·ÌØ Ã×¹şÒÁÂå Ã×¶û¿Æ Ã×ÂŞË¹À­·ò
+		Äá¿Æ Äá¹ÅÀ­ °ÂÈûÌØ ÅÁ·òÀ³ ÅÁÍĞ À×¸¥ Èü°ÍË¹µÙÑÇ Î÷Ë¹ÃÉ¶à Ë¹À­¿Æ·ò Èû½ÜÅÁ
+		Ë¹Î¤ÍĞË¹À­ Ë¹Î¤ÍĞÔú¶û µÙÅ· ÌØ°Â¶à¶û ÍĞÂí ÍĞÃ×Ë¹À­·ò Î¬¿Æ ¸¥À­»ùÃ×¶û ¸¥À­»ô ÒÁ²¼À­Ï£Äª
+		}
+
+		last_names = { .À­Î¬Ææ .°Í¿¨À×Ææ .±´ÌØÀ­ .±ÈÀûÆæ .²¼À­ÔóÎ¬Ææ .°àµÏÆæ .²©¶û°¬Î¬Ææ .°àÊ¿Äá .²¼ÄáÆæ .¿ÆÍĞ¿ÆÎ¬Ææ
+		.¿¨Î¬Ææ .µÂÀ­Ë¹¿ÆÎ¬Ææ .µÏ×ÈÃÉ .·Ñ¶ûË¹ .¶òµÏ .¸¥À¼¸ê°à .¸ÇÆæ .¸ÇµÀµÒ¿Ë .¸ñÄÚµÏÆæ .¸ñ¸êµÏÆæ
+		.¸êÈûµÏÆæ .À¥¶¼Àï¿Ë .»ôÀû¿Ë .Ò®À­ÆõÆæ .¿Æ²¼ÔŞÆæ .¿¨¸ñÀïÎ¬Ææ .¿ÆË¹ÌØÂ×Î÷¿Ë .¿ÆË¹Í¼ÂåÎ¬Ææ .À­¸ñÃ×ÑÇ .ÄÂÔóÀ¼Äá¿Ë
+		.Ã×µÏÂåÎ¬Ææ .Äª»ôÇĞ¿Æ .ÄÂÀ­ÔóÎ¬Ææ .ÄÉËşÀû .ÄÉ×ô¶û .Äá¸êÍò .ÅÁ¶ûÔó¿Ë .ÅÁ½İÎ¬Ææ .·ÑÀÕÆÕÎ¬Ææ .ÆÕÄÚÂåÎ¬Ææ
+		.ÆÕÎ÷ .À×¼ªÄÉ .Èø¿ÆµÒ¿Ë .Ë÷ÇĞÎ¬¿Ë .Ë÷¿ÆÉáÎ¬Ææ .Ë¹Ì¹¿ÆÎ¬Ææ .ÍĞÂíÎ÷Ææ .ÍĞÂíÀïÅµÎ¬Ææ .Íß¿¨ÅµÎ¬Ææ .¸¥À­Ï£Ææ
+		}
+	}
+	union = YUG
+}
+pan_romanian = {
+	leader = european
+	unit = AustriaHungaryGC
+	romanian = {
+		color = {240 240 140}
+		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
+		Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
+		Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
+		Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
+		Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad
+		}
+
+		last_names = { Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
+		Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
+		Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
+		Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru Prezan
+		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
+		}
+	}
+	union = ROM 
+}
+
+hungarian_culture_group = {
+		leader = european
+		unit = AustriaHungaryGC
+		
+	hungarian = {
+		color = {180 255 120}
+		first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
+		Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
+		György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
+		Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
+		Ödön Ottó Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
+
+		last_names = { Andrássy Apponyi Aulich Bacher Baross Batthyány Beöthy Bothmer Damjanich Dessewffy
+		Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izsó
+		Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
+		Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
+		Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
+	}
+}
+
+polish_culture_group = {
+	leader = european
+	unit = AustriaHungaryGC
+	
+	polish = {
+		color = {255 120 120}
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+	}
+	lithuanian = { 
+		color = {17 162 48}
+		first_names = { Adolfas Aleksandras Algirdas Andrius Antanas Arturas Arunas Augustinas Balys Boris
+		Bronislovas Danielius Darius Gendiminas Henrikas Jonas Jonusas Juozas Juras Jurgis
+		Justas Kazimieras Kazys Kipras Konstantinas Lukas Marijus Markas Mikalojus Mindaugas
+		Motejus Mykolas Paulius Petras Povilas Ramunas Ringaudas Rolandas Simonas Stasys
+		Steponas Valdas Valdemaras Viktoras Vilhelmas Visvaldas Vladimiras Vygantas Vytautas Zydrunas
+		}
+
+		last_names = { Adamkus Almenas Avizienis Baltrusaitis Brazauskas Basanavicius Birutis Bradziunas Buga Ciurlionis
+		Danauskas Daukantas Dobkevicius Dubeneckis Dvarionas Galdikas Grinius Griskevicius Ivanauskas Jablonskis
+		Jucys Krupavicius Landsbergis Lozoraitis Merkys Paksas Paleckis Paulauskas Petrauskas Piskarkas
+		Pozela Radvila Sabaniauskas Schatz Simonavicius Sirvydas Slezevicius Semtona Snieckus Stauaitis
+		Straizys Stulginkis Svedas Terleckas Urbsys Vagnorius Valeska Voldemaras Zemaitis Zuokas
+		}
+	}
+	
+	union = PLC
+}
+
+czecho_slovak_culture_group = {
+	leader = european
+	unit = EuropeanGC
+
+	czech = {
+		color = {120 120 255}
+		first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
+		Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
+		Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
+		Konstantin Ladislav Luvík Matyas Maxmilián Mikulás Olbram Otakar Pavel Petr
+		Radola Rafael Tomás Václav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
+
+		last_names = { Albert Balaban Basch Breisky Celovskı Dvorák Fibich Gajda Gellner Hálek
+		Hrdlicka Jirecek Kadlec Kafka Koller Krízkovskı Kucera Kuchar Lederer Makosky
+		Mik Morávec Nemecek Neruda Novácek Novotnı Popper Radeckı Rokytanskı Safárik
+		Safránek Schack Schubert Skoda Skuherskı Smetana Snejdárek Suk Svoboda Syrovı
+		Tomásek Tyl Vitásek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek }
+	}
+	union = CZH
+}
+
+east_slavic = {
+	leader = russian
+	unit = RussianGC
+	russian = {
+		color = {0 70 10}
+                   first_names = { ÑÇÀúÉ½´ó °¢ÁĞ¿ËĞ» °²µÂÁÒ °²¶« ±«ÀïË¹ Ã·µÂ ·Ñ°Â¶à¶û ¸ùÄá¼¾ 
+                                 ÇÇ»ù ¹û¸êÀï ÒÁ¸ê¶û ÒÁ·² »ùÀï¶û ¿µË¹Ì¹¶¡ À­·ò¶û ÁĞ°ºÄáµÂ ÁĞ·ò Âí¿ËÎ÷Ä· 
+                                 Ã×¹şÒÁ¶û Äá»ùËş Äá¹ÅÀ­ °ÂÁĞ¸ñ ÅÁÎ¬¶û ±ËµÃ ÂŞÂü Ğ»ÁÎ¶û Ğ»¶û¸Ç 
+                                 ÍßÁĞÀï ÍßÎ÷Àï ÇĞ¶ûÅµÃ·¶û ¸¥À­»ùÃ×¶û ·ûÀ­µÏË¹À­·ò Ò¶¸ê¶û Ò¶·ò¸ùÄá ÓÈÀï }
+
+                   last_names = { .°¢ÁĞ¿ËĞ»¶û·ò .°²¶«Åµ·ò .°¢ÔúÂŞ·ò .°Í´ïÅµ·ò .²¼Â¬ÆõÅµ·ò .°ÍÁĞÄá .Æõ±ÈË÷·ò .µËÄá½ğ 
+                                  .µÂÀ­¸êÃ×ÂŞ·ò .¸¥ÂŞÂå·ò .¸êÀûÍò .¸ñÀïÇÕ .¹Å¶û¿Æ .ÒÁÍòÅµ·ò .¿ÆÄù·ò .¿µË¹Ì¹¶¡Åµ·ò .¿Æ¶ûÄáÂå·ò 
+                                  .¸ß¶û²ì¿Ë .¿ÆÂåÅÁ½ğ .À­ÔúÁĞ·ò .Âí¿¨ÂŞ·ò .ÃÅ½İ¸ê·ò .ÄÉ»ùÄª·ò .Äá²¨¸ê¶à·ò 
+                                  .Äá¹ÅÀ­Ò®Î¬Ææ .°ÂË¹ÌØÂå·òË¹»ù .°Í¸¦Âå·ò .¸ñÀû±«Ò®ÍÓ·ò .ÂŞÂüÅµ·ò .Âå»ùÎÂË¹»ù .Ë¹¿Â±ğÁĞ·ò 
+                                  .ËÕÍßÂå·ò .ËÕ¶û¿Æ·ò .Í¼¹şÇĞ·òË¹»ù .Ò¶¸êÂŞ·ò .ÓÈµÇÄáÆæ .ÎÖÁú×ô·ò .·üÂŞÏ£Âå·ò .×æÍß¿Æ }
+        }
+	union = RUS
+}
+
+baltic = {
+	leader = european
+	latvian = { 
+		color = {162 17 48}
+		first_names = { Aaron Abrams Alberts Aleksandrs Aloisz Andrejs Arkadij Armands Arnolds Atis
+		Brunis Bruno Eduards Eliass Elmars Emils Evgenijs Filips Fricis Gustavs
+		Heinrihs Hermanis Izaks Janis Jazeps Jekabs Johans Juris Karlis Krisjanis
+		Leo Mark Martins Mihails Mikelis Nikolajs Oskars Pauls Peteris Rihards
+		Roberts Romans Sandis Sergejs Valdemars Valerians Valter Vilis Vladimirs Zigfrids
+		}
+
+		last_names = { Abakovskis Apsenieks Balodis Baumanis Berkis Berzin Betins Braons Caks Cakste
+		Caps Celmins Dalins Dambitis Darzins "de Kolongs" Desslers Eizenteins Goppers Halsmans
+		Irbitis Kalnins Kalpaks Kucis Kovalevskis Krogzems Kronvalds Kuks Kviesis Lacis
+		Leiko Loskis Maters Matisons Meierovics Mihelssons Milenbahs Millers Needra Ozolins
+		Petrovs Plieksans Pumpurs Rothko Simanis Stucka Tumins Ulmanis Veidenbaums
+		}
+	}
+	estonian = {
+		color = {40 30 60}
+		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
+		Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
+		Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
+		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
+		Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
+		}
+
+		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
+		Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
+		Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
+		Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
+		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
+		}
+	}
+	union = UBD
+}
+
+levantine = {
+	leader = european
+	greek = {
+		color = {200 50 100}
+		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+	georgian = {
+		color = {70 110 70}
+		first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
+		Filipp Galaktion Georgi German Givi Grigol Ilia Ioseb Irakli Ivane
+		Jansung Jemal Kaikhosro Konstantine Leo Levan Luka Meliton Mikheil Murman
+		Nikoloz Noe Otar Polikarp Radish Revaz Sargis Sergo Shalva Solomon
+		Sulkhan Teimuraz Tingiz Vakhtang Valerian Vasil Vladimer Zakharia Zurab Zviad
+		}
+
+		last_names = { Abkhazi Amilakhvari Avalishvili Bagratuni Bakradze Balanchivadze Barakadze Chabukiani Chavchanadze Chkhubianashvili
+		Cholokashvili Chubinashvili Dodashvili Eliava Gabashvili Gokhieli Gordeli Javakhisvili Jugashvili Jugheli
+		Kakabadze Kandelaki Kartvelishvili Kavtaradze Kereselidze Khelaia Khvitia Kvinitadze Leselidze Maglakelidze
+		Makharadze Mazniashvili Mikeladze Muskhelishvili Nioradze Nutsubideze Otskheli Ramishvili
+		Razikashvili Sabinin Shanidze Sukhisvili Tabidze Takaishvili Tsereteli Tsintsadze Uznadze Zhordania
+		}
+	}
+	union = BYZ
+}
+
+turko_semitic = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	turkish = {
+		color = {250 55 55}
+		first_names = { 
+			°¢²·¶ÅÀ­ °¢²·¶ÅÀÕ¹şÃ×µÂ °¢²·¶ÅÀÕ¿¨ÀïÄ· °¢²·¶ÅÀÕÀ­Ï£Ä· °¬¹şÂõµÂ °¢»ù·ò °¢Àï °®¶û¸¥ 
+			°Í¹ş¶¡ °Í¼ª¶û ½ÜÂí¶û ¼ÖÍßµÂ ½ÜÀ­Â³¶¡ ½Ü·ò´úÌØ ´ïÎÚµÂ °£ÌØº£Ä· ¶îÃô ¶÷Î¬¶û 
+			·¨ºÕÀï ·Ñ·òÆë ·ÑÀïµÂ ¸£°¢µÂ ¹ş·Æ×È ¹şÄ·Ôú ¹şÀûÀÕ ¹şÀûÄ· ¹şÉ£ º£ÈçÀ­ ºúË¹Èô·ò
+			Ò×²·À­ĞÀ ÒÁË¹¿²µÂ¶û ÒÁË¹ÂíÌØ  ÒÁÔóÌØ ¿¨Ã×¶û ¿¨ÆæÄ· ¿­Ä©¶û Â¬ÌØ·Æ
+			Âí¹şÄÂÌØ Ä¬¹şÄªÌØ Ã×ÌØ¹şÌØ ÄÂºÕËş¶û ÄÂÀ­µÂ ÄÂÈø ÄÂË¹Ëş·¨ 
+			ÄÉÄ¬¿Ë ÄÉÆÄ· Å¬À×¶¡ Å¬Àï Å¬Âü °ÂÂí¶û °ÂË¹Âü 
+			ÅåµÏ·ò À­ÎÚ·ò À­¼Ö À­É³µÂ ÀÕ·Ñ Àï·¨ÌØ ÀÕÔú 
+			Èø°ÍºÕ¶¡ ÈøÀûµÂ É«ÀûÄ· Ğ»·ò¿ÂÌØ ÊæÂ³ ËÕÀ³Âü
+			ËşÀ­ÌØ Ìá±ğ íf·Æ¿Ë ÓÅËØ¸£ ÓÈÅ¬Ë¹ ÆëÑÇ ÆëÑÇ¶¡
+		}
+		
+		last_names = { 
+			±´ ÅÁÏÄ 
+		}
+	}
+	union = TUR
+}
+
+arab = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	mashriqi = {
+		color = {40 183 54}
+		first_names = { 
+			"°¢²·¶ÅÀ­" "°¢²·¶ÅÀÕ¿¨ÀïÄ·" "°¢²·¶ÅÀÕÂíÀû¿Ë" "°¢²·¶ÅÀÕ¿¨µÏ¶û" "°¢²·¶ÅÀÕÀ­ºÕÂü" °¬¹şÂõµÂ°¢Àï 
+			·¨Æë ¸»°¢µÂ ¹şÀûÀÕ ¹şÉ£ Ï£É³Ä· Ò×²·À­ĞÀ ÒÁË¹¹ş¸ñ ÒÀË¹¸Ê´ï ¼ÖÂí¶û ¿¨Ã×¶û ¹şÁ¢µÂ Âí¹şÃ¯µÂ
+			ÄÂº±Ä¬µÂ ÄÂË¹Ëş·¨ "Å¬¶û¶¡" "Èü¶ûµÂ¶¡" ÈøÀûÄ· Êæ¿ËÀï
+			ÌÕ·Æ¿Ë İ­Ä¬ ŠWË¹Âü ÑÅÑÇ ÓÅËØ¸£ Ôú·Æ¶û 		
+			}
+		
+		last_names = { 
+			"°¢ÄÉ±È" "°¢À³Ê°" "°¢Ë¹·¨Íß" "±¾ÔúµÙ" "·¨Ë¹" "¼ÖÀ­Äá"
+			"¼ÖÔúÀï" "Ã×ÄÉÊ²" "Ã×Ê²À­µÏ" "Ã×À­¿âÊ°" "¼Ó±ÈÊ°" "¿¨À­ÍßÄá" "Àî±´µÙ" "É³·¨çùÊ°"
+			"Ë¹À­Íß" "ËÕµÏ" "ËÕÈøÍß" "ÌáÀïÈöÄá" "Ì¹¼ÖÍß" "ËşÍßÄá" "¼Ö²¼Â³Ë¹" "Í¼Å¬Ë¹" 
+			"ÍßÀ­Äá" "ÍßØİÀï" "ÍßµÏ"
+			"ÒÁ±¾¡¤ °¢²·¶ÅÀ­" "ÒÁ±¾¡¤ °¢²·¶ÅÀÕ¿¨µÏ¶û" "ÒÁ±¾¡¤ °¬²·²®¿Ë¶û" "ÒÁ±¾¡¤ °¬¹şÂõµÂ" "ÒÁ±¾¡¤ °¢Àï"
+			"ÒÁ±¾¡¤ ¸£°¢µÂ" "ÒÁ±¾¡¤ ¹şÀûÀÕ" "ÒÁ±¾¡¤ ¹şÉ£" "ÒÁ±¾¡¤ Ï£É³Ä·" "ÒÁ±¾¡¤ ÒÁË¹¹ş¸ñ" "ÒÁ±¾¡¤ ¼Ó·¨" "ÒÁ²¼ ¿¨Ã×¶û" "ÒÁ±¾¡¤ ¹şÁ¢µÂ" 
+			"ÒÁ±¾¡¤ ÄÂº±Ä¬µÂ" "ÒÁ±¾¡¤ ÄÂË¹Ëş·¨" "ÒÁ±¾¡¤ ÈøÀûÄ·"   
+			"ÒÁ±¾¡¤ İ­Ä¬" "ÒÁ±¾¡¤ ŠWË¹Âü" "ÒÁ±¾¡¤ ÓÅËØ¸£"  
+			}
+		}
+	union = ARA
+}
+
+iranian_turanian = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	persian = {
+		color = {144 88 81}
+		first_names = {
+			°¢°ÍË¹ °¢²¼¿¨Î÷Ä· °¢²¼¶Å¶ûºîÈüÒò °¢²¼¶ÅÀ­É³ÂêµÂ °¢²¼¶Å¶ûÀ­×ÎÄ· °¬¹şÂõµÂ °¢Àï °ÍºÕÀ­Ä·
+			Ò×²·À­ĞÀ ÒÁË¹Ã·¶û  ·¨ÌØºÕ °¢Àï  ·¨×ÈÂ¬À­ ¹şÄ·Ôú ¹şÉ£ ºîÈüÒò ¿¨Ä·À¼ ¿¨ÀïÄ·  ÈáÌØ·Æ °¢Àï  
+			Âí¹şÃ¯µÂ ÂíËÕµÂ ÄÂº±Ä¬µÂ  ÄªÒò°®¶¡   ÄªÔú·¨°®¶¡  ÄÂÀ­µÂ ÄÂ¹şÏ£ÄË 
+			 ÄÉË÷°£¶¡  ÅµË¹À³ÌØ À×Ôú
+			}
+		last_names = {
+			°£ÂåÄ· °²ÈøÀï °¬ÈğÄ· ²¼ÔúÒ®Ã·Àï ´ïÍßÂ³ °¬Ë¹·¨¹şÄá ·¨¹şÄá 
+			¼Öº¹°àÄá ¿¦É½Äá ¿Éº¹ ¿âÔúÒÁ
+			Ã·Ğ»µÙ ÄÉĞ»ÍßÄá ²¨Ë¹ Âå¿ËÄá É³·ÑÒÁ É³°Í¿ËµÛ 
+			Ï£À­×È Ì©²®Àû×È ËşñRÉ³±È ÔúºÕµÏ
+			}
+	}
+	kazak = {
+		color = {83 102 46}
+		first_names = {
+			 °¢²·¶ÅÀÕ°¢¹şµÂ   °¢²·¶ÅÀ­¿¨ÀïÄ·   °¢²¼¼ÓÆë  °¢²¼·¨Ò®×È °¢ÀïÄ·¿Æ °¢ÆæÄ·  °¢À­ºÕÀ¥Àï  º£µÇ ºúÈüÒò 
+			ÒÁËşÔú ÒÁË¹·¶µÏÑÇ ¼Öºº¸ñ¶û ¹ÅµÂÑÇ Âü´ïÀû Âí¹şÃ¯µÂ ÄÂº±Ä¬µÂ ÄÂÀ­µÂ 
+			ÄÉË¹Â³À­  ÄÉËÕØİ¶¡  ÄÂÀ­Àû ÆÕÀ­µÂ ¿ËÀïÆæ ¹ÇßÍÂ» À­Ï£Ä· Ï£¶û İ­Ä¬ ÑÅµÏåÈ ÑÇ³ş²¼  
+			°¢²¼Àµ  °¢²¼-º£¶û  °¬ÁÕ ²¼¿ËÒÁ ÇÇ¿² 
+			´ïÎáÀ´Ìá ÒÁ²¼À­ÒÁ ÒÁÈøÌ© ÒÁÏ£Ä· ¼Öº¹¼¾ ¿ÏÒ×ÈöÀï 
+			ÂíÊ²ºú¶û ÄÂÀ­µÂ  Å¬¶û°¢Àï  ¼ÓÒÔÆÕ 
+			É³µÏ¿Ë É«ÀûÄ· ÈöÕ² 
+			ÌØÄÍ¿Ë ÍĞÉ½ ÍßÀï
+			°¢Ë¹¿¨¶û ÇÕ¼ª×È ÒÁÏ£Ä· ¿¨Î÷Ä· ¿â¶ûÂü ¼Öº¹¼¾ ÄÂÀ­µÂ ÄÉË¹ÈÈ¶¡ É³µÏ¿Ë ÍßÀï
+			°¢°ÍË¹ °¢²¼¿¨Î÷Ä· °¢²¼¶Å¶ûºîÈüÒò °¢²¼¶ÅÀ­É³ÂêµÂ °¢²¼¶Å¶ûÀ­×ÎÄ· °¬¹şÂõµÂ °¢Àï °ÍºÕÀ­Ä·
+			Ò×²·À­ĞÀ ÒÁË¹Ã·¶û  ·¨ÌØºÕ °¢Àï  ·¨×ÈÂ¬À­ ¹şÄ·Ôú ¹şÉ£ ºîÈüÒò ¿¨Ä·À¼ ¿¨ÀïÄ·  ÈáÌØ·Æ °¢Àï  
+			Âí¹şÃ¯µÂ Âí¹şËÕµÂ Ã×¶ûÔú ÄÂº±Ä¬µÂ  ÄªÒò¶û¶¡   Ä¬Ôú·Æ¶û¶¡  ÄÂÀ­µÂ ÄÂ¹şÏ£ÄË 
+			ÄÉµÏ¶û  ÄÉË÷°£¶¡  ÅµË¹À³ÌØ À×Ôú
+			}
+		last_names = {
+			°Í¹ş¶Å¶û ²¼¹şÀï º¹
+			±´  º¹  ¿×ÄÉ°ÙÎÚÀï   ¿âÌØ°ÍÎÚÀï   ÄÂº±Ä¬µÂÎÚÀï   ¼ÓÎ÷Ä·ÎÚÀï  
+			±´ 
+			º¹
+			}
+	}
+}
+
+central_asian = {
+	leader = asian
+	is_overseas = no
+	unit = MiddleEasternGC
+	mongol = {
+		color = {230 230 44}
+		first_names = { 
+               ²©ÀÕ¼ªµÂ °ÍÁÖ¼ªÒò Ë÷µÂÅµÄ¾ ºö±ØÁÒ °ÍÌØ¶î¶ûµÇ µÀ¸ñË÷Ä· ´ïÄ·½ğ »ô¶ûÂå ´ïÄ·±å 
+               ¹§Ö¥¼Öê° °Í´ïÄ·¶à ³É¼ªË¼ °ÂÌØ¸ù°ÍÑÅ¶û °ÍÌØ°ÍÑÅ¶û }
+
+		last_names = { 
+               ¸ü¶Ø °¢Âí¶û ²ßÂ×µÀ¶û¼ª ÍĞÄª°ÍÔú ´ïÄ¾¶¡°ÍÔú¶û ²©¶à ËÕºÕ°ÍÍĞ¶û ¼ÖÄ·ÑÕ ÇÇ°ÍÉ½ Ôú´ïÒ®·ò
+		}
+	}
+}
+
+south_asian = {
+	leader = indian
+	unit = IndianGC
+	marathi = {
+		color = {190 220 10}
+		first_names = { Venkatji Shahuji Pratapsinha Rajaram Shivaji Shambhaji Balaji Bajirao Madhava Narayan Raghunath Sawai 
+		}
+		last_names = { "Appa Sahib" "Bowa Sahib" Phadnis Narayan Rao Ballal "Baji Rao" Bhat
+		}
+	}
+	union = HND
+}
+
+southeast_asian = {
+	leader = asian
+	unit = AsianGC
+	vietnamese = {
+		color = {23 99 12}
+		first_names = { "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran 
+		}
+		last_names = { "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep" "Mien Lam" "Mien Trinh" "Buu Lan"
+		}
+	}
+	malay = {
+		color = {85 78 89}
+		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
+		}
+		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
+		}
+	}
+	filipino = {
+		color = {200 220 30}
+		first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
+		}
+		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano     
+		}
+	}
+	burmese = {
+		color = {99 87 27}
+		first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
+		}
+		last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
+		}
+	}
+	asian_minor = {
+		color = {99 150 72}
+		first_names = { Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
+		}
+		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
+		}
+	}
+}
+
+east_asian = {
+	leader = asian
+	unit = ChineseGC
+	japanese = {
+		color = {230 230 230}
+		first_names = {
+		ÓĞÅó
+		ÎåÀÉ Ô´Ì«ÀÉ È¨±øÎÀ
+		Æ½°ËÀÉ ¹ãÖÎ ÑåÖ®Ø© ±øÎÀ ÔçĞÛ
+		ÑÒÄĞ
+		´ÎÀÉ ÈÊÈıÀÉ
+		ÇåÂ¡ ²ØÖ®Öú ¿âÔì ¿±Ì«ÀÉ Ğ¡Ò»ÀÉ ¾°¼Í ÇåĞ¢ ¾°ÕÑ ÑÔÈË Æô½é ºÍÖØ ½¡¼ª
+		Ï£µä Òæ´ÎÀÉ µÀ¼Ã ÕıÒã ¹â³¼ ÈıÎÀ ·åĞÛ
+		³ÉÃ÷ ĞÅÒå
+		ÁùÀÉ
+		ÓÓÖ® ÓÓÒå ²ıØ· ×¡¼ª ×óÂíÌ« ×¯Áù ÆßÀÉ ÖØÈË Íâ¼ª Ã¯Áô Õê·ò ½ú×÷
+		Ğ¢Òå Â¡Ê¢ ÀûÍ¨ ´ÓµÀ ÖÒ¹ú ÓÑÖ®Öú Ì«ÀÉ Àû¼ª ÌúÌ«ÀÉ ×ãÈË ÎäÕÑ Îª±¾ ÅîÈıÀÉ
+		¼ªºØ ÒåĞÅ ÒåµÀ ¼ªÌï ¿µÏÍ ÃÖ°Ë ÓÎ×÷ ºÃ¹Å Òåµä ¿µÒå
+		}
+		last_names = {
+		ÓĞÆÜ´¨ ÓĞµØ ÇïÉ½ »ÄÄ¾
+		³öÓğ
+		½­±¾
+		³¤¹È´¨ ±¾×¯
+		ÒÁÌÙ ¾®Ö®ÉÏ Ò»»§ °åÔ«
+		³Ç»§ ºÚÌï ¹ğ ¶ùÓñ ÆÑÉ½ ´¨´å ºÚÄ¾ ´¨ÉÏ ÉÏ´å Æ¬¸Ô ÉÏĞÛ ¼ÓÌÙ ¼ÓÈÎ ¼Ó½ò
+		ÄÁÒ° ÎäÌÙ ÄÏ ÕıÄ¾ ËÉÆ½
+		ÖĞÄ²Ìï ÄËÄ¾ ÈÊÀñ Ò°½ò
+		´ó¾Ã±£ Ğ¡É½ Ğ¡´å Ğ¡¾Ã ¸ÔÌï ÓùÓç
+		Î÷ºó ÁåÄ¾ ×ôÌÙ ×ô²Ö ²ñÉ½ µº´å °×´¨
+		¶«Îá ¸ßµº Æº¾® Á¢»¨ ËÂÄÚ ¶àÎÅ ¸ßÉ¼ µÂ´¨
+		ÉÏÔ­ ÓğÁ¢ ÓîÔ« ÉÏÌï
+		É½ĞÎ É½±¾ É½´¨ ¹È´ú ÓÉ¾® É½ÏÂ É½Îİ
+		}
+	}
+	korean = {
+		color = {87 89 25}
+		first_names = { Àî ÕÔ ÆÓ Òü Éò ½ğ ºé Ğì Ö£ È¨ º« 
+		}
+		last_names = { »¸ ÖÒ ºà ĞÂÍ¤ »Æ ´Ş Ôó ÉÆ Ê½ ¼¯ ¹ú ÄÀ ±¦ ÓÀ Ë³ ¹ç »§
+		}
+	}
+}
+
+china_union = {
+	leader = asian
+	unit = ChineseGC
+	beifaren = {
+		color = {145 30 30}
+		first_names = { 
+		Íõ Àî ÕÅ Áõ ³Â Ñî »Æ ÕÔ ÖÜ Îâ Ğì Ëï Öì Âí ºú ¹ù ÁÖ ºÎ ¸ß Áº Ö£ ÂŞ ËÎ Ğ» ÌÆ º« ²Ü Ğí µË Ïô  
+		·ë Ôø ³Ì ²Ì Åí ÅË Ô¬ ÓÚ ¶­ Óà ËÕ Ò¶ ÂÀ Îº ½¯ Ìï ¶Å ¶¡ Éò ½ª ·¶ ½­ ¸µ ÖÓ Â¬ Íô ´÷ ´Ş ÈÎ Â½ 
+		ÁÎ Ò¦ ·½ ½ğ Çñ ÏÄ Ì· Î¤ ¼Ö ×Ş Ê¯ ĞÜ ÃÏ ÇØ ÑÖ Ñ¦ ºî À× °× Áú ¶Î ºÂ ¿× ÉÛ Ê· Ã« ³£ Íò ¹Ë Àµ 
+		Îä ¿µ ºØ ÑÏ Òü Ç® Ê© Å£ ºé ¹¨ Å·Ñô Ë¾Âí »Ê¸¦ ¶«·½ ¹«Ëï  
+		}
+		last_names = {
+		ÎÄ ĞË ÈÊ ²ı º£ »ª Õñ ³å Òµ Î° ½Ü ¿¡ Çà Îä µÂ ìÇ ²© °² °º ºÀ Ôó ¿­ ±ó µ¤ çå Îõ À× Åà Ïè èå 
+		Ô½ Àè Ö¹ ÑÏ íµ Ö¾ ĞÛ î£ ½¨ Ô¨ ³Ï Òå ĞÅ ÕÜ Óî ºë å« Ã¯ ºÆ è¤ »Ô ±ò ³½ Ğñ ¼á È» ·å ¾û ¸Õ ¾¢ 
+		Èª ¶« ÖÒ Æ½ ¿µ Èğ Ïé ÊÙ Ì© ÓÂ ÓÀ ºÍ ĞÂ Ôª ¹ã ´ï ËÉ ½­ ·² Óğ ¶° ÑÓ Á¬ Óñ Í¥ Çğ Ê¤ ³¬ Â× ¸£
+		Òã Ó¢ ½¡ Ãñ Òİ ÁÁ ¶Ø Ò« Ãô ÇÚ å¹ ìÏ Ô­ ½ø ÀÚ Åô ê» Õş öÎ Ä¬ ÑÔ Ñå Ã÷ ÌÎ Ç¿ ¾´ É÷ è± ç÷ Èó
+		³½Òİ ºÆÓî ğ©Ğù ÖÂÔ¶ ÎÄ²© ÌìÓÓ Î°Ææ ĞŞÎÄ Ö¾Ôó ºëÎÄ î£Ô¨ ×Óå¹ Ñ×±ò Ã÷»Ô Î°³Ï ÅôÌÎ ÕıºÀ ºÆÈ»
+		Á¢³Ï ºº½Ü ¼ÃÃñ ÈğÔ¶ Ö¾Ç¿ ÎÄĞù Ñ§ÖÒ ÌìÓî Åô·É ÒİÖ® µÂÃ¯ ½¨¹ú ÓĞ¸ù ¹â×Ú ÎÄĞÅ Õñ»ª ¼Ì×æ ¹ãËÃ
+		Ğ¢ÏÈ ¾şÎ° Ö¾¼á ÌìºÆ Ğñ¶« Ã÷Óğ ¼Òçå ³¤Ê¤ ³É»ù ¹úÁº Ó¦ÈÙ ¿ªÌ© ÔªÇì ¼Ò¶° ¼ÃÊ± ÉÙ¿µ ÓñºÍ ººÏé
+		ÓàÇì ÔÆÌì Ï£ÎÄ ³ĞÒµ ÊØÒµ ÁèÔÆ Ò«×æ ãåÔó Á¦³É ÇàÓğ ÎÄÁú Á¢å· Óñºã Ììºâ ÓÀ²¨ º£Ãù ×¿³É ±¦ì§
+		×Ú²ı ½¨ÇÚ ¼ÑÒ» ĞÂÎä ÑÓÎõ Îä³¼ ÖÒĞÅ µÂ¸£ Ñ©ËÉ ÔóÇä Òİºã ÔóÔ¨ ËàÒã Ã¯Ô¨ Ã÷Îµ Òİ³¼ ÌìÖù öïÅô
+		Á¢ĞÂ ºé½¨ ÏşÃ÷ º£·å Ö¾Ïè ³ş²Ä Æä²ı ÓîÍ¬ ÇïÉú Ë¼ÑÔ ·áÔ¶ ¼ÒÅô ¿¡ºÀ ÕòÓî ¼Îç÷ ŞÈ»Ô ¼ÒÃ¯ ³ÉöÎ
+		ÒæÃ÷ Ìì³É ºëÑå å°Ã÷ ³É¸¦ ÓÀ¿µ ÆôÃ÷ ÅàµÂ ¶Ë¿ü ÏÜÖÒ ´æÖ¾ ³ÉÉÆ Ãîº­ Ò«Îä ºê´ï ÀÖÑÔ ½¡Ïè Ö®çù
+		½õºè ×ÓÏé ÎÄÇ¿ ºÆÄÏ ±¨¹ú ¼ÑÄş Ãú¾Ã ÉÙè¤ ÑÅ±ö Ë¼º² »İÇå ÔÆ·å ÁéÉ­ ÊÀ½Ü ¹âÒ« Ã÷Àñ ¾´ÏÍ ÕñÒÂ
+		}
+	}
+	manchu = {
+		color = {245 255 160}
+		first_names = { Âí µË ÕÔ Ù¡ ¹Ø ÷¡°İ Ë÷Äá Ë÷¶îÍ¼ ËÕ¿ËÈø¹ş Ã÷Öé ÄÉÀ¼ ¸£ ºÍÀ¤ ³£ÁÖ
+		}
+		last_names = {Õ¼É½ ÌúÃ· ÉĞÖ¾ ÷ë¸ó ÏòÓ¦ ĞÔµÂ ¿µ°²
+		}
+	}
+	tibetan = {
+		color = {99 43 89}
+		first_names = { 
+			²ÁÈÙ ÇÕ°Í ³àÃÅ ±´Åµ ¸ü¶Ø ÊY°Í²ßÁÖ ÂŞ²¼ Ã×ÅÓÈÊ²¨ÇĞ ×Î±¾ °²µÂÂ³¿É ÄÏ½­ 
+		}
+		
+		last_names = { 
+               ÔıÈø Íú½Ü µ¤Öé¶û ÁúÏÄ ÈÊ²¨ÇĞ ÏÄ¸Â°Í ÔúÎ÷ 
+		}
+	}
+	uighur = {
+		color = {92 96 168}
+		first_names = { 
+			°Â·¨Ææ °¬¹şÂõµÂ °¬¶ûÉ³µÂ °Í¹şÒ®¶¡ °ü¶ûºº ´ïÎÚµÂ ¹ş»ùÄ· ºúÈüÒò ¿­Ä©¶û Âí¿ËËÕµÂ ÄÂº±Ä¬µÂ ÄÂÈø À­Ê°¶¡ ÈöÍ¼¿Ë ÌûÄ¾¶ù ÑÇ³ş²¼
+			}
+		last_names = {
+			±´¸ñ º¹
+			}
+	}
+	union = CHI
+}
+oceanic = {
+	leader = nativeamerican
+	is_overseas = no
+	polynesian = {
+		color = {89 35 168}
+		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
+		}
+		last_names = { Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
+		}
+	}
+}
+
+native_american = {
+	leader = nativeamerican
+	is_overseas = no
+	mayan = {
+		color = {98 88 142}
+		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	quechua = {
+		color = {178 141 85}
+		first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
+		Francisco Gustavo Hilario Inca Isaac "José María" Julio Lorenzo Manuel Marcos
+		Mariano Martín Nicolás Osvaldo René Roberto Simón Túpac Ulises Víctor }
+
+		last_names = { Arguedas Barrientos Cajahuanca Canchata Chambi Chihuán Cusurichi Espejo Frisancho Gamarra
+		Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
+		Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
+	}
+	native_american_minor = {
+		color = {68 55 88}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
+american_cultures = {
+	leader = european
+	is_overseas = no
+	yankee = {
+		color = {65 65 129}
+		first_names = { ÑÇµ± ÑÇÀúÉ½´ó ÍşÁ® ºàÀû Ã×Ğª¶û ÈøÄ¬¶û Ô¼ÊéÑÇ ÇÇÖÎ Ô¼º² ÂíĞŞ Âí¿Ë Â¬¿Ë Â¬¿¨Ë¹ ½Ü¸¥Àï ÓÈÀïÎ÷Ë¹
+		    Ô¼Éª·ò ²éÀí Â³Èû¶û ±¾½ÜÃ÷ ÂŞ²®ÌØ ¿ËÀïË¹ÍĞ¸¥ Àí²éµÂ ÇĞË¹ÌØ À­·¨Ò¶ ÄÉÈöÄá¶û ¸¥ÀÊÎ÷Ë¹ Õ²Ä·Ë¹ ÌÆÄÉµÂ ÈüÂ³Ë¹ °²²¼ÂŞË¹
+				°®µÂ»ª ÓÈ½ğ °Â¹ÅË¹ÌØË¹ Åµ¶Ù °¢²¼ÄÉ ÒÁÈø¿Ë °¢ÄªË¹ ÍĞÂíË¹ À¼µÀ·ò
+		}
+		last_names = { Ê·ÃÜË¹ »ªÊ¢¶Ù ¸ñÀ¼ÌØ Ğ»¶ûÀ¼ ÕÅ²®Â× ±«Íş¶û ¿ËÀ³ÃÅË¹ °¢²®ÌØ °¢Â× °¢Ã·Ë¹ °²µÂÉ­ °Í¿ËºÀ¶û °²µÂÂ³ °¢ÆÕÀ³¶Ù
+		    °¢Ä·Ë¹ÌØÀÊ °¢Éª °¢ÌØ½ğË¹ °¢Ë¹²¨Ë¹ °Í²¼¿â¿Ë ±´¿Ë ÆÑ°Ø °à¿ËË¹ ²®ÄÉµÂ ²®¶÷Ë¹ °ÍÀï °ÍË¹ÍĞ·ò °ÍÌØÀ³ÌØ °ÍÌØË¹
+				°Í¿ËË¹ÌØ ±´µÙ ±´¶ûÄÉÆÕ ±¾¶Ù ²¼À³¶û ²¼Â×ÌØ ²¼À×µÂÀû ²¼ÀÊ ²¼¸£µÂ ²®¶÷ÈüµÂ °ÍÌØÀÕ ¿¨µÂÍş¶û ¿²±´¶û ¿¨¶û 
+				²éÆÕÂü ÆæÆÕÂü ¿ËÀ³¶Ù ¿Æ²¼¶÷ ¿µÄÉ ¿µÀ­µÂ ¿â¿Ë ¿â²® ¿ËÀïÌÚ¶Ù ¿âË¹ÌØ ´÷Î¬Ë¹ ´ïÎ¬Ë¹ ´ï²®¶û´÷ÒÁ °£ÎÄ ·¨¶÷ÎÖË¹
+				¸£ÌØ ¸£Ë¹ÌØ ¸»À¼¿ËÁÖ ¸»Àû ¼ª¶û²®ÌØ ¸ñÀ×¸ñ ¸ñÀï·Ò ¹şÀ×¿Ë ºº¿¼¿Ë ¹şÀïÉ­ ¹şÆæ º£Ò®Ë¹  
+				ºú¿Ë »ô»ªµÂ ºàÌØ ½Ü¿ËÑ· Ô¼º²Ñ· ÇíË¹ ¿­Ò®Ë¹ ½ğ±´¶û À³°º Âó¿Ë°¢Éª Âó¿ËÀ³À¼ Âó¿¼¿Ë Ã×ÇĞ¶û
+				Ä¦¸ù Åå¶÷ ·Æ¶ûÆÕË¹ ²¨ÌØ À×ÅµµÂ À³Ë¹ ÂŞµÂË¹ ÂŞ±öÑ· ÈøÂŞÂü Ë¹¿ÆÌØ
+				Ğ»ÀïµÇ Î÷¿Æ¶ûË¹ Ë¹ÆÕÀ­¸ñ Ë¹µÙ·ÒË¹ Ë¹µÙ·ÒËï Ë¹Í¨ ËÕÀûÎÄ Ì©ÀÕ Î¤µÂ Î¬ÄÉ
+				Íş¶ûÑ· À³ÌØ Ñî 
+		}
+	}
+	dixie = {
+		color = {129 129 129}
+		first_names = { ÂŞ²®ÌØ ½ÜÎ÷ Õ²Ä·Ë¹ ÇÇÖÎ Ô¼º² ÅÁÌØÀï¿Ë °¢¶û²®ÌØ ²¼À³¿ËË¹¶Ù ÍşÁ® °²²¼ÂŞË¹ Àí²éµÂ
+		ÁõÒ×Ë¹ °£µÂÃÉµÂ À³°ºÄá´ï ±¾½ÜÃ÷ Î¤µÂ µ¤Äá¶û ÍĞÂíË¹ ÇÇÄÉÉ­ Ë¹Í¨ÎÖ ÀÕÂí¶û Ë¹ÌØÁÖ À­ì³¶û »ù¶û±È Æ¤°£¶û 
+		ÇÇÄÉË¹ ¸¥À¼¿Ë ²éÀí Æ¤ÌØ À¼µÂ À×Ë¹Àû »ô»ªµÂ ÂíÎÄ °ÂË¹¿¨ ºàÀû Î÷ÃÉ °®µÂ»ª ÒÁÈø¿Ë °¬·²µÂ °¢¶û¸¥À³µÂ 
+		·Æ´ÄĞİ ¿¨ÅµÌØ Íş¶û¶Ù
+		}
+	
+		last_names = { Àî ½Ü¿ËÑ· Ô¼º²Ñ· ²©ÀÕ¼ÓµÂ Ë¹Í¼ÑÇÌØ ÀÊË¹´ŞÌØ ¸£À×Ë¹ÌØ Æ¤¿ËÌØ ÄªË¹±È ¿ËÀû²®¶÷ ºúµÂ ²¼À×¿ÏÀïÆæ ²¼À­¸ñ
+		°Í¿ËË¹´ï¶û ¶òÀû Ï£¶û Ä¦¸ù °¢Ã×Ë¹µÙµÂ Ê·ÃÜË¹ ººÆÕ¶Ù ²¨¶û¿Ë ÆæËşÄ· Î¬ÀÕ ¸êµÇ ¸¥ÂåÒÁµÂ ÆÕÀ³Ë¹
+		Î¬Ë¹ ·¶¶à¶÷ ÂåÁÖ Ì©ÀÕ ÍşÁ®Ä·Ë¹ ¼ª²¼Ë¹ ĞÁµÂÂü °²µÂÉ­ Ï£¶û±È ¼ÓÄÚÌØ Æ¤Âå Âó¿ËÀÍË¹ ÂŞµÂË¹ 
+		¿ËĞ¤ ÎÖ¸£µÂ ÀÍ ¿²ÆÕ¶û ÂŞ²®É­ ±¾Äş ÎÖ¿Ë¶û À³ÌØ 
+		´ïÎ¬Ë¹ À³¶÷ ²¨ÈûÒÁ Ë¹¿¨¶ûË¹ ½Ü½ğË¹ 
+		}
+	}
+	union = USA
+}
+
+latin_american_cultures = {
+	leader = southamerican
+	is_overseas = no
+	mexican = {
+		color = {51 117 62}
+		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
+		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
+		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
+		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
+		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
+		}
+		last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+		Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
+		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
+		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
+		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+		}
+	}
+	central_american = {
+		color = {101 164 172}
+		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
+		Daniel Diego Doroteo Eduardo Eugenio Felipe Félix Fermín Fernando Francisco
+		Fruto Jacobo Jesús Joaquín Jorge "José Francisco" "José María" Juan "Juan Antonio" "Juan Pablo"
+		Julio Justo Lisandro Lorenzo Manuel Marcelino Maximiliano Máximo Óscar Pedro
+		Ponciano Próspero Rafael Ramón Santiago Sebastián Tiburcio Tomás Toribio Victoriano
+		}
+		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabañas Cárdenas Carrera
+		Castellanos Chamorro Chávez Corral Escalón Esquivel Estrada Ezeta Fernández Ferrera
+		Figueroa Garrigó Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
+		Medina Mejía Menéndez Montes Montiel Morazán Palacios Peralta Quiros Regalado
+		Rosales Sevilla Sinibaldi Soto Terán Ubico Vasconcelos Vigil Zelaya Zeledón
+		}
+	}
+	north_andean = {
+		color = {146 156 116}
+		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
+		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
+		Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
+		"José Manuel" "José María" Juan "Juan José" Julián Julio León Manuel Pedro Plácido
+		Rafael Raimundo Ramón Ricardo Rodolfo Santiago Santos Tadeo Tomás Vicente
+		}
+		last_names = { Alfaro Andueza Arboleda Blanco Bonnet Boyd Caamaño Carreño Carrión Castro
+		Chiari Cordero Crespo Daza "de Herrera" "de Mosquera" "de Obaldía" "de Olmedo" "de Veintemilla" "de Villamil"
+		Falcón Flores García Gómez González Gual Gutiérrez Herrán Hurtado López
+		Mallarino Manjarrés Mariño Melo Monagas Moreno Núñez Obando Páez Porras
+		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldúa
+		}
+	}
+	south_andean = {
+		color = {116 156 146}
+		first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
+		Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
+		Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
+		"Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
+		Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
+		}
+		last_names = { Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
+		Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
+		Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau
+		Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
+		Pezet Rebolledo Ruíz-Tagle Salaverry "Santa María" Siles Sotomayor Toro Valencia Zañartu Zapata
+		}
+	}
+	brazilian = {
+		color = {0 112 66}
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+}
+
+african_diaspora_cultures = {
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	afro_american = {
+		color = {42 42 42}
+		first_names = { Aaron Alexander Andre Benton Caesar Cathay Charles Colin Ebenezer Edgar
+		Edward Frederick George Henry James Joseph Lewis Lloyd Matin Michael 
+		Milton Osborne Pinckney Powhatan Robert Samuel Stewart Thomas William Wilson }
+	
+		last_names = { Anderson Antoine Augusta Basset Beaty Blake Brooks Brown Cailloux Carney
+		Delany Douglass "Du Bois" Fields Flipper Gardner Griffin Hawkins Holland Jackson
+		King Mink Nell Pinn Ratcliff Remond Smith Stukes Tubman Veale }
+	}	
+}
+
+southern_african = {
+	leader = african
+	is_overseas = no
+	unit = ZuluGC
+	zulu = {
+		color = {0 0 0}
+		first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho Chekandino Chikumbu Chisisi Kapendi Linje Lukongolo Mapira Masibuwa Ndembo Ngolinga Ngombe Thenga Umi Utni Citiwala Kajombo Mbiya Mthuthuzeli Nolizwe Nonceba Paki Sipliwo Themba Uuka Thandiwe Khama Bathoen Sebele Baruti Boipelu Gaone Kabelo Kedikilwe Kefentse Thabo Tale Mothudi Mosegi Mowen Moetapele Molefi Turnelo Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Letsie Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Zuka Sundai Tichawonna Sekayi Runako Petiri Pepukayi Mwanyisa Muchaneta Mashama Mboro Goredenna Gamba Chionesu Chinouyazue Banga Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Kakembembe Ciponge Cikunyu Kinya Nguvenge Kayangula Kahala Cingi Ngelo Ciasungu Kapoko Vilombo Hungulu Livonge Wambu Kinjikitile Fambaltate Songea Ebabruma Mputa Mbemchapa Atepa Matola Magobi Rjoroza Wasesse Rinyizea Chapwanya Chakoma Kapola Kapungu Kindunda Kinjalla Kiwanga Mahengu Mburu Mhavanginonya Namkina Ngosingosi Schabruma Sentambandu Uawula Ulanga Radama Rainilaiarivony Rabiby Andriamanely Ndriantompoinairivo Tonanahary Ratsimivila Ramasoandro Andriantsirotso Lamboina Tsialana Tsimiharo Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Naresib Gabeb Gorakhab Oasib Na-khom Tsawub Gaob Hanab O-Naib Khaub Khomab Hab Samuel Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+		}
+
+		last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha Hlatshwayo Ntabeni Mgayi "Gwaza Jere" Mmbelwa Mwamba Cimtunga Behle Dosini Dlamini Gqunu Gxarha Hegebe Khawatu Khumalo Kwayi Maduna Qadi Rhadebe Ncuthu Mpemvu Sikhosana Xesibe Zangwa Bakgatla Bakwna Balete Bamangwato Bangwaketse Barolong Batawana Batlokwa Batsapong Bakgalakgadi Bakalaka Nyondo Muyila Kalagho Malokotela Sibale Chizimu Kayuni Panja Moshoeshoe Lerotholi Masopha Matsaba Leabua Mamohato Mzilikazi Lobengula Mlimo Soshangane Magaya Kwenda Muhuru Maraire Mutiwapangome Cipfumba nyasoro Cimininyambo Kandeya Dambamupute Vasovava Hundungulu Njambayamina Ndunduma Cilemo Kanene Kaneketela Yale Cinene Kiapungo Kacingangu Kapusukusu Cimbungu Ngwale Farhenga Chimai Amari Kwira Mtemi Hanga Mwanawalifa Mbano Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka "Muhammad Raja" Muhammad Raja Uthman Usufu Mukusedi Molidi "Umkubu Muntu" Marave "Ali Ibrahimu" Muhsini Camakama Mugosirima "Bwana Mkuu" Usufu "Musa Quanto" "Bari Bwana" Hamab Khomaa Khaumab O-Naimab Hanamab Gamab Nakhomab Manassee Oasmab Maharero Witbooi Tjavikwa Tjimba Hakawona vaKuvale vaZemba Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
+		}
+	}
+}
+
+bears = {
+	leader = polar_bear
+	unit = EuropeanGC
+	polar_bears = {
+		color = { 200 200 200}
+		first_names = { Nanuk Ursus Isbjorn Grrrowr Bjorn Grrgrrr Rawr Bamse }
+		
+		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
+	}
+	union = SCA
+}

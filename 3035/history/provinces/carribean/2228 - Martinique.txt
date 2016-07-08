@@ -1,0 +1,15 @@
+owner = HAI
+controller = HAI
+add_core = HAI
+trade_goods = cotton
+life_rating = 35
+
+
+1861.1.1 = {
+	naval_base = 1
+}
+1861.1.1 = {
+owner = UCA
+controller = UCA
+add_core = UCA
+}

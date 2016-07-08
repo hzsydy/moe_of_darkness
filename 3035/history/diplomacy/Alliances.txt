@@ -1,0 +1,85 @@
+alliance=
+	{
+		first="BOL"
+		second="PEU"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+	
+alliance=
+	{
+		first="CHI"
+		second="KOR"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="RUS"
+		second="FIN"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="EGY"
+		second="IRQ"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="LIT"
+		end_date="1856.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="UBD"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="CRI"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="YUG"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="AUS"
+		second="VEN"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="PRU"
+		second="BUL"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="HDJ"
+		second="EGY"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}
+alliance=
+	{
+		first="HDJ"
+		second="IRQ"
+		end_date="1936.1.1"
+		start_date="1830.1.1"
+	}

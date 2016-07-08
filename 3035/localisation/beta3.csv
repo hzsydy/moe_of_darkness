@@ -1,0 +1,25 @@
+#;;;;;;;;;;;X
+COLONIAL_RANGE;Ö³Ãñ¾àÀë£º§G+$VAL$§W;;;;;;;;;;X
+MODIFIER_LOCAL_SHIP_BUILD;±¾µØ½¢´¬ÖÆÔìÊ±¼ä;;;;;;;;;;X
+CB_ALLOWED_ANNEX;ÔÊÐíÍÌ²¢;;;;;;;;;;X
+CB_ALLOWED_ADD_TO_SPHERE;ÄÉÈëÊÆÁ¦È¦;;;;;;;;;;X
+CB_ALLOWED_RELEASE_PUPPET;ÊÍ·Å¿þÀÜ¹ú;;;;;;;;;;X
+CB_ALLOWED_STATUS_QUO;·µ»ØÔ­×´;;;;;;;;;;X
+CB_ALLOWED_TRANSFER_PROVINCES;¸îÈÃÁìÍÁ;;;;;;;;;;X
+CB_ALLOWED_PRESTIGE;½µµÍÍþÍû;;;;;;;;;;X
+CB_ALLOWED_CONCESSION;³ÐÈÏÊ§°Ü;;;;;;;;;;X
+MAINTENANCE_DESC;Î¬³ÖËùÐèÎï×Ê£º;;;;;;;;;;X
+MISSING_MAINTENANCE;¹¤³§È±·¦Î¬³ÖÎï×ÊÊ±²ú³ö»á½µµÍµ½§R$PERC$§W;;;;;;;;;;X
+PROCEED;Í¬Òâ;;;;;;;;;;X
+ENDGAME_HEADLINE;ÓÎÏ·½áÊø;;;;;;;;;;X
+ENDGAME_DESC;¹Ø¼üµÄÒ»°ÙÄêÒÑ¾­¹ýÈ¥£¬ÎÒÃÇ½øÈëÁËÏÖ´úÉç»á£¬\nÄãµÄ¹ú¼Ò×¼±¸ÔõÃ´Ãæ¶ÔÕâ¸öÒÑ¾­±äµÃÍêÈ«²»Ò»Ñù\nµÄÊÀ½çÄØ£¿;;;;;;;;;;X
+NEEDS_BOUGHT;Ô¤¹À±¾ÈÕÐèÇó£º;;;;;;;;;;X
+TOTAL_NEEDS_BOUGHT;Ô¤¹ÀÐèÇó»¨·Ñ£º;;;;;;;;;;X
+TOTAL_SOLD_FOR;×òÌìÎÒÃÇÉú²úÁË$NUM$µ¥Î»µÄ§Y$GOOD$§W£¬½«Æä³öÊÛ»ñµÃÁË$CASH$¤ ;;;;;;;;;;X
+COULDNT_AFFORD;¹¤³§Ã»ÓÐ×ã¹»µÄ×Ê½ð¹ºÂò×òÌìµÄËùÓÐÊäÈëÆ· ;;;;;;;;;;X
+INPUT_LACKING;ÊÐ³¡ÉÏÃ»ÓÐ×ã¹»µÄ§Y$GOOD$§WÂú×ã¹¤³§µÄÊäÈëÆ·ÐèÇó;;;;;;;;;;X
+OUTPUT_WASTED;$PRODUCED$µ¥Î»§Y$GOOD$§WÖÐÓÐ$NUM$µ¥Î»×òÈÕÃ»ÓÐÊÛ³ö;;;;;;;;;;X
+TRADE_CONFIRM_DESC;ÉèÖÃÊÖ¶¯Ã³Ò×ÒâÎ¶×ÅÎÒÃÇ¿ÉÄÜ×îÖÕÒªÒÔ´û¿î¹ºÂòÎï×Ê;;;;;;;;;;X
+BUDGET_TAX_EFFICIENCY;Ë°ÊÕÐ§ÂÊ£º§Y$VALUE$%§W;;;;;;;;;;X
+BUDGET_TAX_EFFECT;ÓÐÐ§Ë°ÊÕ£º§Y$VALUE$%§W;;;;;;;;;;X
+LEADERSHIP_EFFECT;Áìµ¼Á¦£º§G$VALUE$§W\n;;;;;;;;;;X

@@ -1,0 +1,280 @@
+country_event = {
+	id = 100000
+	title = "for freedom"
+	desc = "One World One Dream"
+	trigger = {
+	           NOT = {
+                    has_country_modifier = for_freedom
+             }
+             OR = {
+                   tag = ENG
+                   tag = FRA
+                   tag = USA
+                   tag = RUS
+                   tag = CHI
+                   tag = JAP
+                   tag = PRU
+                   tag = ITA
+                   tag = POL
+                   tag = NET
+                   tag = SCA
+                   tag = BAB
+                   tag = NGF
+                   tag = SGF
+                   tag = GER
+                   tag = AUS
+                   tag = BYZ
+                   tag = CSA
+                   tag = ARA
+                   }
+            }
+	major = yes
+	option = {
+		name = "One World One Dream"
+		add_country_modifier = {
+			name = for_freedom
+			duration = -1
+		}
+	}
+}
+country_event = {
+	id = 100001
+	title = "for freedom"
+	desc = "One World One Dream"
+	trigger = {
+		         prestige = 100
+		         is_greater_power = yes
+	           NOT = { has_country_modifier = for_freedom }
+		         revolution_n_counterrevolution = 1
+            }
+	major = yes
+	option = {
+		name = "One World One Dream"
+		add_country_modifier = {
+			name = for_freedom
+			duration = -1
+		}
+	}
+}
+#195001-195006,add buff
+#195011,remove buff
+#感谢海内存义提供的这一思路，诸神吸纳后将其修改为只对AI生效，如果玩家瞎搞……不要怪我不给你BUFF啊……
+#A WEALTHY EMPIRE1,when has pirvate banks
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 15 percent personal income tax,to improve people's living standard of our people and to encourage development of pirvate banks."
+	id = 195001
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		private_banks = 1
+		NOT = {
+			stock_exchange = 1
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire1
+				duration = 365
+		}		
+	}
+}
+#A WEALTHY EMPIRE2,when has stock_exchange
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 25 percent personal income tax,to improve people's living standard of our people and to encourage development of stock exchanging."
+	id = 195002
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		stock_exchange = 1
+		NOT = {
+			business_banks = 1
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire2
+				duration = 365
+		}		
+	}
+}
+#A WEALTHY EMPIRE3,when has business_banks
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 35 percent personal income tax,to improve people's living standard of our people and to encourage development of business banks."
+	id = 195003
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		business_banks = 1
+		NOT = {
+			investment_banks = 1
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}
+	}	
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire3
+				duration = 365
+		}		
+	}
+}
+#A WEALTHY EMPIRE4,when has investment_banks
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 45 percent personal income tax,to improve people's living standard of our people and to encourage development of investment banks."
+	id = 195004
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		investment_banks = 1
+		NOT = {
+			bank_inspection_board = 1
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}		
+	}	
+	mean_time_to_happen = {
+		months = 1		
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire4
+				duration = 365
+		}			
+	}	
+}
+#A WEALTHY EMPIRE5,when has bank_inspection_board
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 55 percent personal income tax,to improve people's living standard of our people and to encourage development of bank inspection board."
+	id = 195005
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		bank_inspection_board = 1
+		NOT = {
+			mutual_funds = 1
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire5
+				duration = 365
+		}		
+	}	
+}
+#A WEALTHY EMPIRE6,when has mutual funds
+country_event = {
+	title = "A WEALTHY EMPIRE"
+	desc = "Our empire is rich and powerful.The Upper House decided to reduce 65 percent personal income tax,to improve people's living standard of our people and to encourage development of mutual funds."
+	id = 195006
+	picture = "queenvictoria"
+	trigger = {
+		ai = yes
+		money=10000000
+		mutual_funds = 1
+		NOT = {
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+		}		
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = "God bless our country!"
+		add_country_modifier = {
+				name = a_wealthy_empire6
+				duration = 365
+		}		
+	}
+}
+#Remove buff,when at war or lack of money
+country_event = {
+	title = "REMOVE THE TAX WELFARE POLICY"
+	desc = "We have to remove the tax welfare policy and save money,for the problem which we are facing ."
+	id = 195011
+	picture = "rebellion"
+	trigger = {
+			OR = {
+			has_country_modifier = a_wealthy_empire1
+			has_country_modifier = a_wealthy_empire2
+			has_country_modifier = a_wealthy_empire3
+			has_country_modifier = a_wealthy_empire4
+			has_country_modifier = a_wealthy_empire5
+			has_country_modifier = a_wealthy_empire6
+			}
+			OR ={	
+			ai = no
+			NOT = {money = 5000000}
+			}
+	}	
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+			name = "OK"	
+			remove_country_modifier = a_wealthy_empire1
+			remove_country_modifier = a_wealthy_empire2
+			remove_country_modifier = a_wealthy_empire3
+			remove_country_modifier = a_wealthy_empire4
+			remove_country_modifier = a_wealthy_empire5
+			remove_country_modifier = a_wealthy_empire6
+		}		
+	}
+}

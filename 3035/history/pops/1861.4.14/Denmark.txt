@@ -1,0 +1,442 @@
+#Faroe Islands Region (7000)
+#Torshavn (8900/2225 POPS) #revised for 1861
+253 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 1985
+	}
+
+}
+#Jutland Region : 548000
+#Aarhus (248000/62000 POPS)
+366 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 360.5
+	}
+
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 386.25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 3347.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 7210.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 51834.75
+	}
+}
+#Alborg (152000/38000 POPS)
+367 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2060.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1515.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 29900.0
+	}
+}
+#Ribe (148000/37000 POPS)
+368 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1515.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 23720.0
+	}
+
+}
+
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 14832.0
+	}
+}
+
+
+#Schleswig Region : 336000
+#Flensburg (236000/59000 POPS)
+370 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1545.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1257.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 13445.75
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = catholic
+		size = 669.5
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = catholic
+		size = 103.0
+	}
+
+	officers = {
+		culture = north_german
+		religion = catholic
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 257.5
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 2575.0
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 40530.0
+	}
+}
+#Aabenra (100000/25000 POPS)
+371 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1257.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 16123.75
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 257.5
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 6800.0
+	}
+
+}
+#Archipelago Region : 616000
+#Copenhagen (392000/98000 POPS)
+372 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 1287.5
+	}
+
+	capitalists = {
+		culture = swedish
+		religion = catholic
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 772.5
+	}
+
+	craftsmen = {
+		culture = swedish
+		religion = catholic
+		size = 10000.0
+	}
+	
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 24780.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 10300.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 50710.0
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = animist
+		size = 1030.0
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 1030.0
+	}
+}
+#Odense (208000/52000 POPS)
+373 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	clerks = {
+		culture = swedish
+		religion = catholic
+		size = 100.0
+	}
+	
+	craftsmen = {
+		culture = swedish
+		religion = catholic
+		size = 4000.0
+	}
+	
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2990.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 7210.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 38487.5
+	}
+}
+#Bornholm (28000/7000 POPS) #revised for 1861
+374 = {
+
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 70
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 105
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 5275
+	}
+
+}

@@ -1,0 +1,15 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = GCO
+add_core = BRZ
+add_core = BOL
+trade_goods = cattle
+life_rating = 25
+
+
+
+1861.1.1 = {
+owner = BRZ
+controller = BRZ
+}

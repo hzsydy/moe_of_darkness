@@ -1,0 +1,381 @@
+#Ubangi-Shari Region (228000)
+#uncolonized in 1836
+#Bangui (104000/26000 POPS)
+1965 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 515.0
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 257.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1339.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 283.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 24385.25
+	}
+}
+#Nola (40000/10000 POPS)
+1966 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 9398.75
+	}
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar (28000/7000 POPS)
+1967 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 128.75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 6566.25
+	}
+}
+#Bossangoa (56000/14000 POPS)
+1968 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 9398.75
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25.75
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 2781.0
+	}
+}
+#Dar Banda Region (128000)
+#uncolonized in 1836/under influence of Azande
+#Zemio (44000/11000 POPS)
+1969 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 309.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 5639.25
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 257.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 4712.25
+	}
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 25.75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 231.75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 669.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 12231.25
+	}
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele (28000/7000 POPS)
+1971 = {
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 309.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 5639.25
+	}
+
+}

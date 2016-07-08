@@ -1,0 +1,27 @@
+
+battleplans/
+download/
+gfx/
+interface/
+launcher/
+logs/
+map/
+mod/
+movies/
+music/
+news/
+save games/
+saved battle plans/
+Screenshots/
+script/
+sound/
+tutorial/
+*.vdf
+*.dll
+*.html
+*.jpg
+*.ini
+*.exe
+*.ico
+*.rar
+

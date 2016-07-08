@@ -1,0 +1,33 @@
+RALLY_POINT_NAVY_MERGE_INFO;¿ªÆô»ò¹Ø±Õº£¾üÔÚ¼¯½áµãºÏ²¢\n£¨½¢´¬»á×Ô¶¯±àÈë×î´óµÄ½¢¶Ó£©;;;;;;;;;;X
+RALLY_POINT_NAVY_PROVINCE_MERGE_INFO;½¢´¬»á×Ô¶¯±àÈë¼¯½áµã×î´óµÄ½¢¶Ó;;;;;;;;;;X
+BUDGET_INTERNALLY_SOLD_STOCKPILE;³öÊÛ¸ø½¨Éè¼Æ»®µÄ´¢±¸Îï×Ê:§Y$VAL$§!;;;;;;;;;;X
+OL_VIEW_RALLYPOINTS_NAVY_TOOLTIP;¸½½ü½¨ÔìµÄËùÓÐ´¬Ö»½«Ê»Ïò§Y$PROV$§!;;;;;;;;;;X
+OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP;²¢×Ô¶¯±àÈë¼¯½áµã×î´óµÄ½¢¶Ó;;;;;;;;;;X
+ARMY_SPLIT_AND_LOAD_DESC_1;§Y$UNIT$§!½«±»·ÖÈë§G$NUM$§!ËÒ´¬:;;;;;;;;;;X
+ARMY_SPLIT_AND_LOAD_DESC_2;-§Y$NAVY$§!£¨ÔËÔØÁ¿$NUM$£©;;;;;;;;;;X
+ARMY_SPLIT_AND_LOAD_DESC_3;§RÊ£ÏÂµÄ²¿¶Ó£¨$NUM$£©½«ÎÞ·¨ÉÏ´¬§!;;;;;;;;;;X
+UW_NOT_POSSIBLE_TO_ATTACH;Ã»ÓÐÓÑ¾ü¿ÉÒÔ¸úËæ;;;;;;;;;;X
+UW_UNITS_ATTACHED;ÏÂÁÐ²¿¶ÓÕýÔÚ¸úËæ;;;;;;;;;;X
+UW_ATTACH_TO;¸úËæ$NAME$;;;;;;;;;;X
+UW_DETACH_FROM;Í£Ö¹¸úËæ$NAME$;;;;;;;;;;X
+IW_SUPPLY_COST;ÄãÃ¿ÌìÐèÒª§Y$VAL$§W¤ À´Î¬³ÖÕâÖ§²¿¶Ó;;;;;;;;;;X
+HAS_NOT_CULTURE_CORE;$CUL$²»ÊÇ$WHERE$µÄºËÐÄÎÄ»¯\n;;;;;;;;;;X
+HAS_CULTURE_CORE;$CUL$ÊÇ$WHERE$µÄºËÐÄÎÄ»¯\n;;;;;;;;;;X
+PROMOTION_EFFECT_FROM_ADMIN;¹ÜÀíÐ§ÂÊÓ°Ïì×ªÖ°ËÙ¶È£º§Y$PERCENTAGE$§!;;;;;;;;;;X
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;±¾µØ¹¤³§¹ÍÔ±£º$PERC$;;;;;;;;;;X
+REVOLTALLIANCE_LOG;Ò»³¡¸ïÃü£¡ÎÒÃÇµÄÁªÃË²»¸´´æÔÚÁË£¡;;;;;;;;;;X
+tut_5b_12b;µã»÷¾öÒé°´Å¥ÒÔ¼ÌÐø;;;;;;;;;;X
+tut_5b_14b;µã»÷ÒÆ¶¯°´Å¥ÒÔ¼ÌÐø;;;;;;;;;;X
+Workforce;Ö°Òµ;;;;;;;;;;X
+Ideology;ÒâÊ¶ÐÎÌ¬;;;;;;;;;;X
+SELL;³öÊÛ;;;;;;;;;;X
+BUY;¹ºÂò;;;;;;;;;;X
+Start Research;¿ªÊ¼ÑÐ¾¿;;;;;;;;;;X
+Maneuver;»ú¶¯Á¦;;;;;;;;;;X
+LEDGER;Í³¼Æ±í;;;;;;;;;;X
+OK;ºÃµÄ;;;;;;;;;;X
+TOPBAR_POPULATION;ÎÒ¹úÀÍ¶¯ÈË¿ÚÎª$CURR$\nÀÍ¶¯ÈË¿ÚÃ¿Ìì´óÔ¼±ä»¯$CHANGE$;;;;;;;;;;X
+DIG_IN_TOOLTIP_1;ÏÖÔÚµÄÒ°Õ½¹¤ÊÂµÈ¼¶£º$LEV$/$MAX$;;;;;;;;;;X
+DIG_IN_TOOLTIP_2;ÐèÒª»¨§Y$DAYS$§!ÌìÀ´Ê¹Ò°Õ½¹¤ÊÂµÈ¼¶§G+$VAL$§!;;;;;;;;;;X
+in_bankrupcy;ÆÆ²ú;;;;;;;;;;X
+in_bankrupcy_desc;ÎÒÃÇÆÆ²úÁË£¡;;;;;;;;;;X

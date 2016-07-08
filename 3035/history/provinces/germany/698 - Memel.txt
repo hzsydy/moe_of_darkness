@@ -1,0 +1,19 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+add_core = GER
+add_core = LIT
+add_core = POL
+add_core = PLC
+1861.1.1 = {
+	remove_core = PRU
+
+	owner = POL
+	controller = POL
+
+}
+
+
+trade_goods = fish
+life_rating = 40
+1861.1.1 = { railroad = 3 }

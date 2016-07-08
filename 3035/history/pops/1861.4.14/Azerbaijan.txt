@@ -1,0 +1,465 @@
+#Northern Azerbaijan Region (340000)
+#under the rule of Russia in 1836
+#Baku (76000/19000 POPS)
+1102 = {
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 41.2
+	}
+
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 5.15
+	}
+
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 15.450000000000001
+	}
+
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 41.2
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 128.75
+	}
+
+	bureaucrats = {
+		culture = georgian
+		religion = sunni
+		size = 15.450000000000001
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 309.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 61.800000000000004
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 5510.5
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 180.25
+	}
+
+	bureaucrats = {
+		culture = georgian
+		religion = sunni
+		size = 5.15
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 113.3
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 618.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 128.75
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 11314.550000000001
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 10.3
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 762.2
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = animist
+		size = 5.15
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = animist
+		size = 252.35
+	}
+}
+#Siyazen (56000/14000 POPS)
+1103 = {
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 25.75
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 2806.75
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 128.75
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 6592.0
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 206.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 3708.0
+	}
+}
+#Sheki (24000/6000 POPS)
+1104 = {
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 30.900000000000002
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 46.35
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 103.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 25.75
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 1854.0
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = catholic
+		size = 20.6
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 20.6
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = catholic
+		size = 10.3
+	}
+
+	farmers = {
+		culture = georgian
+		religion = catholic
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 51.5
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 2678.0
+	}
+}
+#Ganja (68000/17000 POPS)
+1105 = {
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 231.75
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 103.0
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 9373.0
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = catholic
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 77.25
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = catholic
+		size = 77.25
+	}
+
+	farmers = {
+		culture = georgian
+		religion = catholic
+		size = 6617.75
+	}
+}
+#Agdam (60000/15000 POPS)
+1106 = {
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 463.5
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 103.0
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 8471.75
+	}
+
+	aristocrats = {
+		culture = georgian
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 309.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = catholic
+		size = 77.25
+	}
+
+	farmers = {
+		culture = georgian
+		religion = catholic
+		size = 5639.25
+	}
+}
+#Lankaran (56000/14000 POPS)
+1107 = {
+	aristocrats = {
+		culture = georgian
+		religion = sunni
+		size = 231.75
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = sunni
+		size = 128.75
+	}
+
+	artisans = {
+		culture = georgian
+		religion = sunni
+		size = 721.0
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = sunni
+		size = 154.5
+	}
+
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 13184.0
+	}
+
+}

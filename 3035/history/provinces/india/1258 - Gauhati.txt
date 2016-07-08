@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = HND
+1861.1.1 = {
+	owner = HND
+	controller = HND
+	colonial = 0
+}
+trade_goods = tea
+life_rating = 32
+
+colonial = 2

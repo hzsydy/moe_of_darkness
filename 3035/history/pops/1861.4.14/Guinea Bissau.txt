@@ -1,0 +1,104 @@
+#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
+#Uncolonized in 1836/Portuguese trade post
+#Bissau (32000/8000 POPS)
+1877 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 15.450000000000001
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5.15
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 25.75
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 20.6
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 386.25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 5665.0
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 2060.0
+	}
+}
+#Uncolonized in 1836/ruled by kingdom of Gabu
+#Gabu (76000/19000 POPS)
+1878 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 206.0
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 206.0
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 14832.0
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 3090.0
+	}
+
+}

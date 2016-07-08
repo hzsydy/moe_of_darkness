@@ -1,0 +1,199 @@
+#Himalaya Region (952000) #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836
+#Katmandu (540000/135000 POPS)
+1326 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 2060.0
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = hindu
+		size = 180.25
+	}
+
+	officers = {
+		culture = marathi
+		religion = hindu
+		size = 231.75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 1030.0
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 4171.5
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 10210.0
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 88837.5
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = mahayana
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = mahayana
+		size = 103.0
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = mahayana
+		size = 489.25
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = mahayana
+		size = 103.0
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = mahayana
+		size = 10428.75
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 412.0
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 231.75
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1081.5
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 206.0
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 21758.75
+	}
+}
+#Jumla (412000/103000 POPS)
+1327 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 927.0
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 463.5
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 2369.0
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 3530.0
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 50727.5
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = mahayana
+		size = 721.0
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = mahayana
+		size = 386.25
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = mahayana
+		size = 1905.5
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = mahayana
+		size = 360.5
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = mahayana
+		size = 34736.75
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 360.5
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 206.0
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 978.5
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 206.0
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 18849.0
+	}
+}
+

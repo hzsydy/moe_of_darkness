@@ -1,0 +1,381 @@
+#Trondelag-Nordland Region - 304000
+#Trondheim (140000/35000 POPS)
+305 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 309.0
+	}
+
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 154.5
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 3347.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 31157.5
+	}
+}
+#Bodo (56000/14000 POPS)
+306 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 772.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 12463.0
+	}
+
+	farmers = {
+		culture = finnish
+		religion = catholic
+		size = 1030.0
+	}
+}
+#Hammerfest (36000/9000 POPS)
+307 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 51.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 4532.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 2060.0
+	}
+
+	farmers = {
+		culture = finnish
+		religion = catholic
+		size = 2060.0
+	}
+}
+#Alesund (72000/18000 POPS)
+308 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 77.25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 17329.75
+	}
+
+}
+#Jan Mayen (60/15 POPS)
+3246 = {
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 15.450000000000001
+	}
+}
+
+#Vestlandet-Sorlandet Region : 544000
+#Bergen (180000/45000 POPS)
+309 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 206.0
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 5150.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 39346.0
+	}
+}
+#Christiansand (164000/41000 POPS)
+310 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 180.25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2060.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 38959.75
+	}
+}
+#Skien (68000/17000 POPS)
+311 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 77.25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 772.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 16557.25
+	}
+}
+#Drammen (132000/33000 POPS)
+312 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2060.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 257.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 32058.75
+	}
+
+}
+#Ostlandet Region - 352000
+#Christiania (108000/27000 POPS)
+313 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 515.0
+	}
+
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 7210.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 18823.25
+	}
+}
+#Hamar (80000/20000 POPS)
+314 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 103.0
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 154.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 19312.5
+	}
+}
+#Lillehammer (96000/24000 POPS)
+315 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 128.75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 206.0
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 23097.75
+	}
+}
+#Frederiksstad (68000/17000 POPS)
+316 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 77.25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 772.5
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 154.5
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 16505.75
+	}
+
+}

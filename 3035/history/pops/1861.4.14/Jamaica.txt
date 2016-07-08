@@ -1,0 +1,84 @@
+#Jamaica Region - 443100
+#Jamaica (441300/110325 POPS)
+2217 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 120
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 90
+	}
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 2965
+	}
+
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 60
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2595
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = catholic
+		size = 745
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 2450
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 100000
+	}
+}
+#Cayman Islands : (1800/450 POPS)
+2218 = {
+	clergymen = {
+		culture = afro_american
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 400
+	}
+
+}

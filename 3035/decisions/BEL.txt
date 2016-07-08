@@ -1,0 +1,32 @@
+political_decisions = {
+	rename_the_congo = {
+		potential = {
+			tag = BEL
+			exists = CNG
+			CNG = {
+				vassal_of = THIS
+			}
+			NOT = {
+				has_global_flag = congo_renamed
+			}
+		}
+		
+		allow = {
+			invention = mission_to_civilize
+		}
+		
+		effect = {
+			1987 = {
+				change_province_name = "ÒÁÀûÉ¯²®Î¬¶û"
+			}		
+			1982 = {
+				change_province_name = "Àû°Â²¨µÂÎ¬¶û"
+			}
+			1996 = {
+				change_province_name = "Ë¹Ì¹ÀûÎ¬¶û"
+			}
+			prestige = 10
+			set_global_flag = congo_renamed
+		}
+	}
+}

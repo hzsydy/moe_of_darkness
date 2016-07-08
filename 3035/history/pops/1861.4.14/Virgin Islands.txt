@@ -1,0 +1,45 @@
+#Danish West Indies Region  #see Leeward Islands.txt for BVI
+#Saint Thomas (38300/9575 POPS)
+2223 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 325
+	}
+
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 345
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 135
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 2910
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = catholic
+		size = 5660
+	}
+}

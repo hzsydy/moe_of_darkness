@@ -1,0 +1,16 @@
+owner = ROM 
+controller = ROM 
+add_core = TUR
+add_core = ROM 
+trade_goods = coal
+life_rating = 35
+
+
+
+1861.1.1 = {
+	owner = BUL
+	controller = BUL
+
+        add_core = BUL
+}
+

@@ -1,0 +1,17 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = ITA
+trade_goods = coal
+life_rating = 30
+1836.1.1 = {
+	controller = ITA
+	owner = ITA
+	add_core = ITA
+}
+1861.1.1 = {
+	remove_core = ITA
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}

@@ -1,0 +1,13 @@
+GIVE_UNIT_COMMAND_BUTTON;Ö¸»Óµ¥Î»;;;;;;;;x
+GIVE_UNIT_COMMANDTITLE;Ö¸»Óµ¥Î»;;;;;;;;x
+GIVE_UNIT_COMMAND_DESC;µ±¿þÀÜ¹úÓëÆä×ÚÖ÷¹ú¹²Í¬×÷Õ½Ê±£¬¿þÀÜ¹ú½«»á°ÑÆäµ¥Î»µÄÖ¸»ÓÈ¨½»Óè×ÚÖ÷¹ú¡£;;;;;;;;x
+GIVE_UNIT_COMMAND_OK;ÒªÇóÄãµÄ¿þÀÜ¹úÊÕ»Ø¶ÔËûÃÇ×Ô¼ºµ¥Î»µÄÖ¸»ÓÈ¨¡£;;;;;;;;x
+GIVE_UNIT_COMMAND_CANT_CONTROL;Ö»ÓÐµ±ÄãÃÇÔÚ¹²Í¬×÷Õ½Ê±£¬Äã²Å¿ÉÒÔÖ¸»ÓÄãµÄ§Y¿þÀÜ¹ú§!µÄµ¥Î»¡£;;;;;;;;x
+GIVE_UNIT_COMMAND_ALREADY_CONTROL;ÄãÒÑ¾­ÔÚÖ¸»ÓËûÃÇµÄµ¥Î»ÁË¡£;;;;;;;;x
+CANCEL_UNIT_COMMAND_BUTTON;·µ»¹µ¥Î»;;;;;;;;x
+CANCEL_UNIT_COMMANDTITLE;·µ»¹µ¥Î»;;;;;;;;x
+CANCEL_UNIT_COMMAND_DESC;·µ»¹µ¥Î»;;;;;;;;x
+CANCEL_UNIT_COMMAND_OK;½«ËûÃÇµÄµ¥Î»»¹¸øËûÃÇ¡£;;;;;;;;x
+CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;Äã²»ÄÜÖ¸»Ó¸Ãµ¥Î»¡£;;;;;;;;x
+cut_down_to_size_boxer_setup;ÆÈÊ¹ÖÐ¹úÎªÈ­·ËµÄ×ïÐÐ¸¶³ö´ú¼Û¡£;;;;;;;;x
+cut_down_to_size_boxer_short;ÆÈÊ¹ÖÐ¹úÎªÈ­·ËµÄ×ïÐÐ¸¶³ö´ú¼Û¡£;;;;;;;;x

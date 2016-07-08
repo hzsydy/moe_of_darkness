@@ -1,0 +1,1322 @@
+#Abyssinia Region (2172000)
+#under the rule of Ethiopia in 1836
+#Gonder (452000/113000 POPS)
+1852 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = catholic
+		size = 325
+	}
+
+	officers = {
+		culture = zulu
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 825
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 4050
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 65000
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 8000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 2600
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 550
+	}
+
+	officers = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1175
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 24450
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 2000
+	}
+}
+#Debre Tabor (468000/117000 POPS)
+1853 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2050
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 39450
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 1300
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 675
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 2750
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 675
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 48600
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 12000
+	}
+}
+#Matamma (464000/116000 POPS)
+1854 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1025
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 525
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 43350
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 8175
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 1050
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 2225
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 550
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 46600
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 4000
+	}
+}
+#Debre Markos (788000/197000 POPS)
+1855 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1050
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 550
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 44200
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 2800
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 1425
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 5725
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 4025
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 122025
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 7000
+	}
+}
+#Tigray Region (316000)
+#under the rule of Ethiopia in 1836
+#Aksum (140000/35000 POPS)
+1856 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 575
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = catholic
+		size = 50
+	}
+
+	officers = {
+		culture = zulu
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 21775
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 50
+	}
+
+	officers = {
+		culture = zulu
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 3625
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+}
+#Antalo (128000/32000 POPS)
+1857 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 18200
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 5475
+	}
+}
+#Awsa (48000/12000 POPS)
+1858 = {
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 9025
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 2000
+	}
+}
+#Shoa Region (2068000)
+#under the rule of Ethiopia in 1836
+#Ankober (1236000/309000 POPS)
+1859 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 4650
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = zulu
+		religion = catholic
+		size = 275
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 2375
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 9500
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 10000
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 20975
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 9000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1350
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = catholic
+		size = 75
+	}
+
+	officers = {
+		culture = zulu
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 725
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2875
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 725
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 42075
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 24000
+	}
+}
+#Awasa (448000/112000 POPS)
+1860 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 925
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 475
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 1900
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 475
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 40225
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1325
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 675
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2725
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 1075
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 53300
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 9000
+	}
+}
+#Aselia (384000/96000POPS)
+1861 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 325
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 26525
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 1250
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 650
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 2650
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 650
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 49800
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 10000
+	}
+}
+#Sidamo-Welega Region (1628000)
+#under the "rule" of Ethiopia in 1836
+#Bonga (368000/92000 POPS)
+1862 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 1800
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 925
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 3650
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 925
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 71700
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 13000
+	}
+}
+#Asosa (540000/135000 POPS)
+1863 = {
+	aristocrats = {
+		culture = zulu
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = zulu
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = zulu
+		religion = catholic
+		size = 18050
+	}
+
+	slaves = {
+		culture = zulu
+		religion = catholic
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 1350
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 725
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 2875
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 725
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 49725
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 42600
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 750
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 375
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1900
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 375
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 34600
+	}
+}
+#Negele (720000/180000 POPS)
+1864 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 875
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1850
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 35375
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 2625
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 825
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 5350
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 103850
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 19000
+	}
+}
+#Ogaden Region (786000)
+#under the "rule" of Ethiopia in 1836
+#Harer (384000/96000 POPS)
+1865 = {
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = sunni
+		size = 15
+	}
+
+	officers = {
+		culture = zulu
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 1675
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 25675
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 525
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 1200
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 850
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 2150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 425
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 39350
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 11000
+	}
+}
+#uncolonized in 1836}
+#Goba (296000/74000 POPS)
+1866 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 1075
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 19875
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 625
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 1600
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 325
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 29225
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 13675
+	}
+}
+#Werder (328000/82000 POPS)
+1867 = {
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 13675
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = sunni
+		size = 775
+	}
+
+	artisans = {
+		culture = zulu
+		religion = sunni
+		size = 2675
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = zulu
+		religion = sunni
+		size = 57775
+	}
+
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 4000
+	}
+
+}

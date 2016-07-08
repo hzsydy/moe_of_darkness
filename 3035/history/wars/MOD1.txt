@@ -1,0 +1,65 @@
+name = "∑¥∑®Õ¨√À"
+
+1810.1.1 = {
+	add_attacker = FRA
+	add_attacker = SPA
+	add_attacker = POL
+	add_attacker = ITA
+	add_attacker = SWI
+	add_defender = RUS
+	add_defender = PRU
+	add_defender = ENG
+	add_defender = BAV
+	add_defender = SWE
+	add_defender = HAN
+	add_defender = AUS
+	add_defender = CZH
+	add_defender = SLV
+	add_defender = HUN
+	add_defender = NET
+	add_defender = DEN
+	add_defender = SAX
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = FRA
+		receiver = RUS
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = FRA
+		receiver = NET
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = AUS
+		receiver = SWI
+	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = RUS
+		receiver = POL
+	}
+
+}
+
+1835.1.1 = {
+	rem_attacker = FRA
+	rem_attacker = SPA
+	add_attacker = POL
+	rem_attacker = ITA
+	rem_attacker = SWI
+	rem_defender = RUS
+	rem_defender = PRU
+	rem_defender = ENG
+	rem_defender = BAV
+	rem_defender = SWE
+	rem_defender = HAN
+	rem_defender = AUS
+	rem_defender = CZH
+	rem_defender = SLV
+	rem_defender = HUN
+	rem_defender = NET
+	rem_defender = DEN
+	rem_defender = SAX
+}

@@ -1,0 +1,26 @@
+bookmark =
+{
+	name = "反法同盟"
+	desc = "有人说大革命的硝烟已然散尽，有人说自平博只是虚言，有人说谈判可以解决一切问题。但是当皇帝再次降临欧洲，一切都是谎言！拿起你的武器，为法国和皇帝争取未来！"
+	date = 1830.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "ACW_NAME"
+	desc = "ACW_DESC"
+	date = 1861.7.1
+	cameraX = 2950 
+	cameraY = 1550
+}

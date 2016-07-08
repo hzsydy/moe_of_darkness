@@ -1,0 +1,706 @@
+POP = {
+	limit = { year = 1950 }                                       
+	chance = {
+		base = 100
+	}
+	effect = {
+		pop_growth = -0.001
+	} 
+	badboy = -0.1
+}
+BT = {
+	limit = { ai = yes }
+	chance = {
+		base = 100
+	}
+	effect = {
+		prestige = -0.50
+		mobilisation_size = -0.05
+	} 
+	rich_income_modifier = 1
+	middle_income_modifier = 1
+	poor_income_modifier = 1
+	research_points = 0.5
+	education_efficiency = 1.00
+}
+HUM = {
+	limit = { ai = no }                                       
+	chance = {
+		base = 100
+	}
+	effect = {
+		prestige = -0.50
+		mobilisation_size = -0.1
+	} 
+	leadership = 1
+}
+united_kingdom = {
+	limit = { tag = ENG }
+	chance = {
+		base = 0
+	}
+	effect = {
+		colonial_points = 100
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		navy_base = {
+			ocean = {
+				attack = 0.1
+				defence = 0.1
+			}
+		}
+		clipper_transport = {
+			maximum_speed = 2
+			build_time = -90
+			default_organisation = 5
+		}
+		frigate = {
+			maximum_speed = 1
+			build_time = -180
+			default_organisation = 10
+		}
+		manowar = {
+			build_time = -360
+			default_organisation = 20
+			supply_consumption = -1
+			colonial_points = 3
+		}
+		steam_transport = {     
+			maximum_speed = 2 
+			build_time = -90     
+			default_organisation = 5
+		}
+		commerce_raider = {
+			maximum_speed = 1
+			build_time = -180
+			default_organisation = 10
+		}
+		ironclad = {
+			build_time = -360
+			default_organisation = 20 
+			supply_consumption = -1  
+			colonial_points = 27
+		}
+		monitor = {
+			build_time = -360
+			default_organisation = 20
+			supply_consumption = -1
+			colonial_points = 27
+		}
+		cruiser = {
+			maximum_speed = 1
+			build_time = -180
+			default_organisation = 10
+		}
+		battleship = {
+			build_time = -360
+			default_organisation = 20
+			supply_consumption = -1
+			colonial_points = 75
+		}
+		dreadnought = {
+			build_time = -540
+			default_organisation = 50
+			supply_consumption = -1
+			colonial_points = 125
+			ocean = {
+				attack = 0.8
+				defence = 0.8
+			}
+		}
+		influence = 1
+		factory_cost = -0.10
+		factory_input = -0.10
+		factory_output = 0.10
+		factory_throughput = 0.10
+	}                   
+}          
+revolution_france = {
+	limit = { tag = FRA }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		artillery = {
+			attack = 5
+			defence = 5
+			fort = {
+				attack = 0.2
+				defence = 0.2
+			}
+			maximum_speed = 3
+		}
+		guard = {
+			attack = 12
+			defence = 12
+			build_time = 90
+			discipline = 1
+			woods = {
+				attack = 0.6
+				defence = 0.6
+			} 
+			farmlands = {
+				attack = 0.6
+				defence = 0.6
+			}
+			fort = {
+				attack = 0.6
+				defence = 0.6
+			}
+		}
+	}
+	leadership = 1
+}    
+france = {
+	limit = { tag = FRA }
+	chance = {
+		base = 0
+	}
+	effect = {
+		artillery = {
+			attack = -5
+			defence = -5
+			fort = {
+				attack = -0.2
+				defence = -0.2
+			}
+			maximum_speed = -3
+		}
+		infantry = {
+			attack = 5
+			defence = 5
+			build_time = -90
+			discipline = 1
+			woods = {
+				defence = 0.5
+			} 
+			farmlands = {
+				attack = 0.1
+				defence = 0.1
+			}
+			fort = {
+				attack = 0.5
+				defence = 0.5
+			}
+		} 
+		guard = {
+			attack = -10
+			defence = -10
+			build_time = 90
+			discipline = -1
+			woods = {
+				attack = -0.5
+			} 
+			farmlands = {
+				attack = -0.5
+			}
+			fort = {
+				attack = -0.5
+			}
+		}
+	}
+	colonial_migration = 1.00
+	research_points = 1
+	diplomatic_points_modifier = 1
+	leadership = -1
+} 
+united_states_of_america = {
+	limit = { tag = USA }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		dragoon = {
+			plains = {
+				attack = 0.2
+				defence = 0.2
+			}
+			steppe = {
+				attack = 0.2
+				defence = 0.2
+			}
+		}
+		plane = {
+			attack = 3
+			defence = 3
+			maximum_speed = 1
+			default_organisation = 10
+		}
+		leadership = 0.1
+	}
+} 
+russia = {
+	limit = { tag = RUS }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+			discipline = 0.5
+		} 
+		cuirassier = { 
+			attack = 3
+			defence = 3
+			discipline = 0.5
+			default_organisation = 30
+		}
+		tank = {
+			discipline = 0.5
+		}
+		army_base = {
+			woods = {
+				defence = 0.1
+			}
+			arctic = {
+				attack = 1
+				defence = 10
+			}
+			build_time = -30
+			supply_consumption = -10
+		}
+		pop_growth = 0.001
+		leadership = 0.1
+		mobilisation_size = 0.1
+		mobilisation_economy_impact = -0.5 
+		war_exhaustion = -1
+		combat_width = -5
+	}
+	research_points = 0.1
+}      
+china = {
+	limit = { tag = CHI }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		irregular = {
+			hills = {
+				defence = 0.2
+			}
+			mountain = {
+				defence = 0.5
+			}
+			build_time = -120
+			supply_consumption = -5
+		}
+		guard = {
+			hills = {
+				attack = 0.2
+				defence = 0.2
+			}
+			mountain = {
+				attack = 0.2
+				defence = 0.5
+			}
+			maximum_speed = -2
+			supply_consumption = -5
+		}
+	}
+	global_pop_militancy_modifier = -0.02
+	administrative_efficiency = 0.10
+} 
+japan = {
+	limit = { tag = JAP }
+	chance = {
+		base = 0
+	}
+	effect = {
+		navy_base = {
+			ocean = {
+				attack = 0.1
+				defence = 0.1
+			}
+		}
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		guard = {
+			attack = 5
+			defence = 5
+			maximum_speed = 3
+			default_organisation = 20
+		}
+		plane = {
+			attack = 3
+			defence = 3
+			maximum_speed = 5
+			reconnaissance = -4
+			support = -2
+			default_organisation = 20
+		}
+		army_base = {
+			maximum_speed = 1
+		}
+		soldier_to_pop_loss = -0.50
+		factory_cost = -0.10
+	}
+} 
+prussia = {
+	limit = { tag = PRU }
+	chance = {
+		base = 0
+	}
+	effect = {
+		supply_limit = 1.00
+		infantry = {
+			attack = 5
+			defence = 5
+		} 
+		artillery = {
+			fort = {
+				attack = 0.2
+				defence = 0.2
+			}
+			maximum_speed = 3
+		}
+		guard = {
+			farmlands = {
+				attack = 0.1
+				defence = 0.2
+			}
+			plains = {
+				attack = 0.1
+				defence = 0.2
+			}
+			default_organisation = 20
+		}
+		tank = {
+			reconnaissance = 0.1
+			attack = 6
+			defence = 6
+			support = 0.5
+			default_organisation = 50
+			maximum_speed = 5
+		}
+		army_base = {
+			maximum_speed = 1
+			siege = 0.1
+		}
+		pop_growth = 0.001
+	}
+	org_regain = 1.00
+	reinforce_rate = 1.00
+	war_exhaustion = -0.5
+	leadership = 0.5
+}   
+italy = {
+	limit = { tag = ITA }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+			hills = {
+				attack = 0.25
+				defence = 0.25
+			}
+			mountain = {
+				attack = 0.25
+				defence = 0.25
+			}
+			woods = {
+				attack = 0.25
+				defence = 0.25
+			}
+		} 
+		prestige = 0.25
+		tax_eff = 10
+		army_base = {
+			maximum_speed = 1
+		}
+		navy_base = {
+			ocean = {
+				attack = 0.1
+				defence = 0.1
+			}
+		}
+	}
+}
+austria = {
+	limit = { tag = AUS }
+	chance = {
+		base = 0
+	}
+	effect = {
+		influence = 0.1
+		prestige = 1.00
+		irregular = {
+			attack = 3
+			defence = 3
+			hills = {
+				attack = 0.1
+				defence = 0.2
+			}
+			mountain = {
+				attack = 0.2
+				defence = 0.5
+			}
+			woods = {
+				attack = 0.1
+				defence = 0.2
+			}
+		}
+		infantry = {
+			attack = 7
+			defence = 7
+			hills = {
+				attack = 0.2
+				defence = 0.5
+			}
+			mountain = {
+				attack = 0.2
+				defence = 0.5
+			}
+			woods = {
+				attack = 0.2
+				defence = 0.5
+			}
+		}
+		guard = {
+			attack = 1
+			defence = 1
+			hills = {
+				attack = 0.2
+				defence = 0.5
+			}
+			mountain = {
+				attack = 0.2
+				defence = 0.5
+			}
+			woods = {
+				attack = 0.2
+				defence = 0.5
+			}
+		}
+	}
+	diplomatic_points_modifier = 1  
+}
+netherlands = {
+	limit = { tag = NET }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		navy_base = {
+			ocean = {
+				attack = 0.5
+				defence = 0.5
+			}
+			build_time = -90
+			hull = 10
+			default_organisation = 10
+			colonial_points = 1
+		}
+		supply_range = 1.00
+	}
+	colonial_migration = 1.00
+}       
+sweden = {
+	limit = { tag = SWE }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		navy_base = {
+			hull = 10
+		}
+	}
+	education_efficiency = 10.00
+}  
+poland = {
+	limit = { tag = POL }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		cavalry = {
+			plains = {
+				attack = 0.5
+				defence = 0.5
+			}
+			build_time = -90
+			supply_consumption = -5
+		}
+		hussar = {
+			plains = {
+				attack = 1
+				defence = 1
+			}
+			default_organisation = 10
+			build_time = -90
+			supply_consumption = -5
+		}
+	military_tactics = 1
+	}
+} 
+georgia = {
+	limit = { tag = GEO }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		infantry = {
+			mountain = {
+				attack = 1
+				defence = 1
+			}
+			build_time = -45
+		}
+		military_tactics = 1
+	}
+} 
+yugoslavia = {
+	limit = { tag = YUG }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+			hills = {
+				attack = 0.5
+				defence = 0.5
+			}
+			mountain = {
+				attack = 0.5
+				defence = 0.5
+			}
+			woods = {
+				attack = 0.5
+				defence = 0.5
+			}
+			maximum_speed = 3
+		}
+	}
+} 
+ottoman = {
+	limit = { tag = TUR }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 5
+			defence = 5
+			support = 1
+			supply_consumption = 10
+		}
+	}
+} 
+byzantium = {
+	limit = { tag = GRE }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		army_base = { 
+			discipline = 0.1
+		}
+		cuirassier = {
+			attack = 5
+			defence = 5
+		}
+	}
+} 
+mongolia = {
+	limit = { tag = MGL }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		cavalry = {
+			attack = 6
+			defence = 6
+			build_time = -90
+			supply_consumption = -10
+		}
+		hussar = {
+			attack = 15
+			defence = 15
+			build_time = -1000
+			supply_consumption = -1000
+		}
+	}
+} 
+india = {
+	limit = { tag = HND }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+	}
+	global_pop_militancy_modifier = -0.1
+	global_pop_consciousness_modifier = -0.1
+	research_points_modifier = -1
+	pop_growth = 0.001
+} 
+arabia = {
+	limit = { tag = HDJ }
+	chance = {
+		base = 0
+	}
+	effect = {
+		infantry = {
+			attack = 2
+			defence = 2
+		} 
+		army_base = {
+			desert = {
+				attack = 0.5
+				defence = 0.5
+			}
+			coastal_desert = {
+				attack = 0.2
+				defence = 0.2
+			}
+		}
+	}
+} 

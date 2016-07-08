@@ -1,0 +1,15 @@
+owner = ENG
+controller = ENG
+1861.1.1 = {
+	owner = GER
+
+	controller = GER
+
+
+}
+
+trade_goods = fish
+life_rating = 35
+
+
+terrain = plains

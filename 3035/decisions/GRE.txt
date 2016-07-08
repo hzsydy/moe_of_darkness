@@ -1,0 +1,176 @@
+political_decisions = {
+	hellenic_parliament = {
+		potential = {
+			tag = GRE
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = voule_ton_ellinon
+			}
+		}
+	
+		allow = {
+			plurality = 3
+			prestige = 1
+		}
+		
+		effect = {
+			set_country_flag = voule_ton_ellinon
+			political_reform = wealth_weighted_voting
+			government = hms_government
+			any_pop = {
+				militancy = -2
+			}
+		}
+	}
+	
+	megali_idea = {
+		potential = {
+			tag = GRE
+			NOT = {
+				has_country_flag = greece_has_got_a_brand_new_bag
+			}
+		}
+		
+		allow = {
+			invention = national_fraternity
+			owns = 832
+			owns = 831
+			owns = 833
+			owns = 825
+			owns = 824
+			owns = 820
+			owns = 819
+			owns = 821
+			owns = 805
+			owns = 822
+			owns = 823
+			owns = 829
+			owns = 830
+			owns = 844
+			owns = 843
+			owns = 846
+		}
+		
+		effect = {
+			prestige = 20
+			badboy = -5
+			TUR_860 = {
+				add_core = GRE
+			}
+			TUR_863 = {
+				add_core = GRE
+			}
+			TUR_869 = {
+				add_core = GRE
+			}
+			set_country_flag = greece_has_got_a_brand_new_bag
+		}
+	}
+	
+	form_byzantine_empire = {
+		potential = {
+			tag = GRE
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			OR = {
+			  AND = {
+			    is_greater_power = yes			
+			    ai = no
+			    }
+			  ai = yes
+			}
+		}
+		
+		allow = {
+			owns = 860	# Constantinople		
+		}
+		
+		effect = {
+			change_tag = BYZ
+			capital = 860
+			860 = {
+				change_province_name = "ÐÂÂÞÂí"
+			}
+			TUR_674 = {
+				add_core = BYZ
+			}
+			TUR_803 = {
+				add_core = BYZ
+			}
+			TUR_805 = {
+				add_core = BYZ
+			}
+			TUR_806 = {
+				add_core = BYZ
+			}
+			TUR_809 = {
+				add_core = BYZ
+			}
+			TUR_810 = {
+				add_core = BYZ
+			}
+			TUR_819 = {
+				add_core = BYZ
+			}
+			TUR_832 = {
+				add_core = BYZ
+			}
+			TUR_853 = {
+				add_core = BYZ
+			}
+			TUR_855 = {
+				add_core = BYZ
+			}
+			TUR_860 = {
+				add_core = BYZ
+			}
+			TUR_863 = {
+				add_core = BYZ
+			}
+			TUR_873 = {
+				add_core = BYZ
+			}
+			TUR_876 = {
+				add_core = BYZ
+			}
+			TUR_881 = {
+				add_core = BYZ
+			}
+			TUR_884 = {
+				add_core = BYZ
+			}
+			TUR_885 = {
+				add_core = BYZ
+			}
+			TUR_889 = {
+				add_core = BYZ
+			}
+			SIC_753 = {
+				add_core = BYZ
+			}
+			SIC_754 = {
+				add_core = BYZ
+			}
+			RUS_964 = {
+				add_core = BYZ
+			}
+			GRE_837 = {
+				add_core = BYZ
+			}
+			GRE_826 = {
+				add_core = BYZ
+			}
+			EGY_843 = {
+				add_core = BYZ
+			}
+			any_owned = {
+				remove_core = GRE
+			}
+			prestige = 40
+			badboy = -10
+		}
+	}
+}

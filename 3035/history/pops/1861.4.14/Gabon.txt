@@ -1,0 +1,192 @@
+#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region
+#uncolonized in 1836/under the influence of Teke
+#Libreville (48000/12000 POPS)
+1972 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 25.75
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 2781.0
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 463.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 8446.0
+	}
+}
+#Mayumbe (32000/8000 POPS)
+1974 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 7519.0
+	}
+}
+#Moanda (28000/7000 POPS)
+1975 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 128.75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 6566.25
+	}
+}
+#uncolonized in 1836
+#Makokou (72000/18000 POPS)
+1976 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 7519.0
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 180.25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 103.0
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 9398.75
+	}
+
+}

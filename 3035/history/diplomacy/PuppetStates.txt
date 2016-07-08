@@ -1,0 +1,176 @@
+#China substates
+vassal = {
+	first = CHI
+	second = MCK
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+vassal = {
+	first = CHI
+	second = XIN
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+vassal = {
+	first = CHI
+	second = MGL
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+vassal = {
+	first = CHI
+	second = TIB
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+
+vassal = {
+	first = CHI
+	second = KOR
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+vassal = {
+	first = CHI
+	second = DAI
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+
+# NET-LUX
+
+# USA-Liberia
+vassal = {
+	first = USA
+	second = LIB
+	start_date = 1822.1.1
+	end_date = 1847.7.26
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = HAN
+	start_date = 1814.10.1
+	end_date = 1837.1.1
+}
+
+# United Kingdom-Ionian Islands
+
+# Ottoman Empire-Wallachia
+
+# Ottoman Empire-Moldavia
+
+#######################
+#        INDIA        #
+#######################
+
+# United Kingdom-Awadh
+# Dai Nam-Cambodia
+
+
+#########1861
+# Siam - Cambodia
+# UK - KAS
+
+# OE - Hejaz 
+
+#诸神新加  奥地利：
+
+
+vassal = {
+	first = AUS
+	second = CZH
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = AUS
+	second = SLV
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = AUS
+	second = HUN
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = AUS
+	second = SIE
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = AUS
+	second = SLO
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = AUS
+	second = CRO
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = FRA
+	second = POL
+	start_date = 1830.1.1
+	end_date = 1835.1.1
+}
+vassal = {
+	first = RUS
+	second = POL
+	start_date = 1835.1.1
+	end_date = 1860.1.1
+}
+vassal = {
+	first = ENG
+	second = SIK
+	start_date = 1830.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+		first="RUS"
+		second="FIN"
+		start_date="1830.1.1"
+		end_date="1856.1.1"
+	}
+vassal = {
+	first = POL
+	second = LIT
+	start_date = 1830.1.1
+	end_date = 1856.1.1
+}
+vassal = {
+	first = ENG
+	second = UBD
+	start_date = 1830.1.1
+	end_date = 1850.1.1
+}
+vassal = {
+	first = ENG
+	second = SAF
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = FRA
+	second = ITA
+	start_date = 1830.1.1
+	end_date = 1835.1.1
+}
+vassal = {
+	first = FRA
+	second = SWI
+	start_date = 1830.1.1
+	end_date = 1835.1.1
+}
+vassal = {
+	first = FRA
+	second = SPA
+	start_date = 1830.1.1
+	end_date = 1835.1.1
+}

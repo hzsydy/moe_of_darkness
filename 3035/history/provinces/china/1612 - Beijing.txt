@@ -1,0 +1,8 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = coal
+life_rating = 99
+
+
+fort = 1

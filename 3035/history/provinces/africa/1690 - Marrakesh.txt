@@ -1,0 +1,16 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+trade_goods = fruit
+life_rating = 35
+
+
+
+
+1861.1.1 = {
+
+	controller = SPA
+	owner = SPA
+colonial = 2
+}
+
