@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
+owner = HND
+controller = HND
 add_core = HND
 trade_goods = wool
 life_rating = 32
-

@@ -3,5 +3,3 @@ controller = ARG
 add_core = ARG
 trade_goods = timber
 life_rating = 35
-
-

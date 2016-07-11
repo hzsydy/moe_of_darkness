@@ -4,5 +4,3 @@ add_core = TUR
 add_core = TRI
 trade_goods = fruit
 life_rating = 35
-
-

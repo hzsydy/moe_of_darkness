@@ -1,13 +1,6 @@
-owner = ENG
-controller = ENG
+owner = HND
+controller = HND
 add_core = HND
-1861.1.1 = {
-	owner = HND
-	controller = HND
-	colonial = 0
-}
 trade_goods = silk
 life_rating = 32
-
 colonial = 1
-1861.1.1 = { railroad = 3 }

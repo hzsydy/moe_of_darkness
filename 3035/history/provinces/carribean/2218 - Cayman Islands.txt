@@ -2,11 +2,10 @@ owner = HAI
 controller = HAI
 add_core = HAI
 1861.1.1 = {
-owner = UCA
-controller = UCA
-add_core = UCA
-colonial = 0
+    owner = UCA
+    controller = UCA
+    add_core = UCA
+    colonial = 0
 }
 trade_goods = fruit
 life_rating = 35
-

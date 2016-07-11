@@ -4,5 +4,3 @@ add_core = DEN
 add_core = SCA
 trade_goods = fish
 life_rating = 35
-
-

@@ -3,4 +3,3 @@ controller = HND
 add_core = HND
 trade_goods = tea
 life_rating = 32
-

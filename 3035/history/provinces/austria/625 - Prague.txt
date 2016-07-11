@@ -1,43 +1,27 @@
 owner = CZH
-
 controller = CZH
 add_core = AUS
-
-
 add_core = CZH
-
-
 1861.1.1 = {
-	remove_core = AUS
-
-
-
-	owner = KUK
-	controller = KUK
-
-        add_core = KUK
+    remove_core = AUS
+    owner = KUK
+    controller = KUK
+    add_core = KUK
 }
-
-
 trade_goods = iron
 life_rating = 35
-
-
-#state_building = {
-#	level = 1
-#	building = steel_factory
-#	upgrade = yes
-#}
-1861.1.1 = { railroad = 3 }
 1861.1.1 = {
-	state_building = {
-		level = 1
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
+    railroad = 3
+}
+1861.1.1 = {
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = fabric_factory
+        upgrade = yes
+    }
 }

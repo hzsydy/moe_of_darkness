@@ -4,13 +4,8 @@ add_core = MOR
 add_core = SPA
 trade_goods = fish
 life_rating = 35
-
-
-
 1861.1.1 = {
-
-	controller = SPA
-	owner = SPA
-colonial = 2
+    controller = SPA
+    owner = SPA
+    colonial = 2
 }
-

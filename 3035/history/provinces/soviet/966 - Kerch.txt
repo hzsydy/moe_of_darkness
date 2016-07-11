@@ -3,13 +3,8 @@ controller = CRI
 add_core = RUS
 add_core = CRI
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-
+    owner = RUS
+    controller = RUS
 }
-
-
 trade_goods = iron
 life_rating = 35
-
-

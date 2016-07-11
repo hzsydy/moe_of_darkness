@@ -4,4 +4,3 @@ add_core = BRZ
 add_core = BOL
 trade_goods = sulphur
 life_rating = 25
-

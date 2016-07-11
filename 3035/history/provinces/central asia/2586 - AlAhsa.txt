@@ -1,10 +1,10 @@
 owner = HDJ
 controller = HDJ
 add_core = HDJ
-add_core = TUR 
+add_core = TUR
 1861.1.1 = {
-	controller = TUR 
-	owner = TUR
+    controller = TUR
+    owner = TUR
 }
 trade_goods = grain
 life_rating = 10

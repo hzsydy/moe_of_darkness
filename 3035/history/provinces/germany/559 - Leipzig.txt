@@ -3,13 +3,9 @@ controller = SAX
 add_core = SAX
 add_core = GER
 1861.1.1 = {
-	remove_core = SAX
-	owner = GER
-
-	controller = GER
-
-
+    remove_core = SAX
+    owner = GER
+    controller = GER
 }
-
 trade_goods = coal
 life_rating = 40

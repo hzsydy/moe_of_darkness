@@ -4,5 +4,3 @@ add_core = RUS
 add_core = MGL
 trade_goods = iron
 life_rating = 35
-
-

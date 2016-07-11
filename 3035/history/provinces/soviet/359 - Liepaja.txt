@@ -5,13 +5,8 @@ add_core = UBD
 add_core = LAT
 add_core = PLC
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-
+    owner = RUS
+    controller = RUS
 }
-
-
 trade_goods = grain
 life_rating = 35
-
-

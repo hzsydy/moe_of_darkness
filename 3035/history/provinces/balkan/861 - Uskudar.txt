@@ -2,14 +2,9 @@ owner = TUR
 controller = TUR
 add_core = TUR
 1861.1.1 = {
-	owner = BUL
-	controller = BUL
-
-        add_core = BUL
+    owner = BUL
+    controller = BUL
+    add_core = BUL
 }
-
-
 trade_goods = grain
 life_rating = 35
-
-

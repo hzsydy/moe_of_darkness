@@ -3,5 +3,3 @@ controller = NET
 add_core = NET
 trade_goods = wool
 life_rating = 35
-
-

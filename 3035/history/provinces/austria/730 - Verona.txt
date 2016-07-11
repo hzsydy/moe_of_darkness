@@ -1,11 +1,8 @@
 owner = ITA
 controller = ITA
-
 add_core = ITA
-
-
 trade_goods = silk
 life_rating = 35
-
-
-1861.1.1 = { railroad = 3 }
+1861.1.1 = {
+    railroad = 3
+}

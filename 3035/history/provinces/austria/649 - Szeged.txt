@@ -1,19 +1,16 @@
 owner = HUN
-controller = HUNadd_core = AUS
+controller = HUNadd_core
+controller = AUS
 add_core = HUN
-
 1861.1.1 = {
-	remove_core = AUS
-
-	remove_core = HUN
-	owner = KUK
-	controller = KUK
-
-        add_core = KUK
+    remove_core = AUS
+    remove_core = HUN
+    owner = KUK
+    controller = KUK
+    add_core = KUK
 }
-
 trade_goods = fruit
 life_rating = 35
-
-
-1861.1.1 = { railroad = 3 }
+1861.1.1 = {
+    railroad = 3
+}

@@ -1,16 +1,10 @@
 owner = POR
 controller = POR
 add_core = POR
-
 add_core = SPA
 trade_goods = grain
 life_rating = 35
-
-
-
 1861.1.1 = {
-
-	controller = SPA
-	owner = SPA
+    controller = SPA
+    owner = SPA
 }
-

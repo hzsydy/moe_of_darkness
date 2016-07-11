@@ -1,5 +1,6 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-add_core = TRItrade_goods = wool
+add_core = TRItrade_goods
+add_core = wool
 life_rating = 10

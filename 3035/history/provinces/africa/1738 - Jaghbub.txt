@@ -1,5 +1,6 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-add_core = TRItrade_goods = grain
+add_core = TRItrade_goods
+add_core = grain
 life_rating = 10

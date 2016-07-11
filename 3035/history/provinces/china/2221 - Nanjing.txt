@@ -4,4 +4,3 @@ add_core = CHI
 add_core = TPG
 trade_goods = coal
 life_rating = 99
-

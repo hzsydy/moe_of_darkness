@@ -3,5 +3,3 @@ controller = BUR
 add_core = BUR
 trade_goods = timber
 life_rating = 35
-
-

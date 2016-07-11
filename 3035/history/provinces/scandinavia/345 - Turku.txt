@@ -4,14 +4,9 @@ add_core = RUS
 add_core = FIN
 add_core = SWE
 1861.1.1 = {
-	owner = SWE
-	controller = SWE
-
+    owner = SWE
+    controller = SWE
 }
-
-
 trade_goods = fish
 life_rating = 35
-
-
 naval_base = 2

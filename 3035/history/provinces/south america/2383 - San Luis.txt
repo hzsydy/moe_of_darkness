@@ -3,5 +3,3 @@ controller = ARG
 add_core = ARG
 trade_goods = grain
 life_rating = 35
-
-

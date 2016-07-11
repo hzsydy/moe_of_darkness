@@ -3,4 +3,6 @@ controller = FRA
 add_core = FRA
 trade_goods = sulphur
 life_rating = 30
-1861.1.1 = { railroad = 3 }
+1861.1.1 = {
+    railroad = 3
+}

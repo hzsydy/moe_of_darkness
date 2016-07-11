@@ -4,17 +4,13 @@ controller = KHI
 add_core = KHI
 add_core = RUS
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-
+    owner = RUS
+    controller = RUS
 }
-
-
 trade_goods = opium
 life_rating = 25
-
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 2
+    owner = RUS
+    controller = RUS
+    colonial = 2
 }

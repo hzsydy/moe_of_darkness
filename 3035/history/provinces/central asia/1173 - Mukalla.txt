@@ -2,11 +2,9 @@ owner = HDJ
 controller = HDJ
 add_core = HDJ
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
+    owner = ENG
+    controller = ENG
+    colonial = 2
 }
 trade_goods = opium
 life_rating = 35
-
-

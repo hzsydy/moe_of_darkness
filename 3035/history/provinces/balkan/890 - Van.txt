@@ -3,5 +3,3 @@ controller = TUR
 add_core = TUR
 add_core = GEOiron
 life_rating = 35
-
-

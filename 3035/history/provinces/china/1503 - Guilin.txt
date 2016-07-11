@@ -3,5 +3,3 @@ controller = CHI
 add_core = CHI
 trade_goods = cotton
 life_rating = 32
-
-

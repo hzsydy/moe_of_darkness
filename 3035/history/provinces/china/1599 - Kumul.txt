@@ -1,10 +1,7 @@
-
 add_core = CHI
 add_core = XIN
 add_core = MGL
 trade_goods = wool
 life_rating = 32
-
-
 owner = XIN
 controller = XIN

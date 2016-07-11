@@ -5,5 +5,3 @@ add_core = MCK
 add_core = MGL
 trade_goods = cattle
 life_rating = 35
-
-

@@ -3,10 +3,8 @@ controller = IRQ
 add_core = TUR
 add_core = IRQ
 1861.1.1 = {
-	controller = TUR 
-	owner = TUR
+    controller = TUR
+    owner = TUR
 }
 trade_goods = sulphur
 life_rating = 35
-
-

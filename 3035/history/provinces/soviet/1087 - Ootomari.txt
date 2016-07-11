@@ -5,5 +5,3 @@ add_core = JAP
 add_core = CHI
 trade_goods = coal
 life_rating = 35
-
-

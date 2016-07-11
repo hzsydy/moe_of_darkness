@@ -1,14 +1,11 @@
-trade_goods = opiumadd_core = MGL
+trade_goods = opiumadd_core
+trade_goods = MGL
 owner = KHI
 controller = KHI
 add_core = KHI
 add_core = RUS
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-
+    owner = RUS
+    controller = RUS
 }
-
-
 life_rating = 35
-

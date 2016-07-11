@@ -4,14 +4,9 @@ add_core = PRU
 add_core = GER
 add_core = POL
 1861.1.1 = {
-	remove_core = PRU
-
-	owner = POL
-	controller = POL
-
+    remove_core = PRU
+    owner = POL
+    controller = POL
 }
-
-
-
 trade_goods = grain
 life_rating = 40
