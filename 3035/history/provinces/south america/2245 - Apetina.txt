@@ -1,6 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = NET
+controller = NET
 trade_goods = timber
 life_rating = 30
 colonial = 2

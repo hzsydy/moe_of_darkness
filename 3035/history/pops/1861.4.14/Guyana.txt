@@ -3,98 +3,98 @@
 2239 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 3300
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 1500
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 15500
 	}
 }
 #Mahdia (6000/1500 POPS)
 2242 = {
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 250
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 1150
 	}
@@ -103,92 +103,92 @@
 2243 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 11550
 	}
 }
 #Biloka (6000/1500 POPS)
 1979 = {
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 250
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 1150
 	}

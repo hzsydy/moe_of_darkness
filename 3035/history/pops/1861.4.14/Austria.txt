@@ -251,25 +251,25 @@
 	}
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 180.25
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 978.5
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 206.0
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 17175.25
 	}
@@ -364,13 +364,13 @@
 
 	clergymen = {
 		culture = south_german
-		religion = animist
+		religion = jewish
 		size = 5.15
 	}
 
 	artisans = {
 		culture = south_german
-		religion = animist
+		religion = jewish
 		size = 509.85
 	}
 }
@@ -548,25 +548,25 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 36.050000000000004
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 25.75
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 1843.7
 	}
 }

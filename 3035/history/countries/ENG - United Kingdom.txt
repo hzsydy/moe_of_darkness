@@ -1,7 +1,7 @@
 capital = 300
 primary_culture = british
-culture = british
-religion = catholic
+culture = anglo_canadian
+religion = protestant
 government = hms_government
 plurality = 30
 nationalvalue = nv_order
@@ -9,7 +9,7 @@ literacy = 0.55
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 150
+prestige = 100
 
 
 # Political reforms
@@ -72,7 +72,6 @@ market_structure = 1
 #corvettes = yes
 commerce_raiders = yes
 precision_work = yes
-united_kingdom = yes
 
 # Starting Consciousness
 consciousness = 3

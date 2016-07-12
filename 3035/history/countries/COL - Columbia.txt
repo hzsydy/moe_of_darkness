@@ -1,8 +1,8 @@
 capital = 14
-primary_culture = british
+primary_culture = anglo_canadian
 culture = british
-culture = french
-religion = catholic
+culture = french_canadian
+religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty

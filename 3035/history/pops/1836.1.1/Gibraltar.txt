@@ -4,37 +4,37 @@
 517 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 135
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 400
 	}
 

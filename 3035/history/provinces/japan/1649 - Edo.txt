@@ -1,6 +1,6 @@
 owner = JAP
 controller = JAP
 add_core = JAP
-trade_goods = coal
-life_rating = 99
+trade_goods = grain
+life_rating = 35
 fort = 1

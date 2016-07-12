@@ -4,69 +4,69 @@
 #Auckland (17000/4250 POPS)
 2509 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 3575
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 }
 #New Plymouth (8000/2000 POPS)
 2510 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 1775
 	}
@@ -74,31 +74,31 @@
 #Napier (12000/3000 POPS)
 2511 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 2675
 	}
@@ -106,31 +106,31 @@
 #Wellington (12000/3000 POPS)
 2512 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 2675
 	}
@@ -138,31 +138,31 @@
 #Tauranga (12000/3000 POPS)
 2571 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 2675
 	}
@@ -172,31 +172,31 @@
 #Dunedin (4000/1000 POPS)
 2513 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 900
 	}
@@ -204,31 +204,31 @@
 #Hokitikia (4000/1000 POPS)
 2514 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 900
 	}
@@ -236,31 +236,31 @@
 #Christchurch (4000/1000 POPS)
 2515 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 1775
 	}
@@ -268,31 +268,31 @@
 #Nelson (12000/3000 POPS)
 2516 = {
 	aristocrats = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = maori
 		religion = animist
 		size = 2675
 	}

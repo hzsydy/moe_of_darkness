@@ -3,37 +3,37 @@ army = {
 	location = 375 
 	regiment = {
 		name= "1e Cavalerie Brigade"
-		type = guard
+		type = cuirassier
 		home = 375
 	}
 
 	regiment = {
 		name= "2e Cavalerie Brigade"
-		type = guard
+		type = cuirassier
 		home = 383
 	}
 
 	regiment = {
 		name= "3e Cavalerie Brigade"
-		type = guard
+		type = cuirassier
 		home = 380
 	}
 
 	regiment = {
 		name = "1e Infanterie Brigade"
-		type = guard
+		type = infantry
 		home = 376
 	}
 
 	regiment = {
 		name = "2e Infanterie Brigade"
-		type = guard
+		type = infantry
 		home = 381
 	}
 
 	regiment = {
 		name = "3e Infanterie Brigade"
-		type = guard
+		type = infantry
 		home = 377
 	}
 

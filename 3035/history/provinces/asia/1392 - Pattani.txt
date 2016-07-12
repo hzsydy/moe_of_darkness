@@ -1,11 +1,5 @@
-owner = BUR
-controller = BUR
-add_core = BUR
-add_core = DAI
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = tropical_wood
 life_rating = 30
-1861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}

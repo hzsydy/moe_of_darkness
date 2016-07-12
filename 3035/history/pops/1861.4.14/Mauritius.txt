@@ -4,25 +4,25 @@
 2125 = {
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 360
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 	
@@ -51,79 +51,79 @@
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 135
 	}
 
 	artisans = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 1565
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 1295
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 31190
 	}
 
 	artisans = {
-		culture = marathi
+		culture = tamil
 		religion = hindu
 		size = 950
 	}
 	
 	farmers = {
-		culture = marathi
+		culture = tamil
 		religion = hindu
 		size = 19200
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = avadhi
 		religion = hindu
 		size = 100
 	}
 	
 	artisans = {
-		culture = marathi
+		culture = avadhi
 		religion = hindu
 		size = 950
 	}
 	
 	farmers = {
-		culture = marathi
+		culture = avadhi
 		religion = hindu
 		size = 19100
 	}
 	
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 100
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1150
 	}
@@ -132,7 +132,7 @@
 #Diego Garcia (720/180 POPS) #remains under British Rule
 2128 = {
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 180
 	}

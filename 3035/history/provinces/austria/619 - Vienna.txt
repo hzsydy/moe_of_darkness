@@ -1,26 +1,6 @@
 owner = AUS
 controller = AUS
 add_core = AUS
-1861.1.1 = {
-    owner = KUK
-    controller = KUK
-    add_core = KUK
-}
-trade_goods = coal
-life_rating = 99
+trade_goods = grain
+life_rating = 35
 fort = 1
-1861.1.1 = {
-    railroad = 2
-}
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = glass_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = fabric_factory
-        upgrade = yes
-    }
-}

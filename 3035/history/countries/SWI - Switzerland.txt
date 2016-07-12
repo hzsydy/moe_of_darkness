@@ -1,6 +1,6 @@
 capital = 605
-primary_culture = south_german
-religion = catholic
+primary_culture = swiss
+religion = protestant
 government = democracy
 plurality = 25.0
 nationalvalue = nv_order

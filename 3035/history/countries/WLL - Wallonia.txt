@@ -1,5 +1,5 @@
 capital = 392
-primary_culture = french
+primary_culture = wallonian
 culture = dutch
 religion = catholic
 government = absolute_monarchy

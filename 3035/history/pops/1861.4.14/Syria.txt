@@ -45,43 +45,43 @@
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 180.25
 	}
 
 	bureaucrats = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 25.75
 	}
 
 	officers = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 128.75
 	}
 
 	artisans = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 1390.5
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 154.5
 	}
 
 	farmers = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 11510.25
 	}
@@ -129,63 +129,63 @@
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 772.5
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 3270.25
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 51.5
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 1493.5
 	}
 }
 #Dayr al-Zour (256000/64000 POPS) #now part of Syria  mashriqi-catholic = assyrian
 901 = {
 	aristocrats = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 154.5
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 128.75
 	}
 
 	artisans = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 669.5
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 180.25
 	}
 
 	farmers = {
-		culture = georgian
+		culture = kurdish
 		religion = sunni
 		size = 11639.0
 	}
@@ -221,31 +221,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3836.75
 	}
@@ -316,49 +316,49 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 51.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 515.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1493.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 180.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 5665.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 14754.75
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 51.5
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 2008.5
 	}
 }
@@ -396,37 +396,37 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 51.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 103.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1905.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25.75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 1004.25
 	}
 }
@@ -464,37 +464,37 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 77.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 463.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 8729.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25.75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 1931.25
 	}
 }
@@ -532,19 +532,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 412.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 7750.75
 	}
 }
@@ -582,19 +582,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 3836.75
 	}
 }
@@ -645,31 +645,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 360.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 8729.25
 	}

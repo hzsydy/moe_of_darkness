@@ -1,7 +1,9 @@
 capital = 794 #Belgrade
 primary_culture = serb
 culture = croat
-religion = catholic
+culture = slovene
+culture = bosniak
+religion = orthodox
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
@@ -67,7 +69,6 @@ mechanized_mining = 1
 basic_chemistry = 1
 
 #Inventions
-yugoslavia = yes
 
 # Starting Consciousness
 consciousness = 4

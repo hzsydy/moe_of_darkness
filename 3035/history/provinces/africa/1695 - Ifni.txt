@@ -1,9 +1,5 @@
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = fish
 life_rating = 30
-1861.1.1 = {
-    owner = SPA
-    controller = SPA
-}

@@ -3,61 +3,61 @@
 2229 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 2675
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1500
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 120
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 4200
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 380
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 28900
 	}
 }
@@ -65,49 +65,49 @@
 2231 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 6000
 	}
 }
@@ -115,49 +115,49 @@
 2232 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 170
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 130
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 65
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 70
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 5610
 	}
 }
@@ -165,55 +165,55 @@
 2233 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 260
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 210
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 55
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 160
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 7150
 	}
 }
@@ -221,49 +221,49 @@
 2409 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = catholic
+		culture = afro_caribbean
+		religion = protestant
 		size = 7120
 	}
 

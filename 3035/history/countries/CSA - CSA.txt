@@ -1,7 +1,7 @@
 capital = 211
 primary_culture = dixie
-culture = dixie
-religion = catholic
+culture = texan
+religion = protestant
 government = democracy
 plurality = 25.1
 nationalvalue = nv_order

@@ -4,31 +4,31 @@
 1182 = {
 	bureaucrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 20
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 15
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 35
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 15
 	}
 
 	farmers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 665
 	}
 
@@ -98,25 +98,25 @@
 2610 = {
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 30
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 45
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 1150
 	}
 
@@ -220,31 +220,31 @@
 1184 = {
 	bureaucrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 2700
 	}
 
@@ -474,31 +474,31 @@
 #Alma-Ata (88000/22000 POPS)
 1186 = {
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 5475
 	}
@@ -538,31 +538,31 @@
 #Kyzylorda (108000/27000 POPS)
 1193 = {
 	aristocrats = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 12775
 	}
@@ -666,31 +666,31 @@
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan   
 1197 = {
 	aristocrats = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 13725
 	}

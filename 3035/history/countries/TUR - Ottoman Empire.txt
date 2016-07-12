@@ -57,7 +57,6 @@ water_wheel_power = 1
 publishing_industry = 1
 
 # Inventions
-ottoman = yes
 
 #Starting Consciousness
 consciousness = 2
@@ -68,7 +67,6 @@ schools = army_tech_school
 oob = "TUR_oob.txt"
 1861.1.1 = {
 	oob = "/1861/TUR_oob.txt"
-	capital = 876
 	prestige = 85
 	plurality = 50
 	literacy = 0.10

@@ -33,31 +33,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3675
 	}
@@ -95,31 +95,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 35
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 910
 	}
@@ -129,31 +129,31 @@
 #Ruwayshid (12000/3000 POPS) #now part of Jordan 
 910 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 125
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 2725
 	}
@@ -191,31 +191,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3675
 	}
@@ -249,31 +249,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3775
 	}

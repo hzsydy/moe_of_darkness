@@ -1,5 +1,5 @@
 capital = 1202
-primary_culture = kazak
+primary_culture = kirgiz
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

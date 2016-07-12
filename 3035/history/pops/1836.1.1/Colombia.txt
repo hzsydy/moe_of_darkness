@@ -45,31 +45,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 2475
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1250
 	}
@@ -131,31 +131,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 680
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 250
 	}
@@ -375,31 +375,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 5475
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 3000
 	}
@@ -461,31 +461,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1500
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 5000
 	}
@@ -523,55 +523,55 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 15675
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 4000
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 1850
 	}
@@ -609,55 +609,55 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 14800
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 3000
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = quechua
+		culture = guajiro
 		religion = catholic
 		size = 930
 	}
@@ -709,31 +709,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 2000
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 750
 	}
@@ -851,31 +851,31 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1800
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 5000
 	}
@@ -971,31 +971,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 5475
 	}
@@ -1003,31 +1003,31 @@
 #Obando (20000/5000 POPS)
 2261 = {
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 4575
 	}
@@ -1077,61 +1077,61 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 7325
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1550
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1250
 	}
@@ -1139,31 +1139,31 @@
 #El Encanto (12000/3000 POPS)
 2263 = {
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 2700
 	}

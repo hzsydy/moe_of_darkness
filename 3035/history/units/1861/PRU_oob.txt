@@ -1,6 +1,239 @@
 #SOIs
 
+ANH = {
 
+	value = 125
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+BRA = {
+	value = 125
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+BRE = {
+
+	value = 125
+	level = 5
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+COB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+FRM = {
+
+	value = 125
+	level = 5
+	influence_value = 100
+	military_access = yes
+}
+
+HAM = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+HAN = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+HEK = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+HES = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+LIP = {
+
+	value = 125
+	level = 5
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+LUB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+LUX = {
+
+	value = 0
+
+	level = 3
+
+	influence_value = 25
+
+}
+
+MEC = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+MEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+
+}
+
+NAS = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+}
+
+OLD = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+}
+
+SAX = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 100
+
+	military_access = yes
+}
+
+HOL = {
+
+	value = 150
+
+	level = 4
+
+	influence_value = 50
+
+}
+
+WEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+
+BAV = {
+
+	value = 75
+	level = 3
+	influence_value = 25
+
+	military_access = yes
+}
+
+
+BAD = {
+
+	value = 100
+
+	level = 3
+
+	influence_value = 20
+
+	military_access = yes
+
+}
+
+
+WUR = {
+	value = 100
+	level = 3
+	influence_value = 20
+	military_access = yes
+}
 
 AUS = {
 	value = -50

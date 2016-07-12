@@ -1,5 +1,5 @@
 capital = 1222
-primary_culture = persian
+primary_culture = baluchi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

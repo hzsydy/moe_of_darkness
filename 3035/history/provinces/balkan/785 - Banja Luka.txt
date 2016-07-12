@@ -1,11 +1,5 @@
 owner = YUG
 controller = YUG
-add_core = TUR
 add_core = YUG
-1861.1.1 = {
-    owner = KUK
-    controller = KUK
-    add_core = KUK
-}
 trade_goods = fish
 life_rating = 35

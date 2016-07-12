@@ -3,43 +3,43 @@
 #Mukalla (32000/8000 POPS)
 1173 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 139.05
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15.450000000000001
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 412.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1030.0
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 6540.5
 	}
@@ -47,31 +47,31 @@
 #Ghaydah (20000/5000 POPS)
 1175 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 4789.5
 	}
@@ -79,31 +79,31 @@
 #Bayda (68000/17000 POPS)
 1176 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 283.25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 180.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 875.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 180.25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15990.75
 	}
@@ -112,37 +112,37 @@
 #Socotra (16000/4000 POPS)
 1177 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 2858.25
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
@@ -153,85 +153,85 @@
 1178 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 489.25
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 51.5
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 257.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1313.25
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 19956.25
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3759.5
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 25.75
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 1519.25
 	}
 }
@@ -268,31 +268,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1854.0
 	}
@@ -331,31 +331,31 @@
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 77.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 77.25
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 6592.0
 	}
 }
@@ -393,60 +393,60 @@
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 77.25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 2755.25
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1879.75
 	}

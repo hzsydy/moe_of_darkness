@@ -1,5 +1,5 @@
 capital = 2209
-primary_culture = afro_american
+primary_culture = caribeno
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.5

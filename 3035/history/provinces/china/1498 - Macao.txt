@@ -1,5 +1,5 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = tea
 life_rating = 32

@@ -3,123 +3,123 @@
 #Tirana (260800/65200 POPS)
 849 = {
 	aristocrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 350
 	}
 
 	officers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 625
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 3200
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 48025
 	}
 
 	clergymen = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 700
 	}
 
 	soldiers = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 200
 	}
 	
 	farmers = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 8425
 	}
 }
 #Shkoder (364000/91000 POPS)
 850 = {
 	aristocrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 2150
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 3800
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 60300
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 20725
 	}
@@ -127,49 +127,49 @@
 #Durres (117800/29450 POPS)
 851 = {
 	aristocrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 21075
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = catholic
 		size = 5000
 	}
@@ -177,56 +177,56 @@
 #Vlore (245400/61350 POPS)
 852 = {
 	aristocrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 1400
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 625
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 3250
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 700
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 50025
 	}
 
 	clergymen = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 200
 	}
 	
 	farmers = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 5000
 	}
 }
@@ -235,74 +235,74 @@
 #Gjirokaster (153600/38400 POPS) #now part of Albania   
 853 = {
 	aristocrats = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = serb
+		culture = albanian
 		religion = sunni
 		size = 18875
 	}
 
 	clergymen = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = serb
-		religion = catholic
+		culture = albanian
+		religion = orthodox
 		size = 6750
 	}
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 200
 	}
 	
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 9075
 	}
 

@@ -140,25 +140,25 @@
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribbean
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribbean
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = afro_caribbean
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribbean
 		religion = catholic
 		size = 1800
 	}

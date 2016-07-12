@@ -3,97 +3,97 @@
 #Zomba (208000/52000 POPS) 
 2066 = {
 	aristocrats = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 1450
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 26400
 	}
 
 	slaves = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = lomwe
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = lomwe
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = zulu
+		culture = lomwe
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = lomwe
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = zulu
+		culture = lomwe
 		religion = animist
 		size = 13675
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = yao
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = yao
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = yao
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = yao
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = zulu
+		culture = yao
 		religion = animist
 		size = 4275
 	}
@@ -101,67 +101,67 @@
 #Lilongwe (160000/40000 POPS)/dominated by Kazembe 
 2067 = {
 	aristocrats = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 17300
 	}
 
 	slaves = {
-		culture = zulu
+		culture = chewa
 		religion = animist
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = lunda
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = lunda
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = zulu
+		culture = lunda
 		religion = animist
 		size = 850
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = lunda
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = zulu
+		culture = lunda
 		religion = animist
 		size = 15125
 	}

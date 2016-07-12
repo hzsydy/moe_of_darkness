@@ -3,91 +3,91 @@
 #Nairobi (260000/65000 POPS)
 2024 = {
 	aristocrats = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 952.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 489.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 2472.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 515.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 45011.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 206.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 566.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 10325.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 206.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 3759.5
 	}
@@ -95,67 +95,67 @@
 #Lodwar (36000/9000 POPS)
 2026 = {
 	aristocrats = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 4763.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 2781.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
@@ -163,97 +163,97 @@
 #Nakuru (128000/32000 POPS)
 2027 = {
 	aristocrats = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 154.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 412.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = kikuyu
 		religion = animist
 		size = 7570.5
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 309.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 154.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 669.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 180.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = maasai
 		religion = animist
 		size = 12076.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 412.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 7519.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 3090.0
 	}
@@ -262,67 +262,67 @@
 #Kisumu (196000/49000POPS)
 2028 = {
 	aristocrats = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 386.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 206.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 798.25
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 309.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = luo
 		religion = animist
 		size = 20960.5
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 386.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 206.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 206.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 18771.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 7210.0
 	}
@@ -332,31 +332,31 @@
 #Marsabit (52000/13000 POPS
 2025 = {
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 257.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 669.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 12231.25
 	}
@@ -364,67 +364,67 @@
 #Wajir (100000/25000 POPS)
 2031 = {
 	aristocrats = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 412.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 206.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 875.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 231.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 18771.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 206.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 3759.5
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
@@ -432,91 +432,91 @@
 #Garissa (172000/43000 POPS)
 2032 = {
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 669.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 386.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1802.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 360.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 32831.25
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = somali
 		religion = sunni
 		size = 2781.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = oromo
 		religion = animist
 		size = 77.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = oromo
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = oromo
 		religion = animist
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = oromo
 		religion = animist
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = oromo
 		religion = animist
 		size = 4712.25
 	}
@@ -526,31 +526,31 @@
 #Mombasa (100000/25000 POPS)
 2029 = {
 	aristocrats = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 206.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 566.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 1330.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 10424.5
 	}
@@ -586,37 +586,37 @@
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 180.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 515.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 103.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 9398.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 4090.0
 	}
@@ -624,67 +624,67 @@
 #Lamu (100000/25000 POPS)
 2030 = {
 	aristocrats = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 231.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 515.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 1328.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = swahili
 		religion = sunni
 		size = 10325.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 231.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 618.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 11252.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 3060.0
 	}
@@ -693,31 +693,31 @@
 #Voi (104000/26000 POPS)
 2033 = {
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 489.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 257.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1339.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1257.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 24436.75
 	}

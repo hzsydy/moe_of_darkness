@@ -1,5 +1,5 @@
 capital = 2115
-primary_culture = zulu
+primary_culture = malagasy
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

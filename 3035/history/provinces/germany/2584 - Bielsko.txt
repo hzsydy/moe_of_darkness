@@ -1,13 +1,5 @@
-owner = POL
-controller = POL
+owner = AUS
+controller = AUS
 add_core = AUS
-add_core = POL
 trade_goods = coal
-1861.1.1 = {
-    remove_core = AUS
-    add_core = KUK
-}
 life_rating = 40
-1861.1.1 = {
-    railroad = 2
-}

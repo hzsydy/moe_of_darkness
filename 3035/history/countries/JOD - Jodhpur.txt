@@ -1,5 +1,5 @@
 capital = 1266
-primary_culture = marathi
+primary_culture = rajput
 culture = marathi
 religion = hindu
 government = absolute_monarchy

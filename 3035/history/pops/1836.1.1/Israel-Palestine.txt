@@ -34,19 +34,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 1875
 	}
 
@@ -70,19 +70,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1850
 	}
 }
@@ -134,37 +134,37 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 825
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 3100
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 875
 	}
 
 	farmers = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 1175
 	}
 }
@@ -202,19 +202,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 850
 	}
 
@@ -270,37 +270,37 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 875
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 300
 	}
 
 	farmers = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 1675
 	}
 }
@@ -338,19 +338,19 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = orthodox
 		size = 1725
 	}
 }
@@ -387,31 +387,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1850
 	}

@@ -1,8 +1,8 @@
 capital = 343
 primary_culture = finnish
 culture = swedish
-culture = swedish
-religion = catholic
+culture = sami
+religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty

@@ -1,6 +1,6 @@
 capital = 1982
-primary_culture = zulu
-culture = zulu
+primary_culture = bakongo
+culture = african_minor
 religion = catholic
 government = hms_government
 plurality = 25.0

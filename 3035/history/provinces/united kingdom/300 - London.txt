@@ -1,14 +1,9 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-trade_goods = precious_metal
-life_rating = 99
+trade_goods = grain
+life_rating = 45
 fort = 1
-state_building = {
-    level = 1
-    building = machine_parts_factory
-    upgrade = yes
-}
 state_building = {
     level = 1
     building = furniture_factory
@@ -33,19 +28,4 @@ state_building = {
     level = 2
     building = clipper_shipyard
     upgrade = yes
-}
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = luxury_clothes_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = luxury_furniture_factory
-        upgrade = yes
-    }
-}
-1861.1.1 = {
-    railroad = 3
 }

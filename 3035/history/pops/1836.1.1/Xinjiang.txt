@@ -45,61 +45,61 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 10975
 	}
 
 	clergymen = {
-		culture = persian
+		culture = tajik
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = persian
+		culture = tajik
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = persian
+		culture = tajik
 		religion = sunni
 		size = 1450
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 975
 	}
@@ -198,31 +198,31 @@
 
 	aristocrats = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 100
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 50
 	}
 
 	artisans = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 250
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 50
 	}
 
 	farmers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 4550
 	}
 }
@@ -320,31 +320,31 @@
 
 	aristocrats = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 125
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 350
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 75
 	}
 
 	farmers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 6375
 	}
 }
@@ -592,31 +592,31 @@
 
 	aristocrats = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 25
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 50
 	}
 
 	artisans = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 100
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 1800
 	}
 
@@ -684,31 +684,31 @@
 
 	aristocrats = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 50
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 150
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 25
 	}
 
 	farmers = {
 		culture = mongol
-		religion = mahayana
+		religion = gelugpa
 		size = 2700
 	}
 

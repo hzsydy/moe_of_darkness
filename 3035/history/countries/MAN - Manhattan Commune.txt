@@ -1,7 +1,7 @@
 capital = 232
 primary_culture = yankee
 culture = dixie
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty

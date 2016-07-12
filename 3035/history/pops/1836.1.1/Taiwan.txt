@@ -3,79 +3,79 @@
 #Taipei (1452000/363000 POPS) #now part of Taiwan   
 1485 = {
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 400
 	}
 
 	officers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 725
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1225
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 6150
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 110625
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 3000
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2400
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2000
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2400
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 220200
 	}
@@ -101,67 +101,67 @@
 #Tainan (1528000/382000 POPS) #now part of Taiwan  
 2562 = {
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1525
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1325
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 6600
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1325
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 121225
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 3500
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2500
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2500
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 2500
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 229000
 	}

@@ -3,4 +3,3 @@ controller = HND
 add_core = HND
 trade_goods = coal
 life_rating = 28
-colonial = 2

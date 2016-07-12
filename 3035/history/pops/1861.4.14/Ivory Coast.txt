@@ -3,37 +3,37 @@
 #Grand Lahou (108000/27000 POPS)
 1892 = {
 	aristocrats = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 515.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 283.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 1107.25
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 283.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 20471.25
 	}
 
 	slaves = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 5150.0
 	}
@@ -41,73 +41,73 @@
 #Sassandra (282000/47000 POPS)
 1893 = {
 	aristocrats = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 231.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 515.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 8265.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 3090.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 746.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 386.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 1545.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 386.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 22685.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 10300.0
 	}
@@ -115,37 +115,37 @@
 #Grand Bassam (88000/22000 POPS)
 1894 = {
 	aristocrats = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 437.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 231.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 1133.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 231.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 16505.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 4120.0
 	}
@@ -153,67 +153,67 @@
 #Bouake (60000/15000 POPS)
 1895 = {
 	aristocrats = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 231.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 618.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 9192.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 2060.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 2781.0
 	}
@@ -221,67 +221,67 @@
 #Man (80000/20000 POPS)
 1896 = {
 	aristocrats = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 154.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 412.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 7519.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 437.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 231.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 1133.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 231.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 15475.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = kru
 		religion = animist
 		size = 5150.0
 	}
@@ -289,37 +289,37 @@
 #Akoupe (92000/23000 POPS)
 1897 = {
 	aristocrats = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 437.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 231.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 978.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 257.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 18694.5
 	}
 
 	slaves = {
-		culture = zulu
+		culture = akan
 		religion = animist
 		size = 3090.0
 	}
@@ -329,79 +329,79 @@
 #Kong (88000/22000 POPS)
 1898 = {
 	aristocrats = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 206.0
 	}
 
 	bureaucrats = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 15.450000000000001
 	}
 
 	officers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 128.75
 	}
 
 	artisans = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 618.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 7117.3
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 180.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 515.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 103.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 9398.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 4120.0
 	}
@@ -409,67 +409,67 @@
 #Bundoukou (72000/18000 POPS)
 1899 = {
 	aristocrats = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 206.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 566.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 128.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 7235.75
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 128.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 360.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 6566.25
 	}
 
 	slaves = {
-		culture = zulu
+		culture = senufo
 		religion = animist
 		size = 3090.0
 	}
@@ -479,97 +479,97 @@
 #Odienne (96000/24000 POPS) #now part of Ivory Coast
 1900 = {
 	aristocrats = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 309.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 154.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 669.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 180.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = mande
 		religion = sunni
 		size = 12025.25
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 77.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = dyula
 		religion = sunni
 		size = 4712.25
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 2781.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 3090.0
 	}

@@ -1,5 +1,6 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = PEU
+controller = PEU
+add_core = PEU
+add_core = CHL
 trade_goods = wool
 life_rating = 35

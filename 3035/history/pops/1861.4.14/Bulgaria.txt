@@ -34,25 +34,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 437.75
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 290.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 28917.25
 	}
 }
@@ -104,49 +104,49 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 180.25
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 2472.0
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 290.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 41637.75
 	}
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 154.5
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 875.5
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 125.75
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 1004.25
 	}
 }
@@ -178,37 +178,37 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 154.5
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 290.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 27140.5
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 5.15
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 252.35
 	}
 }
@@ -240,37 +240,37 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 490.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 37131.5
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 10.3
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 762.2
 	}
 }
@@ -308,25 +308,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 257.5
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 1133.0
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 390.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 38779.5
 	}
 }
@@ -364,25 +364,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 154.5
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 290.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 23690.0
 	}
 }
@@ -420,19 +420,19 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 231.75
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 1957.0
 	}
 
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 36951.25
 	}
 }
@@ -484,25 +484,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 177.25
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 190.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 13879.25
 	}
 
@@ -532,31 +532,31 @@
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 618.0
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 2369.0
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 10.3
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 762.2
 	}
 }
@@ -594,25 +594,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 177.25
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 190.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 11819.25
 	}
 
@@ -674,25 +674,25 @@
 
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 180.25
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 290.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 26033.25
 	}
 
@@ -722,19 +722,19 @@
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 154.5
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 927.0
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 5098.5
 	}
 
@@ -745,49 +745,49 @@
 818 = {
 	clergymen = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 151.5
 	}
 
 	artisans = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 109.0
 	}
 	
 	farmers = {
 		culture = bulgarian
-		religion = catholic
+		religion = orthodox
 		size = 9785.0
 	}
 
 	clergymen = {
 		culture = romanian
-		religion = catholic
+		religion = orthodox
 		size = 177.25
 	}
 
 	artisans = {
 		culture = romanian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = romanian
-		religion = catholic
+		religion = orthodox
 		size = 109.0
 	}
 	
 	farmers = {
 		culture = romanian
-		religion = catholic
+		religion = orthodox
 		size = 4866.75
 	}
 

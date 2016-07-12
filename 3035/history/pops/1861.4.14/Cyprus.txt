@@ -46,19 +46,19 @@
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 772.5
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 11484.5
 	}
 }
@@ -96,19 +96,19 @@
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 412.0
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 8780.75
 	}
 }
@@ -146,19 +146,19 @@
 
 	clergymen = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 412.0
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 7750.75
 	}
 

@@ -1,12 +1,5 @@
-owner = UBD
-controller = UBD
-add_core = RUS
-add_core = UBD
-add_core = LAT
+owner = PLC
+controller = PLC
 add_core = PLC
-1861.1.1 = {
-    owner = RUS
-    controller = RUS
-}
 trade_goods = grain
 life_rating = 35

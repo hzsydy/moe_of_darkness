@@ -3,43 +3,43 @@
 #Kigali (496000/124000 POPS) 
 2034 = {
 	aristocrats = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 2450
 	}
 
 	bureaucrats = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 25
 	}
 
 	officers = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 1750
 	}
 
 	artisans = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 6200
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 1250
 	}
 
 	farmers = {
-		culture = zulu
+		culture = ruanda
 		religion = animist
 		size = 113200
 	}
@@ -48,43 +48,43 @@
 #Usumbura (448000/112000 POPS) 
 2035 = {
 	aristocrats = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 2175
 	}
 
 	bureaucrats = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 15
 	}
 
 	officers = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 110
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 1125
 	}
 
 	artisans = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 5600
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 1125
 	}
 
 	farmers = {
-		culture = zulu
+		culture = rundi
 		religion = animist
 		size = 101850
 	}

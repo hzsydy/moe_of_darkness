@@ -12,7 +12,7 @@
 2406 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 

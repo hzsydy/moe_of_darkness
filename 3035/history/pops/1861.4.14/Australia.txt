@@ -5,61 +5,61 @@
 2468 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 230
 	}
 
 	capitalists = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 825
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 90
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 400
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	clerks = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 7000
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1250
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15775
 	}
 
@@ -94,31 +94,31 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	clerks = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 4045
 	}
@@ -131,25 +131,25 @@
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 425
 	}
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
 		culture = ashkenazi 
-		religion = animist
+		religion = jewish
 		size = 290
 	}
 
@@ -159,37 +159,37 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 135
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 8955
 	}
 
@@ -206,38 +206,38 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 1445
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 260
 	}
 
 	clerks = {
 		culture = ashkenazi
-		religion = animist
+		religion = jewish
 		size = 25
 	}
 
@@ -246,24 +246,24 @@
 2470 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 85
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 170
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 3330
 	}
 
@@ -274,25 +274,25 @@
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 685
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 205
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 115
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 500
 	}
@@ -302,37 +302,37 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 60
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 4660
 	}
 
@@ -349,31 +349,31 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 1410
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 120
 	}
 
 	clerks = {
 		culture = ashkenazi
-		religion = animist
+		religion = jewish
 		size = 100
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 420
 	}
@@ -383,31 +383,31 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 130
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 3800
 	}
 
@@ -424,20 +424,20 @@
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 1085
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
@@ -449,24 +449,24 @@
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	clerks = {
 		culture = ashkenazi
-		religion = animist
+		religion = jewish
 		size = 30
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 460
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 250
 	}
@@ -476,37 +476,37 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 120
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 125
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5835
 	}
 
@@ -523,43 +523,43 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 1475
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 110
 	}
 
 	clerks = {
 		culture = ashkenazi
-		religion = animist
+		religion = jewish
 		size = 20
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1965
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 250
 	}
@@ -569,25 +569,25 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 80
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 2040
 	}
 
@@ -598,25 +598,25 @@
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 115
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 165
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 750
 	}
@@ -624,38 +624,38 @@
 #Broken Hill (9455/2365 POPS) 
 2475 = {
 	aristocrats = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 45
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 115
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 2035
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
@@ -671,37 +671,37 @@
 2482 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 225
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 45
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 340
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1125
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1125
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 19640
 	}
 
@@ -714,61 +714,61 @@
 2476 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 395
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1420
 	}
 
 	capitalists = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 155
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 155
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 
 	clerks = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 800
 	}
 
 	craftsmen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 7000
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5050
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1500
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 32055
 	}
 
@@ -785,25 +785,25 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 500
 	}
 
 	craftsmen = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 9545
 	}
@@ -816,25 +816,25 @@
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 145
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 640
 	}
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 240
 	}
 
@@ -852,36 +852,36 @@
 
 	farmers = {
 		culture = swedish
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
 		culture = ashkenazi 
-		religion = animist
+		religion = jewish
 		size = 100
 	}
 
 	clerks = {
 		culture = ashkenazi 
-		religion = animist
+		religion = jewish
 		size = 200
 	}
 
 	farmers = {
 		culture = ashkenazi 
-		religion = animist
+		religion = jewish
 		size = 250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 730
 	}
@@ -893,31 +893,31 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 380
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 7195
 	}
 
@@ -928,37 +928,37 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 1660
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 185
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 270
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
@@ -967,31 +967,31 @@
 2478 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 560
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 2000
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25620
 	}
 
@@ -1008,19 +1008,19 @@
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 205
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 4800
 	}
@@ -1033,19 +1033,19 @@
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 1080
 	}
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 225
 	}
 
@@ -1056,7 +1056,7 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = swiss
 		religion = catholic
 		size = 105
 	}
@@ -1069,44 +1069,44 @@
 
 
 	farmers = {
-		culture = swedish
-		religion = catholic
+		culture = norwegian
+		religion = protestant
 		size = 300
 	}
 
 
 	farmers = {
-		culture = swedish
-		religion = catholic
+		culture = danish
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = greek
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
 		culture = ashkenazi 
-		religion = animist
+		religion = jewish
 		size = 150
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 3810
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
@@ -1115,48 +1115,48 @@
 2479 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 30
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1120
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 145
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
@@ -1166,31 +1166,31 @@
 2480 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 125
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 165
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5035
 	}
 
@@ -1201,7 +1201,7 @@
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 1420
 	}
@@ -1214,13 +1214,13 @@
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 215
 	}
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
@@ -1231,13 +1231,13 @@
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1140
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
@@ -1247,31 +1247,31 @@
 2481 = {
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 105
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 4445
 	}
 
@@ -1282,7 +1282,7 @@
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 1060
 	}
@@ -1295,30 +1295,30 @@
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	farmers = {
 		culture = yankee
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = swedish
-		religion = catholic
+		culture = norwegian
+		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 120
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 200
 	}
@@ -1330,55 +1330,55 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1085
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1200
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 14870
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 4465
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = animist
+		religion = jewish
 		size = 100
 	}
 
@@ -1390,43 +1390,43 @@
 2483 = {
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 45
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 155
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 60
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 205
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1425
 	}
 
@@ -1438,30 +1438,30 @@
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 330
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 985
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 135
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 250
 	}
@@ -1472,19 +1472,19 @@
 2484 = {
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 35
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 985
 	}
 
@@ -1495,19 +1495,19 @@
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1975
 	}
@@ -1516,30 +1516,30 @@
 2485 = {
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1775
 	}
@@ -1549,25 +1549,25 @@
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 45
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1160
 	}
 
@@ -1578,31 +1578,31 @@
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1125
 	}
@@ -1612,30 +1612,30 @@
 2487 = {
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 2360
 	}
@@ -1643,25 +1643,25 @@
 #Cooktown (10000/2500 POPS)
 2488 = {
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 2325
 	}
@@ -1670,25 +1670,25 @@
 2489 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1160
 	}
@@ -1698,30 +1698,30 @@
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 30
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 260
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1200
 	}
@@ -1731,25 +1731,25 @@
 2604 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 40
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1835
 	}
@@ -1762,90 +1762,90 @@
 
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 85
 	}
 
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 45
 	}
 
 	capitalists = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 260
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 335
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1200
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1200
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20485
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 120
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 2130
 	}
 
 	clergymen = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 2575
 	}
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 250
 	}
@@ -1855,23 +1855,23 @@
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 285
 	}
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 250
 	}
@@ -1881,41 +1881,41 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 45
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 30
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1300
 	}
 
 	farmers = {
-		culture = british 
+		culture = irish 
 		religion = catholic
 		size = 135
 	}
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 210
 	}
@@ -1925,35 +1925,35 @@
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 35
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 30
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 1025
 	}
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 205
 	}
@@ -1963,30 +1963,30 @@
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 280
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 550
 	}
@@ -1995,25 +1995,25 @@
 2496 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 695
 	}
@@ -2027,60 +2027,60 @@
 
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 30
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 80
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 80
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 180
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 2415
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = catholic
 		size = 830
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1450
 	}
@@ -2090,30 +2090,30 @@
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 205
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1195
 	}
@@ -2123,25 +2123,25 @@
 2499 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1600
 	}
@@ -2150,25 +2150,25 @@
 2500 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 910
 	}
@@ -2177,25 +2177,25 @@
 2501 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1600
 	}
@@ -2204,25 +2204,25 @@
 2502 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 455
 	}
@@ -2231,25 +2231,25 @@
 2503 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 635
 	}
@@ -2258,25 +2258,25 @@
 2504 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 910
 	}
@@ -2286,19 +2286,19 @@
 2601 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 465
 	}
@@ -2307,19 +2307,19 @@
 2602 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 465
 	}
@@ -2328,19 +2328,19 @@
 2605 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 735
 	}
@@ -2350,31 +2350,31 @@
 #Palmerston (24000/6000 POPS)
 2505 = {
 	aristocrats = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 40
 	}
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 60
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 5600
 	}
@@ -2383,25 +2383,25 @@
 2506 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 2840
 	}
@@ -2410,25 +2410,25 @@
 2507 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1425
 	}
@@ -2438,25 +2438,25 @@
 2603 = {
 
 	clergymen = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = polynesian
+		culture = aborigine
 		religion = animist
 		size = 1425
 	}
@@ -2468,19 +2468,19 @@
 2508 = {
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 5
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 

@@ -4,49 +4,49 @@
 1587 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 4150
 	}
 
 	bureaucrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 750
 	}
 
 	officers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 950
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 2150
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 10000
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 400
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 4000
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 18560
 	}
 
@@ -78,31 +78,31 @@
 1588 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 2750
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1450
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 7000
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1400
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 127400
 	}
 
@@ -134,31 +134,31 @@
 1589 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1600
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 875
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 4000
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 800
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 72725
 	}
 
@@ -190,31 +190,31 @@
 1590 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 3375
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1750
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 8600
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1725
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 156550
 	}
 }
@@ -222,31 +222,31 @@
 1591 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 375
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 200
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 950
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 175
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 17300
 	}
 }
@@ -254,31 +254,31 @@
 1592 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1500
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 775
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 3800
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 750
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 69175
 	}
 }
@@ -286,60 +286,60 @@
 1593 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 2625
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1350
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 6600
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1325
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 120100
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = kachin
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = kachin
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = burmese
+		culture = kachin
 		religion = animist
 		size = 1950
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = kachin
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = burmese
+		culture = kachin
 		religion = animist
 		size = 35550
 	}

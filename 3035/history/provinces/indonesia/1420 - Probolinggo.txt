@@ -3,4 +3,3 @@ controller = JAV
 add_core = JAV
 trade_goods = sulphur
 life_rating = 30
-colonial = 2

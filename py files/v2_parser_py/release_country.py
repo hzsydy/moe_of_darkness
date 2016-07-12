@@ -1,5 +1,7 @@
 from V2_parser import *
 
+unity_flag = ['HND', 'GER', 'AUS', 'PLC', 'ITA', 'NET', 'FIN', 'UBD', 'YUG', 'ROM', 'CAN', 'TUR']
+
 class work:
     def __init__(self):
         pass
@@ -21,12 +23,12 @@ class work:
             for key, val in V2_struct:
                 if key == 'add_core':
                     corenum = corenum + 1
-                    if corenum == 2:
-                        break
                     core_flag = val
-            else:
-                if ((corenum == 1) and (core_flag != owner_flag)):
-                    print core_flag
+                    if val in unity_flag:
+                        corenum = 1
+                        break
+            if corenum == 1:
+                if (core_flag != owner_flag):
                     for key, val in V2_struct:
                         if key == 'owner':
                             result.append((key, core_flag))
@@ -40,7 +42,28 @@ class work:
                             pass
                         else:
                             result.append((key, val))
-                    return result
+                else:
+                    core_added = False
+                    for key, val in V2_struct:
+                        if key == 'owner':
+                            result.append((key, core_flag))
+                        elif key == 'controller':
+                            result.append((key, core_flag))
+                        elif key == 'add_core':
+                            if not core_added:
+                                result.append((key, core_flag))
+                                core_added = True
+                            else:
+                                pass
+                        elif key == '1836.1.1':
+                            pass
+                        elif key == '1861.1.1':
+                            pass
+                        elif key == 'colonial':
+                            pass
+                        else:
+                            result.append((key, val))
+                return result
             return V2_struct        
         return V2_struct
 

@@ -4,25 +4,25 @@
 2125 = {
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 130
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
@@ -63,25 +63,25 @@
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = catholic
+		culture = african_minor
+		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 22375
 	}
@@ -89,7 +89,7 @@
 #Diego Garcia (700/175 POPS) #remains under British Rule
 2128 = {
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 175
 	}

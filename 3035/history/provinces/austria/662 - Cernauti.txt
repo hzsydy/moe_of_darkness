@@ -1,11 +1,5 @@
-owner = ROM
-controller = ROM
-add_core = ROM
-add_core = ROM
-1861.1.1 = {
-    owner = KUK
-    controller = KUK
-    add_core = KUK
-}
+owner = AUS
+controller = AUS
+add_core = AUS
 trade_goods = fruit
 life_rating = 35

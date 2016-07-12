@@ -1,15 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = GER
+controller = GER
 add_core = GER
-add_core = SCA
-1861.1.1 = {
-    owner = GER
-    controller = GER
-}
 trade_goods = cattle
 life_rating = 35
 fort = 1
-1861.1.1 = {
-    railroad = 2
-}

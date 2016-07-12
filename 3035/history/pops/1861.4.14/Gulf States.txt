@@ -3,31 +3,31 @@
 #Kuwait (12000/3000 POPS) #now part of Kuwait
 935 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 2806.75
 	}
@@ -37,93 +37,93 @@
 #Bahrain (20000/5000 POPS) #now part of Bahrein
 1162 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15.450000000000001
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 10.3
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1905.5
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = bedouin
+		religion = shiite
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = bedouin
+		religion = shiite
 		size = 154.5
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
+		culture = bedouin
+		religion = shiite
 		size = 2884.0
 	}
 }
 #Doha (8000/2000 POPS) #now part of Qatar
 1165 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1879.75
 	}
@@ -133,43 +133,43 @@
 #Abu Dhabi (20000/5000 POPS) #now part of UAE
 1167 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 25.75
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 15.450000000000001
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 10.3
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 1030.0
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3759.5
 	}
@@ -177,31 +177,31 @@
 #Dubai (16000/4000 POPS)   #now part of UAE
 1168 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 77.25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bedouin
 		religion = sunni
 		size = 3733.75
 	}

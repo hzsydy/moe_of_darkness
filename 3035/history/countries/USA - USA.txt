@@ -1,8 +1,8 @@
 capital = 220
 primary_culture = yankee
 culture = dixie
-culture = dixie
-religion = catholic
+culture = texan
+religion = protestant
 government = democracy
 plurality = 25.0
 nationalvalue = nv_liberty
@@ -11,7 +11,7 @@ civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 50
+prestige = 30
 
 # Political reforms
 slavery = yes_slavery
@@ -83,7 +83,6 @@ hierarchical_order = yes
 traditionalism = yes
 political_religion = yes
 paternalism = yes
-united_states_of_america = yes
 
 
 # Starting Consciousness
@@ -128,8 +127,7 @@ decision = corwin_amendment
 
 ruling_party = USA_liberal
 plurality = 60
-#GreaterPowers = prestige
-prestige = 80
+prestige = 40
 literacy = 0.75
 non_state_culture_literacy = 0.15
 

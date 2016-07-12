@@ -1,11 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = NET
+controller = NET
 add_core = NET
-1836.1.1 = {
-    owner = NET
-    controller = NET
-}
 trade_goods = coal
 life_rating = 35
 state_building = {
@@ -22,14 +17,4 @@ state_building = {
     level = 1
     building = small_arms_factory
     upgrade = yes
-}
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = machine_parts_factory
-        upgrade = yes
-    }
-}
-1861.1.1 = {
-    railroad = 3
 }

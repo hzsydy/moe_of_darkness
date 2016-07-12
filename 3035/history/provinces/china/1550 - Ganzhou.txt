@@ -1,9 +1,6 @@
-owner = CHI
-controller = CHI
+owner = GXI
+controller = GXI
 add_core = CHI
-add_core = TPG
-1861.1.1 = {
-    remove_core = TPG
-}
+add_core = GXI
 trade_goods = coal
 life_rating = 32

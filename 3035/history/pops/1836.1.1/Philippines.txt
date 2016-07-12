@@ -81,13 +81,13 @@
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = catholic
 		size = 800
 	}

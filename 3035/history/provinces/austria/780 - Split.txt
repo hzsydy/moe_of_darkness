@@ -1,13 +1,5 @@
-owner = CRO
-controller = CRO
+owner = AUS
+controller = AUS
 add_core = AUS
-add_core = CRO
-add_core = YUG
-1861.1.1 = {
-    remove_core = AUS
-    owner = KUK
-    controller = KUK
-    add_core = KUK
-}
 trade_goods = fish
 life_rating = 35

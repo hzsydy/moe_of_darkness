@@ -1,11 +1,5 @@
-add_core = MGL
-owner = KHI
-controller = KHI
-add_core = KHI
-add_core = RUS
-1861.1.1 = {
-    owner = RUS
-    controller = RUS
-}
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = coal
 life_rating = 35

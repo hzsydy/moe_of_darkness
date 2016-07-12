@@ -2,67 +2,67 @@
 #Montevideo (116200/29050 POPS)
 2344 = {
 	aristocrats = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 575
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 200
 	}
 
 	officers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 1575
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 20600
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 3300
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_caribeno
 		religion = catholic
 		size = 1500
 	}
@@ -70,31 +70,31 @@
 #Paysandu (81200/20300 POPS)
 2345 = {
 	aristocrats = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 875
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 18000
 	}
@@ -102,31 +102,31 @@
 #Tacuarembo (19000/4750 POPS)
 2346 = {
 	aristocrats = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 190
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 3285
 	}
@@ -158,31 +158,31 @@
 #Melo (44600/11150 POPS)
 2347 = {
 	aristocrats = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 6500
 	}

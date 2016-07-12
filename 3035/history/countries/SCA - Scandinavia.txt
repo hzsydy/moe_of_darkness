@@ -1,9 +1,9 @@
 capital = 322
 primary_culture = swedish
 culture = finnish
-culture = swedish
-culture = swedish
-religion = catholic
+culture = norwegian
+culture = danish
+religion = protestant
 government = hms_government
 plurality = 0.05
 nationalvalue = nv_order

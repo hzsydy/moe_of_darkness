@@ -1,9 +1,9 @@
 capital = 322
 primary_culture = swedish
 culture = finnish
-culture = swedish
-culture = swedish
-religion = catholic
+culture = norwegian
+culture = sami
+religion = protestant
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
@@ -70,7 +70,7 @@ basic_chemistry = 1
 
 #Inventions
 #corvettes = yes
-sweden = yes
+
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0

@@ -44,25 +44,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 4000
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 70000
 	}
@@ -180,25 +180,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 14000
 	}
@@ -305,25 +305,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 525
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 4775
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 42000
 	}
@@ -430,25 +430,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 5550
 	}
@@ -480,61 +480,61 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 3600
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 275
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 3600
 	}
@@ -566,31 +566,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = guarani
 		religion = animist
 		size = 5400
 	}
@@ -665,31 +665,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 2700
 	}
@@ -697,31 +697,31 @@
 #Riberalta (8000/2000 POPS)
 2320 = {
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 1700
 	}
@@ -784,31 +784,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = amazonian
 		religion = animist
 		size = 2700
 	}

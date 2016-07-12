@@ -1,9 +1,9 @@
 capital = 702
-primary_culture = russian
+primary_culture = ukrainian
+culture = byelorussian
 culture = russian
-culture = russian
-culture = russian
-religion = catholic
+culture = ugrian
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order

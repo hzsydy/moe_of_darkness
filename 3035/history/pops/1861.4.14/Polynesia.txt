@@ -3,43 +3,43 @@
 658 = {
 	aristocrats = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 75
 	}
 
 	officers = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	artisans = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 1150
 	}
 
 	soldiers = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 13075
 	}
 
@@ -501,19 +501,19 @@
 2552 = {
 	clergymen = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 1
 	}
 
 	artisans = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 4
 	}
 
 	farmers = {
 		culture = polynesian
-		religion = catholic
+		religion = protestant
 		size = 35
 	}
 }

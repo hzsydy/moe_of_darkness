@@ -1,5 +1,8 @@
 capital = 1948
-primary_culture = zulu
+primary_culture = hausa
+culture = tiv
+culture = fulbe
+culture = african_minor
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -44,22 +47,11 @@ school_reforms = no_schools
 1861.1.1 = {
 	oob = "/1861/SOK_oob.txt"
 
-civilized = yes
-
-
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-water_wheel_power = 1
-publishing_industry = 1
-
+	#Military Reforms
+	foreign_weapons = yes_foreign_weapons
+	literacy = 0.05
+	non_state_culture_literacy = 0.04
+	
+	#Technologies
+	flintlock_rifles = 1
 }

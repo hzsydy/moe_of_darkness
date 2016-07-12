@@ -6,6 +6,24 @@ HAN = {
 	influence_value = 10
 }
 
+BAD = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAV = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+WUR = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
 SAX = {
 	value = 75
 	level = 3

@@ -1,13 +1,7 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-add_core = SPA
 trade_goods = fish
 life_rating = 35
-colonial = 2
 naval_base = 2
 fort = 1
-1861.1.1 = {
-    controller = SPA
-    owner = SPA
-}

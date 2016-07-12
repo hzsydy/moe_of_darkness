@@ -1,5 +1,5 @@
 capital = 967
-primary_culture = mongol
+primary_culture = tatar
 religion = sunni
 government = absolute_monarchy
 plurality = 0.02

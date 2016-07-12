@@ -3,31 +3,31 @@
 #Bishkek (236000/59000 POPS) #now part of Kirghizstan   
 1189 = {
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 425
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 7000
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 33775
 	}
@@ -95,61 +95,61 @@
 #Naryn (56000/14000 POPS) #now part of Kirghizstan    
 1190 = {
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 2775
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = animist
 		size = 4575
 	}
@@ -189,61 +189,61 @@
 #Osh (112000/28000 POPS) #Now part of Kirghizstan   
 1203 = {
 	aristocrats = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = kazak
+		culture = uzbek
 		religion = sunni
 		size = 8200
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 375
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 4000
 	}
 
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 13550
 	}

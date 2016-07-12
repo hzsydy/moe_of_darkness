@@ -3,74 +3,74 @@
 #Katmandu (540000/135000 POPS)   
 1326 = {
 	aristocrats = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 175
 	}
 
 	officers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 225
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 1100
 	}
 
 	artisans = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 4050
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 7000
 	}
 
 	farmers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 86250
 	}
 
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 200
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 100
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 475
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 100
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 10125
 	}
 
@@ -107,62 +107,62 @@
 #Jumla (412000/103000 POPS)   
 1327 = {
 	aristocrats = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 900
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 450
 	}
 
 	artisans = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 2300
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 49250
 	}
 
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 700
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 375
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1850
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 350
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 33725
 	}
 

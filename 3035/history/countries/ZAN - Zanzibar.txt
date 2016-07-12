@@ -1,5 +1,5 @@
 capital = 2048
-primary_culture = zulu
+primary_culture = swahili
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

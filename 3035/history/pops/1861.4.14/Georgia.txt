@@ -4,169 +4,169 @@
 1090 = {
 	bureaucrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 257.5
 	}
 
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 51.5
 	}
 
 	officers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 489.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 6926.75
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 40813.75
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 25.75
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 25.75
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 2858.25
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 463.5
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 2472.0
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 2832.5
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 10.3
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 504.7
 	}
 }
@@ -174,91 +174,91 @@
 1091 = {
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 103.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 9373.0
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 309.0
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 5665.0
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 2781.0
 	}
 }
@@ -266,43 +266,43 @@
 1092 = {
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 309.0
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 309.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 28119.0
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 5.15
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = animist
+		culture = sephardic
+		religion = jewish
 		size = 252.35
 	}
 }
@@ -310,90 +310,90 @@
 1093 = {
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 3733.75
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = armenian
+		religion = orthodox
 		size = 4686.5
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 20.6
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 20.6
 	}
 
 	artisans = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 51.5
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 10.3
 	}
 
 	farmers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = sunni
 		size = 927.0
 	}
@@ -402,31 +402,31 @@
 1094 = {
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 257.5
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 283.25
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 24385.25
 	}
 }
@@ -434,90 +434,90 @@
 1095 = {
 	aristocrats = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 51.5
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 3708.0
 	}
 
 	aristocrats = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 154.5
 	}
 
 	clergymen = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 463.5
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 103.0
 	}
 
 	farmers = {
-		culture = georgian
-		religion = catholic
+		culture = north_caucasian
+		religion = orthodox
 		size = 8471.75
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = north_caucasian
 		religion = sunni
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = north_caucasian
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = georgian
+		culture = north_caucasian
 		religion = sunni
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = north_caucasian
 		religion = sunni
 		size = 51.5
 	}
 
 	farmers = {
-		culture = georgian
+		culture = north_caucasian
 		religion = sunni
 		size = 4686.5
 	}
@@ -558,19 +558,19 @@
 
 	clergymen = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 206.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = catholic
+		religion = orthodox
 		size = 3836.75
 	}
 

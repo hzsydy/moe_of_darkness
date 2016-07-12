@@ -1,6 +1,6 @@
 capital = 2111
-primary_culture = dutch
-religion = catholic
+primary_culture = boer
+religion = protestant
 government = democracy
 plurality = 25.0
 nationalvalue = nv_liberty

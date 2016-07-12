@@ -1,6 +1,2 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = TRItrade_goods
-add_core = fruit
+trade_goods = fruit
 life_rating = 10

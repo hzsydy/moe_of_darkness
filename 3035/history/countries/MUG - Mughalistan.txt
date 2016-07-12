@@ -1,9 +1,9 @@
 capital = 1236
-primary_culture = marathi
+primary_culture = panjabi
+culture = telegu
 culture = marathi
-culture = marathi
-culture = marathi
-culture = marathi
+culture = rajput
+culture = gujarati
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

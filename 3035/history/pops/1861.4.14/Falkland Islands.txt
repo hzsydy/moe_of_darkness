@@ -3,25 +3,25 @@
 2131 = {
 	clergymen = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 2
 	}
 
 	artisans = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 13
 	}
 
 	soldiers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 110
 	}
 }
@@ -29,7 +29,7 @@
 2133 = {
 	farmers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 }

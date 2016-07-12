@@ -1,5 +1,5 @@
 capital = 387
-primary_culture = dutch
+primary_culture = flemish
 culture = dutch
 religion = catholic
 government = absolute_monarchy

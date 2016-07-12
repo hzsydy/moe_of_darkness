@@ -68,7 +68,6 @@ basic_chemistry = 1
 practical_steam_engine = 1
 
 #Inventions
-austria = yes
 
 # Starting Consciousness
 consciousness = 4

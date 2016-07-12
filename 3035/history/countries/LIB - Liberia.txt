@@ -1,7 +1,7 @@
 capital = 1887
 primary_culture = afro_american
-culture = zulu
-religion = catholic
+culture = kru
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order

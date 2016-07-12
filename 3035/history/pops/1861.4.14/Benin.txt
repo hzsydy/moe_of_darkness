@@ -3,109 +3,109 @@
 #Cotonou (272000/68000 POPS)
 1919 = {
 	aristocrats = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 1004.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 515.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 2111.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 515.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 30874.25
 	}
 
 	slaves = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 2060.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 283.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 772.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 14085.25
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 13390.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 1854.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 2060.0
 	}
@@ -113,121 +113,121 @@
 #Abomey (240000/60000 POPS)
 1920 = {
 	aristocrats = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 1081.5
 	}
 
 	bureaucrats = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 51.5
 	}
 
 	officers = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 103.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 515.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 2188.75
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 566.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 43903.75
 	}
 
 	slaves = {
-		culture = zulu
+		culture = fon
 		religion = animist
 		size = 4120.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 206.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 3759.5
 	}
 
 	slaves = {
-		culture = zulu
+		culture = yoruba
 		religion = animist
 		size = 1030.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 2781.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
@@ -237,67 +237,67 @@
 #Nikki (48000/12000 POPS)
 1921 = {
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 154.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 2781.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 1030.0
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 180.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 103.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 386.25
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 103.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 7467.5
 	}
@@ -305,61 +305,61 @@
 #Jugu (28000/7000 POPS)
 1922 = {
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 77.25
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 51.5
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 4712.25
 	}
 
 	aristocrats = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 25.75
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 103.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 25.75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = sunni
 		size = 1854.0
 	}

@@ -1,7 +1,8 @@
 capital = 1121
 primary_culture = persian
-culture = persian
-religion = sunni
+culture = azerbaijani
+culture = baluchi
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -40,11 +41,8 @@ school_reforms = no_schools
 consciousness = 0
 nonstate_consciousness = 0
 
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-	military_constructions = yes_military_constructions
-	foreign_officers = yes_foreign_officers
 land_reform = yes_land_reform
+foreign_weapons = yes_foreign_weapons
 finance_reform = yes_finance_reform
 
 flintlock_rifles = 1

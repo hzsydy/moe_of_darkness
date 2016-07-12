@@ -1,6 +1,3 @@
 add_core = RUS
-owner = RUS
-controller = RUS
-add_core = MGL
 trade_goods = grain
 life_rating = 15

@@ -1,10 +1,5 @@
-owner = HAI
-controller = HAI
-add_core = HAI
+owner = ENG
+controller = ENG
 trade_goods = tobacco
 life_rating = 35
-1861.1.1 = {
-    owner = UCA
-    controller = UCA
-    add_core = UCA
-}
+colonial = 2

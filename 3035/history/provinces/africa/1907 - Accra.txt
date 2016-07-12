@@ -1,10 +1,4 @@
-owner = ENG
-controller = ENG
-colonial = 2
+owner = SWE
+controller = SWE
 trade_goods = cattle
 life_rating = 15
-1861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}

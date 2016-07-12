@@ -1,12 +1,5 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = GER
+controller = GER
 add_core = GER
-1861.1.1 = {
-    remove_core = PRU
-    remove_core = HAN
-    owner = GER
-    controller = GER
-}
 trade_goods = coal
 life_rating = 40

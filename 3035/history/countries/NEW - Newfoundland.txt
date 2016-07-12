@@ -1,6 +1,6 @@
 capital = 74
-primary_culture = british
-culture = french
+primary_culture = anglo_canadian
+culture = french_canadian
 culture = british
 religion = catholic
 government = democracy

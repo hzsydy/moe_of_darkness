@@ -1,9 +1,9 @@
 capital = 994
 primary_culture = russian
-culture = russian
-culture = russian
-culture = russian
-religion = catholic
+culture = byelorussian
+culture = ukrainian
+culture = ugrian
+religion = orthodox
 government = absolute_monarchy
 plurality = 25
 nationalvalue = nv_order
@@ -13,7 +13,7 @@ civilized = yes
 set_country_flag = serfdom_not_abolished
 
 #GreaterPowers = prestige
-prestige = 100
+prestige = 80
 
 # Political reforms
 slavery = no_slavery
@@ -73,7 +73,6 @@ basic_chemistry = 1
 #Inventions
 #corvettes = yes
 commerce_raiders = yes
-russia = yes
 
 # Starting Consciousness
 consciousness = 3

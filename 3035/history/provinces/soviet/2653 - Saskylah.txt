@@ -1,6 +1,3 @@
 add_core = RUS
-owner = RUS
-controller = RUS
-add_core = MGL
 trade_goods = timber
 life_rating = 15

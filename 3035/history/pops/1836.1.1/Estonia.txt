@@ -4,121 +4,121 @@
 349 = {
 	clergymen = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 325
 	}
 
 	artisans = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 34925
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 375
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 75
 	}
 
 	officers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 825
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
 		culture = swedish
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = swedish
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
 		culture = swedish
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = swedish
-		religion = catholic
+		religion = protestant
 		size = 400
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 425
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	officers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 175
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 }
@@ -126,55 +126,55 @@
 350 = {
 	clergymen = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 425
 	}
 
 	artisans = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 2300
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 450
 	}
 
 	farmers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 40825
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 800
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 1100
 	}
 }
@@ -182,49 +182,49 @@
 351 = {
 	aristocrats = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 400
 	}
 
 	artisans = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 600
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	farmers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 20800
 	}
 }
@@ -232,73 +232,73 @@
 352 = {
 	aristocrats = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	artisans = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 1300
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	farmers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 34500
 	}
 
 	clergymen = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
 		culture = russian
-		religion = catholic
+		religion = orthodox
 		size = 1325
 	}
 }
@@ -306,49 +306,49 @@
 353 = {
 	aristocrats = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 80
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = estonian
-		religion = catholic
+		religion = protestant
 		size = 3625
 	}
 

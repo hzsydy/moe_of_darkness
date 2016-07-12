@@ -1,17 +1,5 @@
-owner = POL
-controller = POL
-add_core = RUS
-add_core = POL
+owner = PLC
+controller = PLC
 add_core = PLC
-trade_goods = coal
-life_rating = 99
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = regular_clothes_factory
-        upgrade = yes
-    }
-}
-1861.1.1 = {
-    railroad = 3
-}
+trade_goods = cattle
+life_rating = 35

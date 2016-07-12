@@ -88,25 +88,25 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 60 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 200 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 2740   
 	}
 }
@@ -180,78 +180,78 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 650 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 225 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 1750
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 300 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 29075  
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 2000
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 2900   
 	}
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 150 
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 13950 
 	}
@@ -328,25 +328,25 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 75  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 50   
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 4625    
 	}
 
@@ -476,55 +476,55 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 500 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 450  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 7500
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 500    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size =  40050    
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 5000
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 75  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 875    
 	}
 
@@ -604,49 +604,49 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 75   
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 50    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size =  4525   
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 825     
 	}
 
@@ -675,25 +675,25 @@
 	}
 
 	clergymen = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 300   
 	}
 
 	farmers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 29925 
 	}
@@ -732,37 +732,37 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 500 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 150  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 900
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 175    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 16275    
 	}
 
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = protestant
 		size = 275 
 	}
 
@@ -824,55 +824,55 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 450 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 125 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 150    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 13525     
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 825     
 	}
 
@@ -934,55 +934,55 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 275 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 75  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 100    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 5550     
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1650
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1275   
 	}
 
@@ -1052,72 +1052,72 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 250  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 2450
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 275  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 24125   
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50  
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1600
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25 
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1325    
 	}
 
 	clergymen = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 6600 
 	}
@@ -1164,78 +1164,78 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 125    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 8975    
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 825     
 	}
 
 	clergymen = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 10  
 	}
 
 	artisans = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 25  
 	}
 
 	farmers = {
-		culture = czech
+		culture = slovak
 		religion = catholic
 		size = 915 
 	}
@@ -1280,55 +1280,55 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 2500
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 850   
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 3900
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 900     
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 80850    
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 825     
 	}
 
@@ -1396,55 +1396,55 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 950
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 425    
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 2250
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 450    
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 42925    
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 25  
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = animist
+		religion = jewish
 		size = 825     
 	}
 

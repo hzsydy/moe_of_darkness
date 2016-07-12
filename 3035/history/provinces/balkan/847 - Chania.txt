@@ -1,6 +1,7 @@
-owner = GRE
-controller = GRE
+owner = EGY
+controller = EGY
 add_core = EGY
+add_core = CRE
 add_core = GRE
 trade_goods = fruit
 life_rating = 35

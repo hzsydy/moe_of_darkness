@@ -1,6 +1,6 @@
 capital = 387
-primary_culture = french
-culture = dutch
+primary_culture = wallonian
+culture = flemish
 culture = french
 religion = catholic
 government = hms_government

@@ -1,5 +1,5 @@
 capital = 1413
-primary_culture = malay
+primary_culture = javan
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

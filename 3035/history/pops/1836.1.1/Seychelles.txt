@@ -9,19 +9,19 @@
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 1175
 	}

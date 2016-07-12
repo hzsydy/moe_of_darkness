@@ -1,21 +1,7 @@
 owner = USA
 controller = USA
 add_core = USA
-trade_goods = coal
-life_rating = 99
-state_building = {
-    level = 1
-    building = machine_parts_factory
-    upgrade = yes
-}
+trade_goods = grain
+life_rating = 35
 fort = 1
 naval_base = 1
-1861.1.1 = {
-    party_loyalty = {
-        ideology = liberal
-        loyalty_value = 15
-    }
-}
-1861.1.1 = {
-    railroad = 3
-}

@@ -1,5 +1,5 @@
 capital = 1224
-primary_culture = marathi
+primary_culture = kashmiri
 culture = tibetan
 religion = hindu
 government = absolute_monarchy

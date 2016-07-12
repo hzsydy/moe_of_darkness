@@ -1,7 +1,7 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
-religion = catholic
+religion = protestant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -11,7 +11,7 @@ civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 80
+prestige = 50
 
 # Political reforms
 slavery = no_slavery
@@ -56,7 +56,6 @@ alphabetic_flag_signaling = 1
 the_command_principle = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
-idealism = 1
 malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
@@ -79,7 +78,6 @@ practical_steam_engine = 1
 
 #Inventions
 
-prussia = yes
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1

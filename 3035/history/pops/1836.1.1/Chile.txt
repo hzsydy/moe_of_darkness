@@ -45,25 +45,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 11225
 	}
@@ -101,25 +101,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 4700
 	}
@@ -158,25 +158,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 5575
 	}
@@ -214,25 +214,25 @@
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = aimara
 		religion = catholic
 		size = 3725
 	}
@@ -516,31 +516,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 5475
 	}
@@ -578,31 +578,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 3625
 	}
@@ -672,31 +672,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 1800
 	}
@@ -748,31 +748,31 @@
 	}
 
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 3600
 	}
@@ -781,31 +781,31 @@
 #Puerto Aisen (12000/3000 POPS)
 2333 = {
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}
@@ -813,31 +813,31 @@
 #Punta Arenas (8000/2000 POPS)
 2334 = {
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 1800
 	}
@@ -845,31 +845,31 @@
 #Porvenir (4000/1000 POPS)
 2335 = {
 	aristocrats = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = quechua
+		culture = patagonian
 		religion = animist
 		size = 900
 	}

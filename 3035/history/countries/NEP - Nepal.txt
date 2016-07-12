@@ -1,5 +1,5 @@
 capital = 1326
-primary_culture = marathi
+primary_culture = nepali
 culture = tibetan
 religion = mahayana
 government = absolute_monarchy

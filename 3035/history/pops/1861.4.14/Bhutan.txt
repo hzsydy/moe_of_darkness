@@ -4,72 +4,72 @@
 1329 = {
 	aristocrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 592.25
 	}
 
 	bureaucrats = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 25.75
 	}
 
 	officers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 309.0
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 4130.0
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = mahayana
+		religion = gelugpa
 		size = 23272.25
 	}
 
 	aristocrats = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 51.5
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 77.25
 	}
 
 	artisans = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 206.0
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 25.75
 	}
 
 	farmers = {
-		culture = marathi
+		culture = nepali
 		religion = hindu
 		size = 3759.5
 	}

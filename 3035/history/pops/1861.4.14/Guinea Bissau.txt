@@ -33,31 +33,31 @@
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 51.5
 	}
 
 	artisans = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 386.25
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 77.25
 	}
 
 	farmers = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 5665.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = catholic
 		size = 2060.0
 	}
@@ -66,37 +66,37 @@
 #Gabu (76000/19000 POPS)
 1878 = {
 	aristocrats = {
-		culture = zulu
+		culture = mande
 		religion = animist
 		size = 206.0
 	}
 
 	clergymen = {
-		culture = zulu
+		culture = mande
 		religion = animist
 		size = 206.0
 	}
 
 	artisans = {
-		culture = zulu
+		culture = mande
 		religion = animist
 		size = 1030.0
 	}
 
 	soldiers = {
-		culture = zulu
+		culture = mande
 		religion = animist
 		size = 206.0
 	}
 
 	farmers = {
-		culture = zulu
+		culture = mande
 		religion = animist
 		size = 14832.0
 	}
 
 	slaves = {
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size = 3090.0
 	}

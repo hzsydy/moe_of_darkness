@@ -1,2 +1,32 @@
 debug fow
 event 19355
+debug yesman
+debug yesmen
+tag POL
+event 11100
+tag RUS
+tag PLA
+tag PLC
+tag NET
+tag RUIS
+tsg RUS
+tag RUS
+debug yesmen
+tag SIE
+tag UBD
+
+
+
+tag HDJ
+tag NEJ
+tag MUG
+tag KHI
+tag KOK
+tag HND
+TAG bho
+TAG bho
+tag BHO
+tag BUN
+tag BUN
+tag BHU
+tag JOH

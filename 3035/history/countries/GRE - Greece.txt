@@ -1,6 +1,6 @@
 capital = 834
 primary_culture = greek
-religion = catholic
+religion = orthodox
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -56,7 +56,6 @@ water_wheel_power = 1
 publishing_industry = 1
 
 # Inventions
-byzantium = yes
 
 #Starting Consciousness
 consciousness = 2

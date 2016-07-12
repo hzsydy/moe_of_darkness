@@ -1,13 +1,8 @@
-owner = HAI
-controller = HAI
-add_core = HAI
+owner = FRA
+controller = FRA
 trade_goods = cotton
 life_rating = 35
+colonial = 2
 1861.1.1 = {
     naval_base = 1
-}
-1861.1.1 = {
-    owner = UCA
-    controller = UCA
-    add_core = UCA
 }

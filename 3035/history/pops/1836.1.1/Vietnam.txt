@@ -63,37 +63,37 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 700
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 700
 	}
@@ -149,37 +149,37 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 700
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 700
 	}
@@ -431,19 +431,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1650
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1275
 	}
@@ -575,19 +575,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 4000
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 2925
 	}
@@ -729,19 +729,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 550
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 425
 	}
@@ -917,37 +917,37 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 2100
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1825
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 1600
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
 		size = 1350
 	}
@@ -1083,26 +1083,26 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 300
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 1450
 	}
 
 	soldiers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 27000
 	}
 }
@@ -1139,26 +1139,26 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 800
 	}
 
 	soldiers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 150
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = khmer
+		religion = theravada
 		size = 14900
 	}
 
