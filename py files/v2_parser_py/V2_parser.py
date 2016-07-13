@@ -1,7 +1,8 @@
 #Du 2016
-
+import re
 import os
 from V2 import *
+
 
 __metaclass__  = type
 
@@ -35,6 +36,27 @@ class V2_parser:
                 f.write(line)
             
             f.close()  
+            
+    def processWithFilename(self, proccls):
+        for fileObj in self.fileList:
+            print "fucking " + fileObj
+            f = open(fileObj,'r+')
+            all_the_lines=f.readlines()
+            f.seek(0)
+            
+            v2 = V2()
+            v2.load(all_the_lines)
+            
+            v2.struct = proccls.process(v2.struct, re.findall(r'/(\w+)\s*-*\s*\w*\.txt', fileObj)[0])
+            
+            save_lines = v2.save()
+            
+            
+            f.truncate()
+            for line in save_lines:
+                f.write(line)
+            
+            f.close() 
 
 if __name__=='__main__':
     print 'this is a lib, not a executable file'
