@@ -5,7 +5,7 @@ annex_dict = {'ETH':'EGY', 'TUN':'EGY', 'MOR':'EGY', 'LIB':'EGY', 'ALD':'EGY', '
     'DEN':'SWE', 'VEN':'ITA', 'URU':'ARG', 'PRG':'ARG', 'BOL':'PEU', 'ECU':'CLM', 'VNZ':'CLM',
     'NEP':'HND', 'BHU':'HND', 'LUA':'DAI', 'CAM':'DAI', 'JOH':'SIA', 'CHL':'ARG', 
     'HDJ':'NEJ', 'YEM':'NEJ', 'ARM':'NEJ', 'ABU':'NEJ', 'OMA':'NEJ', 'MAD':'SPA', 
-    'SOK':'FRA', 'GRE':'TUR', 'TEX':'MEX', 'HAI':'UCA', 'CUB':'UCA', 'ITA':'SPA'
+    'SOK':'FRA', 'GRE':'TUR', 'TEX':'MEX', 'HAI':'UCA', 'CUB':'UCA', 'ITA':'SPA', 'YUG':'TUR', 'UBD':'FIN'
 }
 
 class work:

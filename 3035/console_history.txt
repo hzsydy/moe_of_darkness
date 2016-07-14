@@ -40,3 +40,8 @@ debug fow
 goods 1000000000
 debug fow
 tag CHI
+goods 10000000
+tag JAP
+goods 100000000
+goods 10000000
+goods 100000000

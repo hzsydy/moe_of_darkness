@@ -1,5 +1,5 @@
-owner = UBD
-controller = UBD
-add_core = UBD
+owner = FIN
+controller = FIN
+add_core = FIN
 trade_goods = cattle
 life_rating = 35
