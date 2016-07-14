@@ -37,3 +37,6 @@ tag FRA
 debug fow
 tag OMA
 debug fow
+goods 1000000000
+debug fow
+tag CHI
