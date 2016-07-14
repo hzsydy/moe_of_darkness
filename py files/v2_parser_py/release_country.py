@@ -1,6 +1,6 @@
 from V2_parser import *
 
-unity_flag = ['HND', 'GER', 'AUS', 'PLC', 'ITA', 'NET', 'FIN', 'UBD', 'YUG', 'ROM', 'CAN', 'TUR']
+unity_flag = ['HND', 'GER', 'AUS', 'PLC', 'ITA', 'NET', 'FIN', 'UBD', 'YUG', 'ROM', 'CAN', 'TUR', 'SAF']
 
 class work:
     def __init__(self):

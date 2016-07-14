@@ -4,7 +4,8 @@ annex_dict = {'ETH':'EGY', 'TUN':'EGY', 'MOR':'EGY', 'LIB':'EGY', 'ALD':'EGY', '
     'POR':'SPA', 'KHI':'PER', 'AFG':'PER', 'BUK':'PER', 'KOK':'PER', 'KAL':'HND', 'PAN':'HND',
     'DEN':'SWE', 'VEN':'ITA', 'URU':'ARG', 'PRG':'ARG', 'BOL':'PEU', 'ECU':'CLM', 'VNZ':'CLM',
     'NEP':'HND', 'BHU':'HND', 'LUA':'DAI', 'CAM':'DAI', 'JOH':'SIA', 'CHL':'ARG', 
-    'HDJ':'NEJ', 'YEM':'NEJ', 'ARM':'NEJ', 'ABU':'NEJ', 'OMA':'NEJ'
+    'HDJ':'NEJ', 'YEM':'NEJ', 'ARM':'NEJ', 'ABU':'NEJ', 'OMA':'NEJ', 'MAD':'SPA', 
+    'SOK':'FRA', 'GRE':'TUR', 'TEX':'MEX'
 }
 
 class work:
@@ -38,7 +39,7 @@ class work:
                 elif key == 'colonial':
                     pass
                 else:
-                    # result.append((key, val))
+                    result.append((key, val))
             return result     
         return V2_struct
 

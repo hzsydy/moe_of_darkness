@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = coffee
 life_rating = 35
-colonial = 2

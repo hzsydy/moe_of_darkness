@@ -35,3 +35,5 @@ goods 100000000
 debug fow
 tag FRA
 debug fow
+tag OMA
+debug fow

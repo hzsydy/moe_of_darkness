@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = coal
 life_rating = 35
