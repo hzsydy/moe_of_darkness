@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = fruit
 life_rating = 30
-colonial = 2

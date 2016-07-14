@@ -34,3 +34,4 @@ event 19355
 goods 100000000
 debug fow
 tag FRA
+debug fow

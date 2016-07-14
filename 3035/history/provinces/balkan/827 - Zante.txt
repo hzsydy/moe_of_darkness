@@ -1,6 +1,5 @@
-owner = ION
-controller = ION
-add_core = ION
-add_core = GRE
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = fish
 life_rating = 35
