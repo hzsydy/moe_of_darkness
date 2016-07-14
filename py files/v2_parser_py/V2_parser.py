@@ -3,7 +3,6 @@ import re
 import os
 from V2 import *
 
-
 __metaclass__  = type
 
 class V2_parser:
@@ -13,8 +12,6 @@ class V2_parser:
         for root,dirs,files in os.walk(self.fileDir):
             for fileObj in files:
                 self.fileList.append(os.path.join(root,fileObj))
-        
-
     
     def process(self, proccls):
         for fileObj in self.fileList:
@@ -25,16 +22,12 @@ class V2_parser:
             
             v2 = V2()
             v2.load(all_the_lines)
-            
             v2.struct = proccls.process(v2.struct)
-            
             save_lines = v2.save()
-            
             
             f.truncate()
             for line in save_lines:
                 f.write(line)
-            
             f.close()  
             
     def processWithFilename(self, proccls):
@@ -47,15 +40,13 @@ class V2_parser:
             v2 = V2()
             v2.load(all_the_lines)
             
-            v2.struct = proccls.process(v2.struct, re.findall(r'/(\w+)\s*-*\s*\w*\.txt', fileObj)[0])
-            
+            filename = re.findall(r'\\(\w+)\s*[-|\.txt]', fileObj)[0]
+            v2.struct = proccls.processWithFilename(v2.struct, filename)
             save_lines = v2.save()
-            
             
             f.truncate()
             for line in save_lines:
                 f.write(line)
-            
             f.close() 
 
 if __name__=='__main__':

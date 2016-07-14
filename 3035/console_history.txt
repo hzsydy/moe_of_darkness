@@ -30,3 +30,7 @@ tag BUN
 tag BUN
 tag BHU
 tag JOH
+event 19355
+goods 100000000
+debug fow
+tag FRA
