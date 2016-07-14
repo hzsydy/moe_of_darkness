@@ -1,6 +1,6 @@
 from V2_parser import *
 
-unity_flag = ['HND', 'GER', 'AUS', 'PLC', 'ITA', 'NET', 'FIN', 'UBD', 'YUG', 'ROM', 'CAN', 'TUR', 'SAF']
+unity_flag = ['HND', 'GER', 'AUS', 'PLC', 'ITA', 'NET', 'FIN', 'UBD', 'YUG', 'ROM', 'CAN', 'TUR', 'SAF', 'UCA', 'CHI', 'MEX', 'CAN', 'USA']
 
 class work:
     def __init__(self):
@@ -28,41 +28,26 @@ class work:
                         corenum = 1
                         break
             if corenum == 1:
-                if (core_flag != owner_flag):
-                    for key, val in V2_struct:
-                        if key == 'owner':
+                core_added = False
+                for key, val in V2_struct:
+                    if key == 'owner':
+                        result.append((key, core_flag))
+                    elif key == 'controller':
+                        result.append((key, core_flag))
+                    elif key == 'add_core':
+                        if not core_added:
                             result.append((key, core_flag))
-                        elif key == 'controller':
-                            result.append((key, core_flag))
-                        elif key == 'add_core':
-                            result.append((key, core_flag))
-                        elif key == '1836.1.1':
-                            pass
-                        elif key == '1861.1.1':
-                            pass
+                            core_added = True
                         else:
-                            result.append((key, val))
-                else:
-                    core_added = False
-                    for key, val in V2_struct:
-                        if key == 'owner':
-                            result.append((key, core_flag))
-                        elif key == 'controller':
-                            result.append((key, core_flag))
-                        elif key == 'add_core':
-                            if not core_added:
-                                result.append((key, core_flag))
-                                core_added = True
-                            else:
-                                pass
-                        elif key == '1836.1.1':
                             pass
-                        elif key == '1861.1.1':
-                            pass
-                        elif key == 'colonial':
-                            pass
-                        else:
-                            result.append((key, val))
+                    elif key == '1836.1.1':
+                        pass
+                    elif key == '1861.1.1':
+                        pass
+                    elif key == 'colonial':
+                        pass
+                    else:
+                        result.append((key, val))
                 return result
             return V2_struct        
         return V2_struct

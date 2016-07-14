@@ -1,9 +1,5 @@
-add_core = COL
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
 life_rating = 35
-1861.1.1 = {
-    owner = USA
-    controller = USA
-    add_core = USA
-    remove_core = COL
-}
