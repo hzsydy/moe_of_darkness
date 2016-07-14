@@ -1,5 +1,4 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = SPA
+controller = SPA
 trade_goods = grain
 life_rating = 35
