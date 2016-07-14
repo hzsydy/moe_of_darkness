@@ -1,6 +1,5 @@
-owner = SAF
-controller = SAF
-add_core = SAF
+owner = SPA
+controller = SPA
 
 trade_goods = fish
 life_rating = 10
