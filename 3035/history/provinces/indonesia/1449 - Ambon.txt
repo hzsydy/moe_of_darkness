@@ -1,4 +1,5 @@
-owner = NET
-controller = NET
+owner = JAV
+controller = JAV
+add_core = JAV
 trade_goods = grain
 life_rating = 30

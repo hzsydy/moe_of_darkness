@@ -1,8 +1,5 @@
-add_core = NZL
+owner = AST
+controller = AST
+add_core = AST
 trade_goods = wool
 life_rating = 30
-1861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}
