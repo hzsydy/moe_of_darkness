@@ -1,6 +1,6 @@
-owner = HAI
-controller = HAI
-add_core = HAI
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = tobacco
 naval_base = 1
 life_rating = 35

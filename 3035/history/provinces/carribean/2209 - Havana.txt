@@ -1,6 +1,6 @@
-owner = CUB
-controller = CUB
-add_core = CUB
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = tobacco
 life_rating = 35
 naval_base = 1

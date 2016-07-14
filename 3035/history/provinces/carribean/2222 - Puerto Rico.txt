@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = cotton
 life_rating = 35
-colonial = 2

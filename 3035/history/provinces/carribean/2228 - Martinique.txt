@@ -1,8 +1,5 @@
-owner = FRA
-controller = FRA
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = cotton
 life_rating = 35
-colonial = 2
-1861.1.1 = {
-    naval_base = 1
-}
