@@ -1,5 +1,5 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = CLA
+controller = CLA
+add_core = CLA
 trade_goods = cattle
 life_rating = 30

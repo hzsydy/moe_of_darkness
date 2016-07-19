@@ -3,6 +3,12 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+
+# Moe Countries
+# Japan Saimoe Land
+CLA = "countries/Clannad.txt"
+
+
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"

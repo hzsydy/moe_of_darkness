@@ -1,6 +1,6 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = CLA
+controller = CLA
+add_core = CLA
 trade_goods = grain
 life_rating = 32
 fort = 1
