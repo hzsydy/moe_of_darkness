@@ -3,10 +3,61 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-
 # Moe Countries
-# Japan Saimoe Land
+## KEY
+
+AIR = "countries/Air.txt"
+ANG = "countries/Angel Beats.txt"
 CLA = "countries/Clannad.txt"
+KAN = "countries/Kanon.txt"
+#KEY = "countries/KEY.txt"
+#LIT = "countries/Little Busters.txt"
+#PLA = "countries/Planetarian.txt"
+#REW = "countries/Rewrite.txt"
+
+## Kyoto Animation
+
+#HYO = "countries/Hyoka.txt"
+#KON = "countries/K_ON.txt"
+#KYO = "countries/Kyoto Animation.txt"
+#LUC = "countries/Lucky star.txt"
+#SUZ = "countries/Suzumiya Haruhi no Yuutsu.txt"
+
+## Holy Alliance
+
+#HIG = "countries/Higurashi no Naku Koro ni.txt"
+#HOL = "countries/Holy Alliance.txt"
+#NAN = "countries/Maho Shojo Lyrical Nanoha.txt"
+#ROZ = "countries/Rozen Maiden.txt"
+
+## The Party of Kugimiya
+
+#HAY = "countries/Hayate no Gotoku.txt"
+#KUG = "countries/Kugimiya.txt"
+#SHA = "countries/Shakugan no Shana.txt"
+#TOR = "countries/Toradora.txt"
+#ZER = "countries/Zero no Tsukaima.txt"
+
+## Axis
+
+#MAD = "countries/Puella Magi Madoka Magica.txt"
+#SAK = "countries/Saki.txt"
+
+## other japan saimoe 2010-
+#CCS = "countries/Cardcaptor Sakura.txt"
+#FAT = "countries/Fate.txt"
+#SET = "countries/Seto no Hanayome.txt" 
+
+## other japan saimoe 2010+
+#DAL = "countries/Date A Live.txt"
+#ONI = "countries/Ore no Imoto.txt"
+#SAO = "countries/Sword Art Online.txt"
+#TKR = "countries/Toaru Kagaku no Rerugan.txt"
+
+## xie jiao
+#KTC = "countries/Kantai Collection.txt"
+#LOV = "countries/LoveLive.txt"
+
 
 
 # Common Great Powers

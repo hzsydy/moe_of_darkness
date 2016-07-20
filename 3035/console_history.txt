@@ -48,3 +48,35 @@ goods 100000000
 goods 10000000
 goods 100000000000000000000000
 debug fow
+event 19355
+tag CLA
+tag CLA
+tag AIR
+tag RUS
+tag CLA
+goods 10000000000
+goods 100000000000000000000
+debug fow
+event 19355
+
+
+
+
+tag CSA
+tag AIR
+tag CSA
+tag AIR
+event 14355
+event 14680
+event 14680
+event 14680
+event 14680
+event 14680
+
+event 14680
+event 14680
+4
+4
+4
+event 14355
+tag ANG
