@@ -1,6 +1,26 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
+visual_arts = {
+	leader = asian
+	unit = AsianGC
+	key_fan = {
+		color = {23 99 12}
+		first_names = { ¼ü
+		}
+		last_names = { µ³
+		}
+	}
+	AB_fan = {
+		color = {85 78 89}
+		first_names = { AB
+		}
+		last_names = { ·Û
+		}
+	}
+	#union = KEY
+}
+
 germanic = {
 	leader = european
 	unit = EuropeanGC
@@ -128,7 +148,7 @@ scandinavian = {
 		color = { 220 220 220}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
+		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väin?Viktor Vilho }
 		
 		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
 		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
@@ -193,11 +213,11 @@ iberian = {
 		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
 		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
 		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Joaquín Jos?"Jos?Antonio" "Jos?Manuel" "Jos?María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
 		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
 		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
 		
-	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+	last_names = { Acuña Aguirre Alcal?Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
 		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
 		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
 		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
@@ -207,13 +227,13 @@ iberian = {
 	}
 	portuguese = {
 		color = {160 220 30}
-		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino 
+		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro Andr?António Aquilino 
 		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
 		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando 
 		Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio JErónimo João Joaquim Jorge
-		José Júlio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando 
+		Jos?Júlio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando 
 		Óscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
-		Sebastião Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório }
+		Sebastião Teodoro Teófilo Tiago Tom?Urbano Vasco Vicente Vitorino Vitório }
 		
 		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
 		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho" 
@@ -330,11 +350,11 @@ hungarian_culture_group = {
 		first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
 		Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
 		György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
-		Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
-		Ödön Ottó Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
+		Károly Katalin Kelemen Krisztian Lajos Lászl?Man?Mihály Mór Myklós
+		Ödön Ott?Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
 
 		last_names = { Andrássy Apponyi Aulich Bacher Baross Batthyány Beöthy Bothmer Damjanich Dessewffy
-		Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izsó
+		Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izs?
 		Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
 		Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
 		Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
@@ -387,14 +407,14 @@ czecho_slovak_culture_group = {
 		color = {120 120 255}
 		first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
 		Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
-		Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
+		Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jir?Josef Kajetan Karel
 		Konstantin Ladislav Luvík Matyas Maxmilián Mikulás Olbram Otakar Pavel Petr
 		Radola Rafael Tomás Václav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
 
-		last_names = { Albert Balaban Basch Breisky Celovský Dvorák Fibich Gajda Gellner Hálek
-		Hrdlicka Jirecek Kadlec Kafka Koller Krízkovský Kucera Kuchar Lederer Makosky
-		Mik Morávec Nemecek Neruda Novácek Novotný Popper Radecký Rokytanský Safárik
-		Safránek Schack Schubert Skoda Skuherský Smetana Snejdárek Suk Svoboda Syrový
+		last_names = { Albert Balaban Basch Breisky Celovsk?Dvorák Fibich Gajda Gellner Hálek
+		Hrdlicka Jirecek Kadlec Kafka Koller Krízkovsk?Kucera Kuchar Lederer Makosky
+		Mik Morávec Nemecek Neruda Novácek Novotn?Popper Radeck?Rokytansk?Safárik
+		Safránek Schack Schubert Skoda Skuhersk?Smetana Snejdárek Suk Svoboda Syrov?
 		Tomásek Tyl Vitásek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek }
 	}
 	union = CZH
@@ -638,7 +658,7 @@ southeast_asian = {
 	}
 	filipino = {
 		color = {200 220 30}
-		first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
+		first_names = { Emilio Apolinario Andrés Jos?Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
 		}
 		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano     
 		}
@@ -779,14 +799,14 @@ native_american = {
 		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
 
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+		Curruchic Ixquiac López Manzanero Mas Mench?Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tec?Teul Tuyuc Xicara Xiloj }
 	}
 	quechua = {
 		color = {178 141 85}
 		first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
-		Francisco Gustavo Hilario Inca Isaac "José María" Julio Lorenzo Manuel Marcos
-		Mariano Martín Nicolás Osvaldo René Roberto Simón Túpac Ulises Víctor }
+		Francisco Gustavo Hilario Inca Isaac "Jos?María" Julio Lorenzo Manuel Marcos
+		Mariano Martín Nicolás Osvaldo Ren?Roberto Simón Túpac Ulises Víctor }
 
 		last_names = { Arguedas Barrientos Cajahuanca Canchata Chambi Chihuán Cusurichi Espejo Frisancho Gamarra
 		Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
@@ -794,7 +814,7 @@ native_american = {
 	}
 	native_american_minor = {
 		color = {68 55 88}
-		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		first_names = { John Paul Jos?Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
 		}
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
 		}
@@ -846,7 +866,7 @@ latin_american_cultures = {
 		color = {51 117 62}
 		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
 		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
-		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
+		Jerónimo Joaquín Jos?"Jos?Manuel" "Jos?María" Juan "Juan Bautista" Justo Lázaro Manuel
 		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
 		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
 		}
@@ -859,15 +879,15 @@ latin_american_cultures = {
 	}
 	central_american = {
 		color = {101 164 172}
-		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
+		first_names = { Alejandro Andrés Aniceto Arturo Bartolom?Basilio Benito Benjamín Bernardo Carlos
 		Daniel Diego Doroteo Eduardo Eugenio Felipe Félix Fermín Fernando Francisco
-		Fruto Jacobo Jesús Joaquín Jorge "José Francisco" "José María" Juan "Juan Antonio" "Juan Pablo"
+		Fruto Jacobo Jesús Joaquín Jorge "Jos?Francisco" "Jos?María" Juan "Juan Antonio" "Juan Pablo"
 		Julio Justo Lisandro Lorenzo Manuel Marcelino Maximiliano Máximo Óscar Pedro
 		Ponciano Próspero Rafael Ramón Santiago Sebastián Tiburcio Tomás Toribio Victoriano
 		}
 		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabañas Cárdenas Carrera
 		Castellanos Chamorro Chávez Corral Escalón Esquivel Estrada Ezeta Fernández Ferrera
-		Figueroa Garrigó Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
+		Figueroa Garrig?Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
 		Medina Mejía Menéndez Montes Montiel Morazán Palacios Peralta Quiros Regalado
 		Rosales Sevilla Sinibaldi Soto Terán Ubico Vasconcelos Vigil Zelaya Zeledón
 		}
@@ -875,9 +895,9 @@ latin_american_cultures = {
 	north_andean = {
 		color = {146 156 116}
 		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
-		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
-		Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
-		"José Manuel" "José María" Juan "Juan José" Julián Julio León Manuel Pedro Plácido
+		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jos? "Francisco de Paula" Froilán Gabriel
+		Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "Jos?Antonio"
+		"Jos?Manuel" "Jos?María" Juan "Juan Jos? Julián Julio León Manuel Pedro Plácido
 		Rafael Raimundo Ramón Ricardo Rodolfo Santiago Santos Tadeo Tomás Vicente
 		}
 		last_names = { Alfaro Andueza Arboleda Blanco Bonnet Boyd Caamaño Carreño Carrión Castro
@@ -889,13 +909,13 @@ latin_american_cultures = {
 	}
 	south_andean = {
 		color = {116 156 146}
-		first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
+		first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolom?Bernardo David Diego
 		Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
-		Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
+		Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge Jos?"Jos?Miguel" Juan
 		"Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
 		Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
 		}
-		last_names = { Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
+		last_names = { Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belz?Blanche Blanco Bulnes
 		Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
 		Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau
 		Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
@@ -907,7 +927,7 @@ latin_american_cultures = {
 		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
 		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
 		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
-		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		João Joaquim Jos?Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
 		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
 		}
 		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"

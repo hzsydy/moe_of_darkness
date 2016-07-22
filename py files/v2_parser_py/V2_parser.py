@@ -32,7 +32,6 @@ class V2_parser:
             
     def processWithFilename(self, proccls):
         for fileObj in self.fileList:
-            print "fucking " + fileObj
             f = open(fileObj,'r+')
             all_the_lines=f.readlines()
             f.seek(0)
@@ -40,7 +39,10 @@ class V2_parser:
             v2 = V2()
             v2.load(all_the_lines)
             
-            filename = re.findall(r'\\(\w+)\s*[-|\.txt]', fileObj)[0]
+            filename = re.findall(r'\\(\w+)\s*[-|\.txt]', fileObj)[-1]
+            
+            print "fucking " + fileObj + " in name " + filename
+            
             v2.struct = proccls.processWithFilename(v2.struct, filename)
             save_lines = v2.save()
             

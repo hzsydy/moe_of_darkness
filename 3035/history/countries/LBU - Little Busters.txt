@@ -1,10 +1,10 @@
 capital = 1587
-primary_culture = tibetan
+primary_culture = key_fan
 religion = gelugpa
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.10
 non_state_culture_literacy = 0.04
 ruling_party = LBU_conservative
 civilized = yes
@@ -35,10 +35,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-1861.1.1 = {
-    oob = "/1861/LBU_oob.txt"
-    literacy = 0.04
-    non_state_culture_literacy = 0.07
-    foreign_weapons = yes_foreign_weapons
-    flintlock_rifles = 1
-}

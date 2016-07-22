@@ -1,15 +1,11 @@
 capital = 1251
-primary_culture = marathi
-culture = avadhi
-culture = bihari
-culture = tamil
-culture = kanauji
+primary_culture = key_fan
 religion = hindu
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
 civilized = yes
-literacy = 0.02
+literacy = 0.10
 ruling_party = CLA_conservative
 upper_house = {
     fascist = 0

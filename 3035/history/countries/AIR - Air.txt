@@ -1,10 +1,10 @@
 capital = 1413
-primary_culture = javan
+primary_culture = key_fan
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.03
+literacy = 0.10
 civilized = yes
 ruling_party = AIR_conservative
 upper_house = {
