@@ -11,9 +11,9 @@ ANG = "countries/Angel Beats.txt"
 CLA = "countries/Clannad.txt"
 KAN = "countries/Kanon.txt"
 #KEY = "countries/KEY.txt"
-#LIT = "countries/Little Busters.txt"
+LBU = "countries/Little Busters.txt"
 #PLA = "countries/Planetarian.txt"
-#REW = "countries/Rewrite.txt"
+REW = "countries/Rewrite.txt"
 
 ## Kyoto Animation
 

@@ -1,5 +1,5 @@
-owner = SIA
-controller = SIA
-add_core = SIA
+owner = REW
+controller = REW
+add_core = REW
 trade_goods = timber
 life_rating = 30

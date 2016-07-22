@@ -1,6 +1,5 @@
-owner = SIA
-controller = SIA
-add_core = SIA
-add_core = LUA
+owner = REW
+controller = REW
+add_core = REW
 trade_goods = grain
 life_rating = 30

@@ -80,3 +80,14 @@ event 14680
 4
 event 14355
 tag ANG
+goods 100000000000000000
+event 19355
+debug fow
+tag CHI
+tag REW
+tag RUS
+tag GER
+tag FRA
+tag REW
+tag RUS
+tag REW

@@ -34,13 +34,10 @@ class work:
     def process(self, V2_struct):
         d = dict(V2_struct)
         owner_flag = None
-        if '1836.1.1' in d:
-            d_1836 = dict(d['1836.1.1'])
-            if 'owner' in d_1836:
-                owner_flag = d_1836['owner']
-        else:
-            if 'owner' in d:
-                owner_flag = d['owner']
+        if 'owner' in d:
+            owner_flag = d['owner']
+        if owner_flag != None:
+            
         return V2_struct
 
 if __name__=='__main__':
