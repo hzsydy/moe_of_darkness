@@ -37,22 +37,27 @@ class work:
         pass
         
     def process(self, V2_struct):
-        d = dict(V2_struct)
+        #d = dict(V2_struct)
         res = []
-        for provname, val in d:
+        for provname, val in V2_struct:
             if provname in d_owner:
+                p_tag = d_owner[provname]
+                p_culture = d_prim_culture[p_tag]
+                p_religion = d_religion[p_tag]
                 d_prof = {}
+                #print val
                 for profname, val_prof in val:
-                    if key_prof in d_prof:
-                        d_prof[key_prof] = d_prof[key_prof] + dict(val_prof)['size']
+                    if profname in d_prof:
+                        d_prof[profname] = d_prof[profname] + int(dict(val_prof)['size'])
                     else:
-                        d_prof[key_prof] = dict(val_prof)['size']
+                        d_prof[profname] = int(dict(val_prof)['size'])
+                #print d_prof
                 prof_list = []
-                for profname, pop_size in d_prof:
+                for profname, pop_size in d_prof.items():
                     pop_list = []
-                    pop_list.append(('culture', d_prim_culture[provname]))
-                    pop_list.append(('religion', d_religion[provname]))
-                    pop_list.append(('size', d_religion[provname]))
+                    pop_list.append(('culture', p_culture))
+                    pop_list.append(('religion', p_religion))
+                    pop_list.append(('size', str(pop_size)))
                     prof_list.append((profname, pop_list))
                 res.append((provname, prof_list))
             else:

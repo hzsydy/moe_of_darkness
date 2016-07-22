@@ -1,155 +1,96 @@
-#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836  
-#Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
-	aristocrats = {
-		culture = south_german
-		religion = catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 3150
-	}
-
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 1600
-	}
-
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 450 
-	}
-
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 43500
-	}
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 46650
+    }
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 250
+    }
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 2700
+    }
+    aristocrats = {
+        culture = south_german
+        religion = catholic
+        size = 750
+    }
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 500
+    }
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 500
+    }
 }
-#Carniola Region (460000)  
-#under the rule of Austria in 1836  
-#Ljubljana (280000/70000 POPS) 
 768 = {
-	aristocrats = {
-		culture = slovene
-		religion = catholic
-		size = 825
-	}
-
-	bureaucrats = {
-		culture = slovene
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
-		culture = slovene
-		religion = catholic
-		size = 100
-	}
-
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 700
-	}
-
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 4000
-	}
-
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 63150
-	}
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 63150
+    }
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 225
+    }
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 100
+    }
+    aristocrats = {
+        culture = south_german
+        religion = catholic
+        size = 825
+    }
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 4000
+    }
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 700
+    }
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 1100
+    }
 }
-#Postojna (180000/45000 POPS) 
 769 = {
-	aristocrats = {
-		culture = slovene
-		religion = catholic
-		size = 500
-	}
-
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 425
-	}
-
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 2100
-	}
-
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size = 425
-	}
-
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 39575
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 1975
-	}
-
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 450
+    }
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 41550
+    }
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 2100
+    }
+    aristocrats = {
+        culture = south_german
+        religion = catholic
+        size = 500
+    }
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 425
+    }
 }

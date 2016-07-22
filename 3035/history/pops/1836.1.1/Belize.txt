@@ -1,35 +1,22 @@
-#Guatemala Region (7200)
-#Ruled by Britain 1836
-#Belize (7200/1800 POPS)
 2190 = {
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1650
-	}
-
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 1650
+    }
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 125
+    }
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
 }

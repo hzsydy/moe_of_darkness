@@ -1,192 +1,108 @@
-#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region 
-#uncolonized in 1836/under the influence of Teke
-#Libreville (48000/12000 POPS) 
 1972 = {
-	aristocrats = {
-		culture = fang
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = fang
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = fang
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = fang
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = fang
-		religion = animist
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 8200
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 175
+    }
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 10900
+    }
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 600
+    }
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 125
+    }
 }
-#Mayumbe (32000/8000 POPS) 
 1974 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 7300
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 7300
+    }
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 400
+    }
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
 }
-#Moanda (28000/7000 POPS) 
 1975 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 6375
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 6375
+    }
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 350
+    }
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 125
+    }
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
 }
-#uncolonized in 1836
-#Makokou (72000/18000 POPS) 
 1976 = {
-	aristocrats = {
-		culture = fang
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = fang
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = fang
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = fang
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = fang
-		religion = animist
-		size = 7300
-	}
-
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 9125
-	}
-
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 175
+    }
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 16425
+    }
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 900
+    }
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 325
+    }
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 175
+    }
 }

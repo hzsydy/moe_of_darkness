@@ -1,269 +1,133 @@
-#Cuba (936000)
-#Ruled by Spain in 1836
-#Havana (388000/97000 POPS)
 2209 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 350
-	}
-
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 300
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 325
-	}
-
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 4325
-	}
-
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 200
-	}
-
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 650
-	}
-
-	bureaucrats = {
-		culture = caribeno
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 175
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 4000
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 28625
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 6000
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2500
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 38000
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 31125
+    }
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 350
+    }
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 24325
+    }
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 1000
+    }
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 500
+    }
+    slaves = {
+        culture = central_american
+        religion = catholic
+        size = 38000
+    }
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1800
+    }
 }
-#Jagua (252000/63000 POPS)
 2210 = {
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 600
-	}
-
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 375
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 1200
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 21575
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2000
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 11850
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25000
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 33425
+    }
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 3200
+    }
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 600
+    }
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 375
+    }
+    slaves = {
+        culture = central_american
+        religion = catholic
+        size = 25000
+    }
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 400
+    }
 }
-#Camaguey (168000/42000 POPS)
 2211 = {
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 450
-	}
-
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 400
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 3500
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 8500
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2200
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25000
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 10700
+    }
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 5000
+    }
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 450
+    }
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 400
+    }
+    slaves = {
+        culture = central_american
+        religion = catholic
+        size = 25000
+    }
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 450
+    }
 }
-#Santiago de Cuba (128000/32000 POPS)
 2212 = {
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 200
-	}
-
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 175
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 3500
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 8975
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 3300
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 14000
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 12275
+    }
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 5000
+    }
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 200
+    }
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 175
+    }
+    slaves = {
+        culture = central_american
+        religion = catholic
+        size = 14000
+    }
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 350
+    }
 }

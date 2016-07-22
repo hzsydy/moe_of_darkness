@@ -1,395 +1,253 @@
-#Outer Mongolia Region (1292000) 
-#under the rule of China in 1836  
-#Ugra (376000/94000 POPS)   
 1465 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 1850
-	}
-
-	bureaucrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 75
-	}
-
-	officers = {
-		culture = mongol
-		religion = gelugpa
-		size = 325
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 4000
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 4500
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 84350
-	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 125
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 75
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 100
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3300
-	}
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 87650
+    }
+    bureaucrats = {
+        culture = manchu
+        religion = mahayana
+        size = 200
+    }
+    officers = {
+        culture = manchu
+        religion = mahayana
+        size = 325
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 1850
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 4900
+    }
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 4075
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 1000
+    }
 }
-#Dalandzadgad (212000/53000 POPS)   
 1466 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 1050
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 550
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 2650
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 550
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 48200
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 550
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 48200
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 2650
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 1050
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 550
+    }
 }
-#Bayan Tumen (176000/44000 POPS)   
 1467 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 825
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 425
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 2050
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 425
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 37275
-	}
-
-	aristocrats = {
-		culture = yakut
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = yakut
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = yakut
-		religion = animist
-		size = 125
-	}
-
-	soldiers = {
-		culture = yakut
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = yakut
-		religion = animist
-		size = 2750
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 475
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 40025
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 2175
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 875
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 450
+    }
 }
-#Uliastay (140000/35000 POPS)   
 1468 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 650
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 350
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 1750
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 350
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 31900
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 350
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 31900
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 1750
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 650
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 350
+    }
 }
-
-#Sainshand (71100/17775 POPS)   
 2207 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 350
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 875
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 16200
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 175
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 16200
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 875
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 350
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 175
+    }
 }
-
-#Khatgal (152000/38000 POPS)   
 2608 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 750
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 375
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 1500
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 375
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 35000
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 375
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 35000
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 1500
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 750
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 375
+    }
 }
-#Bulgan (84000/21000 POPS)   
 2678 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 400
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 200
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 1050
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 225
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 17125
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 200
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 17125
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 1050
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 400
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 225
+    }
 }
-#Khovd (120000/30000 POPS)   
 2679 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 350
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 16400
-	}
-
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = kazak
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = kazak
-		religion = sunni
-		size = 600
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = kazak
-		religion = sunni
-		size = 10975
-	}
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 275
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 27375
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 1500
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 550
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 300
+    }
 }
-#Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
 1469 = {
-	aristocrats = {
-		culture = tatar
-		religion = gelugpa
-		size = 150
-	}
-
-	clergymen = {
-		culture = tatar
-		religion = gelugpa
-		size = 75
-	}
-
-	artisans = {
-		culture = tatar
-		religion = gelugpa
-		size = 400
-	}
-
-	soldiers = {
-		culture = tatar
-		religion = gelugpa
-		size = 75
-	}
-
-	farmers = {
-		culture = tatar
-		religion = gelugpa
-		size = 7300
-	}
-
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 75
+    }
+    farmers = {
+        culture = manchu
+        religion = mahayana
+        size = 7300
+    }
+    artisans = {
+        culture = manchu
+        religion = mahayana
+        size = 400
+    }
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 150
+    }
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 75
+    }
 }
