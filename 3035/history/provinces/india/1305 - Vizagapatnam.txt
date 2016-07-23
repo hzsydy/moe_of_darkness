@@ -1,5 +1,6 @@
 owner = CLA
 controller = CLA
 add_core = CLA
+add_core = KEY
 trade_goods = tobacco
 life_rating = 32

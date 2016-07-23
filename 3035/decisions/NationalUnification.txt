@@ -237,8 +237,8 @@ political_decisions = {
 				limit = {
 					NOT = {
 						is_greater_power = yes
-						tag = AUS
-						tag = KUK
+						#tag = AUS
+						#tag = KUK
 					}
 					is_culture_group = THIS
 					in_sphere = THIS

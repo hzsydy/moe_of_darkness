@@ -18,7 +18,7 @@ visual_arts = {
 		last_names = { ·Û
 		}
 	}
-	#union = KEY
+	union = KEY
 }
 
 germanic = {

@@ -1,5 +1,6 @@
 owner = LBU
 controller = LBU
 add_core = LBU
+add_core = KEY
 trade_goods = cattle
 life_rating = 30

@@ -1,5 +1,6 @@
 owner = AIR
 controller = AIR
 add_core = AIR
+add_core = KEY
 trade_goods = grain
 life_rating = 30
