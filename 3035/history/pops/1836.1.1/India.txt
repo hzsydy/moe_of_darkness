@@ -36,10 +36,10 @@
         religion = hindu
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 41000
+        size = 500
     }
     artisans = {
         culture = key_fan
@@ -51,10 +51,10 @@
         religion = hindu
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 500
+        size = 41000
     }
 }
 1219 = {
@@ -63,10 +63,10 @@
         religion = hindu
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 20325
+        size = 7000
     }
     artisans = {
         culture = key_fan
@@ -78,10 +78,10 @@
         religion = hindu
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 7000
+        size = 20325
     }
 }
 1220 = {
@@ -90,10 +90,10 @@
         religion = hindu
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 13500
+        size = 7000
     }
     artisans = {
         culture = key_fan
@@ -105,10 +105,10 @@
         religion = hindu
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 7000
+        size = 13500
     }
 }
 1221 = {
@@ -122,20 +122,20 @@
         religion = hindu
         size = 250
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 75
+        size = 1250
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 250
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 1250
+        size = 75
     }
     clergymen = {
         culture = key_fan
@@ -159,20 +159,20 @@
         religion = hindu
         size = 25
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 25
+        size = 1500
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 350
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 1500
+        size = 25
     }
     clergymen = {
         culture = key_fan
@@ -223,10 +223,10 @@
         religion = hindu
         size = 700
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 60900
+        size = 650
     }
     artisans = {
         culture = key_fan
@@ -238,10 +238,10 @@
         religion = hindu
         size = 700
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 650
+        size = 60900
     }
 }
 1226 = {
@@ -250,10 +250,10 @@
         religion = hindu
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 45100
+        size = 475
     }
     artisans = {
         culture = key_fan
@@ -265,10 +265,10 @@
         religion = hindu
         size = 475
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 475
+        size = 45100
     }
 }
 1227 = {
@@ -282,20 +282,20 @@
         religion = hindu
         size = 2850
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 2000
+        size = 33000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 6300
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 33000
+        size = 2000
     }
     clergymen = {
         culture = key_fan
@@ -314,10 +314,10 @@
         religion = hindu
         size = 1800
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 147600
+        size = 1850
     }
     artisans = {
         culture = key_fan
@@ -329,10 +329,10 @@
         religion = hindu
         size = 1750
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1850
+        size = 147600
     }
 }
 1229 = {
@@ -341,10 +341,10 @@
         religion = hindu
         size = 1400
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 124100
+        size = 3100
     }
     artisans = {
         culture = key_fan
@@ -356,10 +356,10 @@
         religion = hindu
         size = 1400
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3100
+        size = 124100
     }
 }
 1230 = {
@@ -368,10 +368,10 @@
         religion = hindu
         size = 825
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 81475
+        size = 900
     }
     artisans = {
         culture = key_fan
@@ -383,10 +383,10 @@
         religion = hindu
         size = 800
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 900
+        size = 81475
     }
 }
 1231 = {
@@ -395,10 +395,10 @@
         religion = hindu
         size = 825
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 89625
+        size = 1250
     }
     artisans = {
         culture = key_fan
@@ -410,10 +410,10 @@
         religion = hindu
         size = 900
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1250
+        size = 89625
     }
 }
 1232 = {
@@ -422,10 +422,10 @@
         religion = hindu
         size = 2850
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 260050
+        size = 2800
     }
     artisans = {
         culture = key_fan
@@ -437,10 +437,10 @@
         religion = hindu
         size = 2800
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2800
+        size = 260050
     }
 }
 1233 = {
@@ -449,10 +449,10 @@
         religion = hindu
         size = 4550
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 508450
+        size = 5600
     }
     artisans = {
         culture = key_fan
@@ -464,10 +464,10 @@
         religion = hindu
         size = 5600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 5600
+        size = 508450
     }
 }
 1234 = {
@@ -476,10 +476,10 @@
         religion = hindu
         size = 2300
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 214550
+        size = 6350
     }
     artisans = {
         culture = key_fan
@@ -491,10 +491,10 @@
         religion = hindu
         size = 2300
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 6350
+        size = 214550
     }
 }
 1235 = {
@@ -508,20 +508,20 @@
         religion = hindu
         size = 100
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 7900
+        size = 50
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 1950
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 50
+        size = 7900
     }
     clergymen = {
         culture = key_fan
@@ -572,10 +572,10 @@
         religion = hindu
         size = 3250
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 293750
+        size = 3250
     }
     artisans = {
         culture = key_fan
@@ -587,10 +587,10 @@
         religion = hindu
         size = 3850
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3250
+        size = 293750
     }
 }
 1238 = {
@@ -599,10 +599,10 @@
         religion = hindu
         size = 2500
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 218500
+        size = 3100
     }
     artisans = {
         culture = key_fan
@@ -614,10 +614,10 @@
         religion = hindu
         size = 2000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3100
+        size = 218500
     }
 }
 1239 = {
@@ -626,10 +626,10 @@
         religion = hindu
         size = 4375
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 362375
+        size = 4000
     }
     artisans = {
         culture = key_fan
@@ -641,10 +641,10 @@
         religion = hindu
         size = 4250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4000
+        size = 362375
     }
 }
 1240 = {
@@ -653,10 +653,10 @@
         religion = hindu
         size = 12350
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 960750
+        size = 11100
     }
     artisans = {
         culture = key_fan
@@ -668,10 +668,10 @@
         religion = hindu
         size = 9000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 11100
+        size = 960750
     }
 }
 1241 = {
@@ -680,10 +680,10 @@
         religion = hindu
         size = 10125
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 855125
+        size = 9500
     }
     artisans = {
         culture = key_fan
@@ -695,10 +695,10 @@
         religion = hindu
         size = 9250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 9500
+        size = 855125
     }
 }
 1243 = {
@@ -707,10 +707,10 @@
         religion = hindu
         size = 7600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 691000
+        size = 7250
     }
     artisans = {
         culture = key_fan
@@ -722,10 +722,10 @@
         religion = hindu
         size = 7250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 7250
+        size = 691000
     }
 }
 1245 = {
@@ -734,10 +734,10 @@
         religion = hindu
         size = 6750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 567250
+        size = 6750
     }
     artisans = {
         culture = key_fan
@@ -749,10 +749,10 @@
         religion = hindu
         size = 7250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 6750
+        size = 567250
     }
 }
 1246 = {
@@ -761,10 +761,10 @@
         religion = hindu
         size = 6625
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 567875
+        size = 6500
     }
     artisans = {
         culture = key_fan
@@ -776,10 +776,10 @@
         religion = hindu
         size = 7000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 6500
+        size = 567875
     }
 }
 1242 = {
@@ -793,20 +793,20 @@
         religion = hindu
         size = 1700
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 1250
+        size = 75000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 6500
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 75000
+        size = 1250
     }
     clergymen = {
         culture = key_fan
@@ -825,10 +825,10 @@
         religion = hindu
         size = 5400
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 475900
+        size = 5000
     }
     artisans = {
         culture = key_fan
@@ -840,10 +840,10 @@
         religion = hindu
         size = 4700
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 5000
+        size = 475900
     }
 }
 1247 = {
@@ -884,10 +884,10 @@
         religion = hindu
         size = 7250
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 706000
+        size = 7250
     }
     artisans = {
         culture = key_fan
@@ -899,10 +899,10 @@
         religion = hindu
         size = 7500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 7250
+        size = 706000
     }
 }
 1249 = {
@@ -911,10 +911,10 @@
         religion = hindu
         size = 6750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 683000
+        size = 7100
     }
     artisans = {
         culture = key_fan
@@ -926,10 +926,10 @@
         religion = hindu
         size = 8250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 7100
+        size = 683000
     }
 }
 1250 = {
@@ -938,10 +938,10 @@
         religion = hindu
         size = 4875
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 435625
+        size = 5000
     }
     artisans = {
         culture = key_fan
@@ -953,10 +953,10 @@
         religion = hindu
         size = 5500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 5000
+        size = 435625
     }
 }
 1251 = {
@@ -970,20 +970,20 @@
         religion = hindu
         size = 7500
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 135000
+        size = 400
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 14150
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 400
+        size = 135000
     }
     clergymen = {
         culture = key_fan
@@ -1002,10 +1002,10 @@
         religion = hindu
         size = 8250
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 747750
+        size = 8000
     }
     artisans = {
         culture = key_fan
@@ -1017,10 +1017,10 @@
         religion = hindu
         size = 7100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 8000
+        size = 747750
     }
 }
 1253 = {
@@ -1029,10 +1029,10 @@
         religion = hindu
         size = 11225
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 1026375
+        size = 10750
     }
     artisans = {
         culture = key_fan
@@ -1044,10 +1044,10 @@
         religion = hindu
         size = 10000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 10750
+        size = 1026375
     }
 }
 1254 = {
@@ -1056,10 +1056,10 @@
         religion = hindu
         size = 13000
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 1221000
+        size = 12000
     }
     artisans = {
         culture = key_fan
@@ -1071,10 +1071,10 @@
         religion = hindu
         size = 8000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 12000
+        size = 1221000
     }
 }
 1255 = {
@@ -1083,10 +1083,10 @@
         religion = hindu
         size = 5750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 535250
+        size = 5750
     }
     artisans = {
         culture = key_fan
@@ -1098,10 +1098,10 @@
         religion = hindu
         size = 3250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 5750
+        size = 535250
     }
 }
 1256 = {
@@ -1110,10 +1110,10 @@
         religion = hindu
         size = 5750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 548750
+        size = 6000
     }
     artisans = {
         culture = key_fan
@@ -1125,10 +1125,10 @@
         religion = hindu
         size = 3750
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 6000
+        size = 548750
     }
 }
 1257 = {
@@ -1137,10 +1137,10 @@
         religion = hindu
         size = 14750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 1354750
+        size = 14750
     }
     artisans = {
         culture = key_fan
@@ -1152,10 +1152,10 @@
         religion = hindu
         size = 14250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 14750
+        size = 1354750
     }
 }
 1320 = {
@@ -1213,10 +1213,10 @@
         religion = hindu
         size = 1725
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 141375
+        size = 1850
     }
     artisans = {
         culture = key_fan
@@ -1228,10 +1228,10 @@
         religion = hindu
         size = 1350
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1850
+        size = 141375
     }
 }
 1260 = {
@@ -1240,10 +1240,10 @@
         religion = hindu
         size = 825
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 89175
+        size = 2200
     }
     artisans = {
         culture = key_fan
@@ -1255,10 +1255,10 @@
         religion = hindu
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2200
+        size = 89175
     }
 }
 2566 = {
@@ -1267,10 +1267,10 @@
         religion = hindu
         size = 1500
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 140250
+        size = 1600
     }
     artisans = {
         culture = key_fan
@@ -1282,10 +1282,10 @@
         religion = hindu
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1600
+        size = 140250
     }
 }
 1261 = {
@@ -1427,20 +1427,20 @@
         religion = hindu
         size = 125
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 100
+        size = 5500
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 1100
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 5500
+        size = 100
     }
     clergymen = {
         culture = key_fan
@@ -1464,20 +1464,20 @@
         religion = hindu
         size = 350
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 350
+        size = 37500
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 3200
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 37500
+        size = 350
     }
     clergymen = {
         culture = key_fan
@@ -1501,20 +1501,20 @@
         religion = hindu
         size = 275
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 250
+        size = 13500
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2600
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 13500
+        size = 250
     }
     clergymen = {
         culture = key_fan
@@ -1538,20 +1538,20 @@
         religion = hindu
         size = 450
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 450
+        size = 35000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 4100
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 35000
+        size = 450
     }
     clergymen = {
         culture = key_fan
@@ -1575,20 +1575,20 @@
         religion = hindu
         size = 350
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 350
+        size = 17000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 3400
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 17000
+        size = 350
     }
     clergymen = {
         culture = key_fan
@@ -1612,20 +1612,20 @@
         religion = hindu
         size = 250
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 300
+        size = 15000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 3000
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 15000
+        size = 300
     }
     clergymen = {
         culture = key_fan
@@ -1649,20 +1649,20 @@
         religion = hindu
         size = 250
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 250
+        size = 13000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2600
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 13000
+        size = 250
     }
     clergymen = {
         culture = key_fan
@@ -1686,20 +1686,20 @@
         religion = hindu
         size = 200
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 200
+        size = 10000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2000
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 10000
+        size = 200
     }
     clergymen = {
         culture = key_fan
@@ -1814,10 +1814,10 @@
         religion = hindu
         size = 1600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 136200
+        size = 1600
     }
     artisans = {
         culture = key_fan
@@ -1829,10 +1829,10 @@
         religion = hindu
         size = 1500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1600
+        size = 136200
     }
 }
 1277 = {
@@ -1846,20 +1846,20 @@
         religion = hindu
         size = 1150
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 750
+        size = 23000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 4400
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 23000
+        size = 750
     }
     clergymen = {
         culture = key_fan
@@ -1878,10 +1878,10 @@
         religion = hindu
         size = 2025
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 184775
+        size = 2050
     }
     artisans = {
         culture = key_fan
@@ -1893,10 +1893,10 @@
         religion = hindu
         size = 2100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2050
+        size = 184775
     }
 }
 1281 = {
@@ -1905,10 +1905,10 @@
         religion = hindu
         size = 1700
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 154350
+        size = 1950
     }
     artisans = {
         culture = key_fan
@@ -1920,10 +1920,10 @@
         religion = hindu
         size = 1700
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1950
+        size = 154350
     }
 }
 1278 = {
@@ -1932,10 +1932,10 @@
         religion = hindu
         size = 3200
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 292000
+        size = 3300
     }
     artisans = {
         culture = key_fan
@@ -1947,10 +1947,10 @@
         religion = hindu
         size = 3000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3300
+        size = 292000
     }
 }
 1279 = {
@@ -1964,20 +1964,20 @@
         religion = hindu
         size = 100
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 100
+        size = 5600
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 1150
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 5600
+        size = 100
     }
     clergymen = {
         culture = key_fan
@@ -2033,20 +2033,20 @@
         religion = hindu
         size = 2250
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 62000
+        size = 2000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 4300
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 2000
+        size = 62000
     }
     clergymen = {
         culture = key_fan
@@ -2065,10 +2065,10 @@
         religion = hindu
         size = 2750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 286650
+        size = 3200
     }
     artisans = {
         culture = key_fan
@@ -2080,10 +2080,10 @@
         religion = hindu
         size = 2900
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3200
+        size = 286650
     }
 }
 1285 = {
@@ -2092,10 +2092,10 @@
         religion = hindu
         size = 2250
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 242050
+        size = 2800
     }
     artisans = {
         culture = key_fan
@@ -2107,10 +2107,10 @@
         religion = hindu
         size = 2600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2800
+        size = 242050
     }
 }
 1286 = {
@@ -2119,10 +2119,10 @@
         religion = hindu
         size = 1625
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 180825
+        size = 1950
     }
     artisans = {
         culture = key_fan
@@ -2134,10 +2134,10 @@
         religion = hindu
         size = 1700
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1950
+        size = 180825
     }
 }
 1287 = {
@@ -2146,10 +2146,10 @@
         religion = hindu
         size = 3475
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 359675
+        size = 3750
     }
     artisans = {
         culture = key_fan
@@ -2161,10 +2161,10 @@
         religion = hindu
         size = 3500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3750
+        size = 359675
     }
 }
 1288 = {
@@ -2178,20 +2178,20 @@
         religion = hindu
         size = 800
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 300
+        size = 11300
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2300
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 11300
+        size = 300
     }
     clergymen = {
         culture = key_fan
@@ -2210,10 +2210,10 @@
         religion = hindu
         size = 925
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 77000
+        size = 4000
     }
     artisans = {
         culture = key_fan
@@ -2225,10 +2225,10 @@
         religion = hindu
         size = 875
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4000
+        size = 77000
     }
 }
 1290 = {
@@ -2237,10 +2237,10 @@
         religion = hindu
         size = 1475
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 147650
+        size = 4000
     }
     artisans = {
         culture = key_fan
@@ -2252,10 +2252,10 @@
         religion = hindu
         size = 1475
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4000
+        size = 147650
     }
 }
 1291 = {
@@ -2296,10 +2296,10 @@
         religion = hindu
         size = 3375
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 236375
+        size = 3000
     }
     artisans = {
         culture = key_fan
@@ -2311,10 +2311,10 @@
         religion = hindu
         size = 3250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3000
+        size = 236375
     }
 }
 1294 = {
@@ -2323,10 +2323,10 @@
         religion = hindu
         size = 4575
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 417350
+        size = 4550
     }
     artisans = {
         culture = key_fan
@@ -2338,10 +2338,10 @@
         religion = hindu
         size = 4525
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4550
+        size = 417350
     }
 }
 1295 = {
@@ -2355,20 +2355,20 @@
         religion = hindu
         size = 900
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 800
+        size = 19000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 4050
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 19000
+        size = 800
     }
     clergymen = {
         culture = key_fan
@@ -2456,20 +2456,20 @@
         religion = hindu
         size = 2250
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 84925
+        size = 500
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 7625
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 500
+        size = 84925
     }
     clergymen = {
         culture = key_fan
@@ -2488,10 +2488,10 @@
         religion = hindu
         size = 1325
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 186525
+        size = 2100
     }
     artisans = {
         culture = key_fan
@@ -2503,10 +2503,10 @@
         religion = hindu
         size = 2050
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2100
+        size = 186525
     }
 }
 1299 = {
@@ -2515,10 +2515,10 @@
         religion = hindu
         size = 2675
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 264875
+        size = 3250
     }
     artisans = {
         culture = key_fan
@@ -2530,10 +2530,10 @@
         religion = hindu
         size = 3200
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3250
+        size = 264875
     }
 }
 1300 = {
@@ -2542,10 +2542,10 @@
         religion = hindu
         size = 2600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 240250
+        size = 2600
     }
     artisans = {
         culture = key_fan
@@ -2557,10 +2557,10 @@
         religion = hindu
         size = 2550
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2600
+        size = 240250
     }
 }
 1301 = {
@@ -2569,10 +2569,10 @@
         religion = hindu
         size = 2575
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 201775
+        size = 2350
     }
     artisans = {
         culture = key_fan
@@ -2584,10 +2584,10 @@
         religion = hindu
         size = 2300
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2350
+        size = 201775
     }
 }
 1302 = {
@@ -2596,10 +2596,10 @@
         religion = hindu
         size = 3600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 283050
+        size = 3000
     }
     artisans = {
         culture = key_fan
@@ -2611,10 +2611,10 @@
         religion = hindu
         size = 3100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3000
+        size = 283050
     }
 }
 1303 = {
@@ -2687,10 +2687,10 @@
         religion = hindu
         size = 4675
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 400575
+        size = 4650
     }
     artisans = {
         culture = key_fan
@@ -2702,10 +2702,10 @@
         religion = hindu
         size = 5100
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4650
+        size = 400575
     }
 }
 1307 = {
@@ -2714,10 +2714,10 @@
         religion = hindu
         size = 2625
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 242225
+        size = 2650
     }
     artisans = {
         culture = key_fan
@@ -2729,10 +2729,10 @@
         religion = hindu
         size = 3600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2650
+        size = 242225
     }
 }
 1308 = {
@@ -2741,10 +2741,10 @@
         religion = hindu
         size = 3200
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 288100
+        size = 3300
     }
     artisans = {
         culture = key_fan
@@ -2756,10 +2756,10 @@
         religion = hindu
         size = 3400
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3300
+        size = 288100
     }
 }
 1304 = {
@@ -2800,10 +2800,10 @@
         religion = hindu
         size = 3925
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 332725
+        size = 3750
     }
     artisans = {
         culture = key_fan
@@ -2815,10 +2815,10 @@
         religion = hindu
         size = 3600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3750
+        size = 332725
     }
 }
 1310 = {
@@ -2827,10 +2827,10 @@
         religion = hindu
         size = 4550
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 394550
+        size = 4300
     }
     artisans = {
         culture = key_fan
@@ -2842,10 +2842,10 @@
         religion = hindu
         size = 4600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4300
+        size = 394550
     }
 }
 1311 = {
@@ -2854,10 +2854,10 @@
         religion = hindu
         size = 5500
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 485250
+        size = 5500
     }
     artisans = {
         culture = key_fan
@@ -2869,10 +2869,10 @@
         religion = hindu
         size = 6250
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 5500
+        size = 485250
     }
 }
 1312 = {
@@ -2886,20 +2886,20 @@
         religion = hindu
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 30550
+        size = 400
     }
     artisans = {
         culture = key_fan
         religion = hindu
         size = 1725
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 400
+        size = 30550
     }
 }
 1313 = {
@@ -2908,10 +2908,10 @@
         religion = hindu
         size = 1775
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 136575
+        size = 1800
     }
     artisans = {
         culture = key_fan
@@ -2923,10 +2923,10 @@
         religion = hindu
         size = 1850
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1800
+        size = 136575
     }
 }
 1314 = {
@@ -2940,20 +2940,20 @@
         religion = hindu
         size = 1000
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 500
+        size = 11000
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2325
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 11000
+        size = 500
     }
     clergymen = {
         culture = key_fan
@@ -2972,10 +2972,10 @@
         religion = hindu
         size = 1150
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 95850
+        size = 1150
     }
     artisans = {
         culture = key_fan
@@ -2987,10 +2987,10 @@
         religion = hindu
         size = 1150
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1150
+        size = 95850
     }
 }
 1316 = {
@@ -2999,10 +2999,10 @@
         religion = hindu
         size = 2925
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 259925
+        size = 3000
     }
     artisans = {
         culture = key_fan
@@ -3014,10 +3014,10 @@
         religion = hindu
         size = 3150
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3000
+        size = 259925
     }
 }
 1317 = {
@@ -3026,10 +3026,10 @@
         religion = hindu
         size = 3550
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 315300
+        size = 3600
     }
     artisans = {
         culture = key_fan
@@ -3041,10 +3041,10 @@
         religion = hindu
         size = 3650
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 3600
+        size = 315300
     }
 }
 1318 = {
@@ -3053,10 +3053,10 @@
         religion = hindu
         size = 2150
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 182100
+        size = 4500
     }
     artisans = {
         culture = key_fan
@@ -3068,10 +3068,10 @@
         religion = hindu
         size = 2000
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 4500
+        size = 182100
     }
 }
 1319 = {
@@ -3085,20 +3085,20 @@
         religion = hindu
         size = 600
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 300
+        size = 6050
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 1175
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 6050
+        size = 300
     }
     clergymen = {
         culture = key_fan
@@ -3122,20 +3122,20 @@
         religion = hindu
         size = 10
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 15
+        size = 700
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 250
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 700
+        size = 15
     }
     clergymen = {
         culture = key_fan

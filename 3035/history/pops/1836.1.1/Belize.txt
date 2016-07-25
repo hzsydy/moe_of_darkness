@@ -4,19 +4,19 @@
         religion = catholic
         size = 15
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 1650
+        size = 10
     }
     artisans = {
         culture = central_american
         religion = catholic
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 10
+        size = 1650
     }
 }

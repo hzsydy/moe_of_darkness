@@ -4,10 +4,10 @@
         religion = catholic
         size = 625
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 57375
+        size = 675
     }
     artisans = {
         culture = french
@@ -19,10 +19,10 @@
         religion = catholic
         size = 1175
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 675
+        size = 57375
     }
 }
 2026 = {
@@ -127,10 +127,10 @@
         religion = catholic
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 11875
+        size = 125
     }
     artisans = {
         culture = french
@@ -142,10 +142,10 @@
         religion = catholic
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 125
+        size = 11875
     }
 }
 2031 = {
@@ -186,10 +186,10 @@
         religion = catholic
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 39150
+        size = 425
     }
     artisans = {
         culture = french
@@ -201,10 +201,10 @@
         religion = catholic
         size = 775
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 425
+        size = 39150
     }
 }
 2029 = {
@@ -277,10 +277,10 @@
         religion = catholic
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 23725
+        size = 250
     }
     artisans = {
         culture = french
@@ -292,9 +292,9 @@
         religion = catholic
         size = 475
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 250
+        size = 23725
     }
 }

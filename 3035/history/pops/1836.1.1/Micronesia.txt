@@ -9,20 +9,20 @@
         religion = catholic
         size = 1
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 1490
+        size = 20
     }
     artisans = {
         culture = spanish
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 20
+        size = 1490
     }
 }
 2521 = {
@@ -31,20 +31,20 @@
         religion = catholic
         size = 2
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 1325
+        size = 3
     }
     artisans = {
         culture = spanish
         religion = catholic
         size = 70
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 3
+        size = 1325
     }
 }
 2518 = {
@@ -53,10 +53,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = spanish
@@ -68,10 +68,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 2519 = {

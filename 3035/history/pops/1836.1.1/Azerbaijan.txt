@@ -36,10 +36,10 @@
         religion = orthodox
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 12725
+        size = 150
     }
     artisans = {
         culture = russian
@@ -51,10 +51,10 @@
         religion = orthodox
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 150
+        size = 12725
     }
 }
 1104 = {
@@ -63,10 +63,10 @@
         religion = orthodox
         size = 115
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 5300
+        size = 85
     }
     artisans = {
         culture = russian
@@ -78,10 +78,10 @@
         religion = orthodox
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 85
+        size = 5300
     }
 }
 1105 = {
@@ -90,10 +90,10 @@
         religion = orthodox
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 15525
+        size = 175
     }
     artisans = {
         culture = russian
@@ -105,10 +105,10 @@
         religion = orthodox
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 175
+        size = 15525
     }
 }
 1106 = {
@@ -117,10 +117,10 @@
         religion = orthodox
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 13700
+        size = 175
     }
     artisans = {
         culture = russian
@@ -132,10 +132,10 @@
         religion = orthodox
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 175
+        size = 13700
     }
 }
 1107 = {
@@ -144,10 +144,10 @@
         religion = orthodox
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 12800
+        size = 150
     }
     artisans = {
         culture = russian
@@ -159,9 +159,9 @@
         religion = orthodox
         size = 225
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 150
+        size = 12800
     }
 }

@@ -88,20 +88,20 @@
         religion = protestant
         size = 800
     }
-    officers = {
+    artisans = {
         culture = swiss
         religion = protestant
-        size = 350
+        size = 4500
     }
     aristocrats = {
         culture = swiss
         religion = protestant
         size = 450
     }
-    artisans = {
+    officers = {
         culture = swiss
         religion = protestant
-        size = 4500
+        size = 350
     }
     clergymen = {
         culture = swiss
@@ -130,10 +130,10 @@
         religion = protestant
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = swiss
         religion = protestant
-        size = 30975
+        size = 1100
     }
     artisans = {
         culture = swiss
@@ -145,10 +145,10 @@
         religion = protestant
         size = 175
     }
-    soldiers = {
+    farmers = {
         culture = swiss
         religion = protestant
-        size = 1100
+        size = 30975
     }
 }
 607 = {
@@ -162,20 +162,20 @@
         religion = protestant
         size = 200
     }
-    officers = {
+    artisans = {
         culture = swiss
         religion = protestant
-        size = 110
+        size = 7000
     }
     aristocrats = {
         culture = swiss
         religion = protestant
         size = 500
     }
-    artisans = {
+    officers = {
         culture = swiss
         religion = protestant
-        size = 7000
+        size = 110
     }
     clergymen = {
         culture = swiss
@@ -194,10 +194,10 @@
         religion = protestant
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = swiss
         religion = protestant
-        size = 10625
+        size = 150
     }
     artisans = {
         culture = swiss
@@ -209,10 +209,10 @@
         religion = protestant
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = swiss
         religion = protestant
-        size = 150
+        size = 10625
     }
 }
 609 = {
@@ -221,10 +221,10 @@
         religion = protestant
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = swiss
         religion = protestant
-        size = 15675
+        size = 1100
     }
     artisans = {
         culture = swiss
@@ -236,10 +236,10 @@
         religion = protestant
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = swiss
         religion = protestant
-        size = 1100
+        size = 15675
     }
 }
 2568 = {
@@ -253,20 +253,20 @@
         religion = protestant
         size = 100
     }
-    officers = {
+    artisans = {
         culture = swiss
         religion = protestant
-        size = 50
+        size = 1250
     }
     aristocrats = {
         culture = swiss
         religion = protestant
         size = 250
     }
-    artisans = {
+    officers = {
         culture = swiss
         religion = protestant
-        size = 1250
+        size = 50
     }
     clergymen = {
         culture = swiss
@@ -285,10 +285,10 @@
         religion = protestant
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = swiss
         religion = protestant
-        size = 17750
+        size = 1175
     }
     artisans = {
         culture = swiss
@@ -300,9 +300,9 @@
         religion = protestant
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = swiss
         religion = protestant
-        size = 1175
+        size = 17750
     }
 }

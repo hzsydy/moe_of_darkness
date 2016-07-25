@@ -9,20 +9,20 @@
         religion = protestant
         size = 75
     }
-    officers = {
+    artisans = {
         culture = polynesian
         religion = protestant
-        size = 25
+        size = 1250
     }
     aristocrats = {
         culture = polynesian
         religion = protestant
         size = 450
     }
-    artisans = {
+    officers = {
         culture = polynesian
         religion = protestant
-        size = 1250
+        size = 25
     }
     clergymen = {
         culture = polynesian

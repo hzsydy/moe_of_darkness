@@ -9,20 +9,20 @@
         religion = hindu
         size = 175
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 225
+        size = 5575
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 2600
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 5575
+        size = 225
     }
     clergymen = {
         culture = key_fan
@@ -41,10 +41,10 @@
         religion = hindu
         size = 1025
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 101275
+        size = 1650
     }
     artisans = {
         culture = key_fan
@@ -56,9 +56,9 @@
         religion = hindu
         size = 1950
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 1650
+        size = 101275
     }
 }

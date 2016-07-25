@@ -36,10 +36,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = anglo_canadian
@@ -51,10 +51,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 3 = {
@@ -63,10 +63,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 550
+        size = 10
     }
     artisans = {
         culture = anglo_canadian
@@ -78,10 +78,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 10
+        size = 550
     }
 }
 4 = {
@@ -90,10 +90,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 450
+        size = 5
     }
     artisans = {
         culture = anglo_canadian
@@ -105,10 +105,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 5
+        size = 450
     }
 }
 5 = {
@@ -117,10 +117,10 @@
         religion = protestant
         size = 6
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 450
+        size = 10
     }
     artisans = {
         culture = anglo_canadian
@@ -132,10 +132,10 @@
         religion = protestant
         size = 4
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 10
+        size = 450
     }
 }
 2599 = {
@@ -144,10 +144,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 450
+        size = 5
     }
     artisans = {
         culture = anglo_canadian
@@ -159,10 +159,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 5
+        size = 450
     }
 }
 2630 = {
@@ -171,10 +171,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 360
+        size = 5
     }
     artisans = {
         culture = anglo_canadian
@@ -186,10 +186,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 5
+        size = 360
     }
 }
 2631 = {
@@ -198,10 +198,10 @@
         religion = protestant
         size = 13
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 675
+        size = 10
     }
     artisans = {
         culture = anglo_canadian
@@ -213,91 +213,91 @@
         religion = protestant
         size = 7
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 10
+        size = 675
     }
 }
 78 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 79 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 80 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 81 = {
@@ -306,10 +306,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -321,10 +321,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 82 = {
@@ -333,10 +333,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -348,10 +348,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 83 = {
@@ -360,10 +360,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -375,10 +375,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 84 = {
@@ -387,10 +387,10 @@
         religion = catholic
         size = 60
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2150
+        size = 35
     }
     artisans = {
         culture = mexican
@@ -402,10 +402,10 @@
         religion = catholic
         size = 35
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 35
+        size = 2150
     }
 }
 85 = {
@@ -414,10 +414,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -429,10 +429,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 86 = {
@@ -441,10 +441,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -456,10 +456,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 87 = {
@@ -500,10 +500,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -515,10 +515,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 89 = {
@@ -527,10 +527,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 40
     }
     artisans = {
         culture = mexican
@@ -542,10 +542,10 @@
         religion = catholic
         size = 35
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 40
+        size = 2700
     }
 }
 90 = {
@@ -554,10 +554,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 40
     }
     artisans = {
         culture = mexican
@@ -569,91 +569,91 @@
         religion = catholic
         size = 35
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 40
+        size = 2700
     }
 }
 91 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 92 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 93 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 94 = {
@@ -662,10 +662,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -677,10 +677,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 95 = {
@@ -689,10 +689,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -704,10 +704,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 96 = {
@@ -716,10 +716,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -731,10 +731,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 97 = {
@@ -743,10 +743,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -758,10 +758,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 98 = {
@@ -770,10 +770,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -785,10 +785,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 99 = {
@@ -797,10 +797,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -812,10 +812,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 100 = {
@@ -824,10 +824,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -839,10 +839,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 101 = {
@@ -851,10 +851,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 40
     }
     artisans = {
         culture = mexican
@@ -866,10 +866,10 @@
         religion = catholic
         size = 35
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 40
+        size = 2700
     }
 }
 102 = {
@@ -942,10 +942,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 4500
+        size = 50
     }
     artisans = {
         culture = mexican
@@ -957,10 +957,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 4500
     }
 }
 105 = {
@@ -969,10 +969,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = mexican
@@ -984,631 +984,631 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 106 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 107 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 108 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 109 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 110 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 111 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 112 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 113 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 114 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 115 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 116 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2700
+        size = 40
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 35
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 40
+        size = 2700
     }
 }
 117 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 118 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 119 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 120 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 121 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 122 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 123 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 124 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 125 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 126 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 127 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 128 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 129 = {
@@ -1681,10 +1681,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -1696,10 +1696,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 132 = {
@@ -1745,20 +1745,20 @@
         religion = catholic
         size = 75
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 20
+        size = 155
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 29
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 155
+        size = 20
     }
     clergymen = {
         culture = mexican
@@ -1814,10 +1814,10 @@
         religion = catholic
         size = 35
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1350
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -1829,10 +1829,10 @@
         religion = catholic
         size = 15
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1350
     }
 }
 134 = {
@@ -1873,10 +1873,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -1888,10 +1888,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 136 = {
@@ -1900,10 +1900,10 @@
         religion = catholic
         size = 53
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2025
+        size = 30
     }
     artisans = {
         culture = mexican
@@ -1915,3375 +1915,3375 @@
         religion = catholic
         size = 27
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 2025
     }
 }
 139 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 23125
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1550
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
 }
 140 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6910
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 275
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 275
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 75
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 140
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9875
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
 }
 141 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3535
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 65
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4900
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
 }
 142 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4560
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 90
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 5875
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
 }
 143 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10015
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 535
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 150
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 25
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 90
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3800
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
 }
 144 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 3675
+        size = 50
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 50
+        size = 3675
     }
 }
 145 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 70
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 4000
+        size = 50
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 50
+        size = 4000
     }
 }
 146 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 42640
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2420
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 160
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 345
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2700
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 460
     }
 }
 147 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 4625
+        size = 50
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 50
+        size = 4625
     }
 }
 148 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6375
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2850
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
 }
 149 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9955
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 95
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 650
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 100
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 95
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2700
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
 }
 150 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 12110
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 675
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 140
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 900
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
 }
 151 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2700
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 65
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
 }
 152 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1850
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1850
     }
 }
 153 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 60
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 3690
+        size = 40
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 40
+        size = 3690
     }
 }
 154 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 155 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 156 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 157 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 30
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 30
+        size = 1800
     }
 }
 158 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 159 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 3700
+        size = 50
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 50
+        size = 3700
     }
 }
 160 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 161 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 40
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1810
+        size = 40
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 40
+        size = 1810
     }
 }
 162 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 15
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1835
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1835
     }
 }
 163 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 40125
+        size = 450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2150
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 450
+        size = 40125
     }
 }
 164 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 10250
+        size = 125
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 125
+        size = 10250
     }
 }
 165 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 8400
+        size = 100
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 100
+        size = 8400
     }
 }
 166 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 23350
+        size = 250
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1250
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 250
+        size = 23350
     }
 }
 167 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 8075
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 125
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 125
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
 }
 168 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 115
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 15800
+        size = 175
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 910
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 175
+        size = 15800
     }
 }
 169 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 68900
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3450
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 150
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 650
     }
 }
 170 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 370
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 45680
+        size = 450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2500
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 450
+        size = 45680
     }
 }
 171 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 10275
+        size = 125
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 125
+        size = 10275
     }
 }
 172 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 29850
+        size = 325
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1600
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 325
+        size = 29850
     }
 }
 173 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 19595
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1100
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 25
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 120
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 110
     }
 }
 174 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 5550
+        size = 75
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 75
+        size = 5550
     }
 }
 175 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 3700
+        size = 50
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 50
+        size = 3700
     }
 }
 176 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2750
+        size = 40
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 40
+        size = 2750
     }
 }
 177 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 60
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 2725
+        size = 40
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 40
+        size = 2725
     }
 }
 178 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 48550
+        size = 450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2600
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 450
+        size = 48550
     }
 }
 179 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 61800
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 625
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 275
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3350
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 275
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
 }
 180 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 43950
+        size = 375
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2350
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 375
+        size = 43950
     }
 }
 181 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 375
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 52325
+        size = 500
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2800
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 500
+        size = 52325
     }
 }
 182 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 69175
+        size = 525
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3750
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 525
+        size = 69175
     }
 }
 183 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 240
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 37325
+        size = 400
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2035
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 400
+        size = 37325
     }
 }
 184 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 26550
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
 }
 185 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 66400
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 200
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 450
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4100
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 450
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 200
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 625
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10250
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 825
     }
 }
 186 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 24800
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1875
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
 }
 187 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17575
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1150
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
 }
 188 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 74850
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 200
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 950
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 5750
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 950
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 200
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 900
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13700
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2350
     }
 }
 189 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 21875
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1550
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 375
     }
 }
 190 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 19500
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1575
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7075
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
 }
 191 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 24150
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1925
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 5200
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
 }
 192 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20075
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 525
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1950
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 525
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 100
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17650
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
 }
 193 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9350
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1350
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13700
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
 }
 194 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7700
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 950
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9800
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
 }
 195 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 37800
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 175
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 765
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2200
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 765
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 175
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 335
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 23500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2025
     }
 }
 196 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 23850
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1675
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 600
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 15300
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 425
     }
 }
 197 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 15375
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1000
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 465
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 160
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17650
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
 }
 198 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3560
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
-    }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 100
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 255
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 100
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 25
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 60
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3900
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
 }
 199 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7360
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 405
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 60
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3900
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
 }
 200 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 1800
+        size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 25
+        size = 1800
     }
 }
 201 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 32575
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 800
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2025
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 800
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 150
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 22400
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 575
     }
 }
 202 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6410
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 65
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3900
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
 }
 204 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 26450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1650
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 700
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20475
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
 }
 2555 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 16310
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1050
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 140
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13650
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
 }
 205 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 21735
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2025
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 850
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 190
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 35300
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
 }
 206 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 36600
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 1100
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2175
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 1100
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 150
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 42450
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
 }
 207 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1075
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 425
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 175
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7600
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
 }
 208 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 26100
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 200
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 750
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1600
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 750
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 200
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9400
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
 }
 209 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17275
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1300
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 175
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 14400
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
 }
 210 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 26400
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1650
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 775
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17450
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 475
     }
 }
 2556 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 24625
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1850
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 600
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9300
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 375
     }
 }
 211 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 52600
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 1200
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3700
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 1200
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 250
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 600
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 28000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
 }
 212 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 5975
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 800
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9750
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
 }
 213 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13975
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1250
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 425
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 12875
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
 }
 214 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 14875
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1175
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 10225
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
 }
 215 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7525
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 675
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6400
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
 }
 216 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 14725
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1300
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 175
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13275
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
 }
 217 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17100
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1200
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 8000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
 }
 218 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 16200
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1125
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 7000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
 }
 219 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 13625
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 125
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 525
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 15000
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 525
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 125
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 22600
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
 }
 220 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20025
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 400
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2100
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 475
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 26000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
 }
 221 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 9975
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 625
     }
     aristocrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 100
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6000
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
 }
 222 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17165
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 10
-    }
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 950
     }
+    aristocrats = {
+        culture = AB_fan
+        religion = protestant
+        size = 75
+    }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 10
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     slaves = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
 }
 223 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 91250
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1875
     }
     capitalists = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 375
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 20275
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 375
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 785
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 65
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2175
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1300
     }
 }
 224 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 38225
+        size = 425
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2050
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 425
+        size = 38225
     }
 }
 225 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 40100
+        size = 425
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2150
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 425
+        size = 40100
     }
 }
 226 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 66800
+        size = 2000
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3650
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 2000
+        size = 66800
     }
 }
 227 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 675
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 77400
+        size = 725
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4150
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 725
+        size = 77400
     }
 }
 228 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 25175
+        size = 275
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1350
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 275
+        size = 25175
     }
 }
 229 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 36375
+        size = 375
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1950
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 375
+        size = 36375
     }
 }
 230 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 23840
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 85
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1200
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 85
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
 }
 231 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 20525
+        size = 225
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1100
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 225
+        size = 20525
     }
 }
 232 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 96000
     }
     capitalists = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 71740
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 885
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2050
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 6500
     }
 }
 233 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 175
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 23325
+        size = 250
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1250
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 250
+        size = 23325
     }
 }
 234 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75250
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1900
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 550
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3375
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 550
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 700
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2050
     }
 }
 235 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 625
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 80975
+        size = 2000
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4400
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 2000
+        size = 80975
     }
 }
 236 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 56875
+        size = 625
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3050
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 625
+        size = 56875
     }
 }
 237 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 325
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 41025
+        size = 450
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2200
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 450
+        size = 41025
     }
 }
 238 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 525
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 69675
+        size = 2000
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3800
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 2000
+        size = 69675
     }
 }
 239 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 225
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 27025
+        size = 300
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1450
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 300
+        size = 27025
     }
 }
 240 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 17725
+        size = 200
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 950
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 200
+        size = 17725
     }
 }
 241 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 68035
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
     capitalists = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 15
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3550
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 75
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 575
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
 }
 242 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 19950
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 50
     }
     capitalists = {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-    officers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 4675
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 25
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 200
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 75
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 750
     }
 }
 243 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25945
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
     capitalists = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 350
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 150
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 57875
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 150
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 800
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 875
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2075
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 17350
     }
 }
 244 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 30975
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2225
     }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 275
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 300
     }
 }
 245 = {
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 150
     }
-    farmers = {
-        culture = yankee
+    soldiers = {
+        culture = AB_fan
         religion = protestant
-        size = 19575
+        size = 225
     }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1050
     }
-    soldiers = {
-        culture = yankee
+    farmers = {
+        culture = AB_fan
         religion = protestant
-        size = 225
+        size = 19575
     }
 }
 246 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 65675
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 125
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3550
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 75
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 550
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 725
     }
 }
 247 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 62200
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 250
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 75
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2925
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 75
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 1150
     }
     clerks = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 25
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 2000
     }
     craftsmen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 500
     }
 }
 248 = {
     farmers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 55675
     }
     bureaucrats = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 175
     }
-    officers = {
-        culture = yankee
-        religion = protestant
-        size = 100
-    }
     artisans = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 3000
     }
+    officers = {
+        culture = AB_fan
+        religion = protestant
+        size = 100
+    }
     clergymen = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 450
     }
     soldiers = {
-        culture = yankee
+        culture = AB_fan
         religion = protestant
         size = 600
     }
@@ -5294,20 +5294,20 @@
         religion = protestant
         size = 300
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 41050
+        size = 450
     }
     artisans = {
         culture = anglo_canadian
         religion = protestant
         size = 2200
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 450
+        size = 41050
     }
 }
 250 = {
@@ -5316,19 +5316,19 @@
         religion = protestant
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 8350
+        size = 75
     }
     artisans = {
         culture = anglo_canadian
         religion = protestant
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 75
+        size = 8350
     }
 }

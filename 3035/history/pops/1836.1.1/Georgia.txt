@@ -9,20 +9,20 @@
         religion = orthodox
         size = 150
     }
-    officers = {
+    artisans = {
         culture = russian
         religion = orthodox
-        size = 175
+        size = 7990
     }
     aristocrats = {
         culture = russian
         religion = orthodox
         size = 1200
     }
-    artisans = {
+    officers = {
         culture = russian
         religion = orthodox
-        size = 7990
+        size = 175
     }
     clergymen = {
         culture = russian
@@ -41,10 +41,10 @@
         religion = orthodox
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 17300
+        size = 200
     }
     artisans = {
         culture = russian
@@ -56,10 +56,10 @@
         religion = orthodox
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 200
+        size = 17300
     }
 }
 1092 = {
@@ -68,10 +68,10 @@
         religion = orthodox
         size = 305
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 27300
+        size = 300
     }
     artisans = {
         culture = russian
@@ -83,10 +83,10 @@
         religion = orthodox
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 300
+        size = 27300
     }
 }
 1093 = {
@@ -95,10 +95,10 @@
         religion = orthodox
         size = 145
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 9075
+        size = 110
     }
     artisans = {
         culture = russian
@@ -110,10 +110,10 @@
         religion = orthodox
         size = 170
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 110
+        size = 9075
     }
 }
 1094 = {
@@ -122,10 +122,10 @@
         religion = orthodox
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 23675
+        size = 275
     }
     artisans = {
         culture = russian
@@ -137,10 +137,10 @@
         religion = orthodox
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 275
+        size = 23675
     }
 }
 1095 = {
@@ -149,10 +149,10 @@
         religion = orthodox
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = russian
         religion = orthodox
-        size = 16375
+        size = 200
     }
     artisans = {
         culture = russian
@@ -164,10 +164,10 @@
         religion = orthodox
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = russian
         religion = orthodox
-        size = 200
+        size = 16375
     }
 }
 1096 = {
@@ -176,10 +176,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 17700
+        size = 150
     }
     artisans = {
         culture = turkish
@@ -191,9 +191,9 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 17700
     }
 }

@@ -9,20 +9,20 @@
         religion = protestant
         size = 5
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 20
     }
     artisans = {
         culture = british
         religion = protestant
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 20
+        size = 900
     }
 }
 2130 = {

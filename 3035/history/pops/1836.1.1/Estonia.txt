@@ -9,20 +9,20 @@
         religion = protestant
         size = 100
     }
-    artisans = {
+    officers = {
         culture = finnish
         religion = protestant
-        size = 2050
+        size = 175
     }
     aristocrats = {
         culture = finnish
         religion = protestant
         size = 800
     }
-    officers = {
+    artisans = {
         culture = finnish
         religion = protestant
-        size = 175
+        size = 2050
     }
     clergymen = {
         culture = finnish
@@ -41,10 +41,10 @@
         religion = protestant
         size = 475
     }
-    farmers = {
+    soldiers = {
         culture = finnish
         religion = protestant
-        size = 41925
+        size = 500
     }
     artisans = {
         culture = finnish
@@ -56,10 +56,10 @@
         religion = protestant
         size = 800
     }
-    soldiers = {
+    farmers = {
         culture = finnish
         religion = protestant
-        size = 500
+        size = 41925
     }
 }
 351 = {
@@ -68,10 +68,10 @@
         religion = protestant
         size = 450
     }
-    farmers = {
+    soldiers = {
         culture = finnish
         religion = protestant
-        size = 20800
+        size = 250
     }
     artisans = {
         culture = finnish
@@ -83,10 +83,10 @@
         religion = protestant
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = finnish
         religion = protestant
-        size = 250
+        size = 20800
     }
 }
 352 = {
@@ -95,10 +95,10 @@
         religion = protestant
         size = 425
     }
-    farmers = {
+    soldiers = {
         culture = finnish
         religion = protestant
-        size = 35825
+        size = 450
     }
     artisans = {
         culture = finnish
@@ -110,10 +110,10 @@
         religion = protestant
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 35825
     }
 }
 353 = {
@@ -122,10 +122,10 @@
         religion = protestant
         size = 60
     }
-    farmers = {
+    soldiers = {
         culture = finnish
         religion = protestant
-        size = 3625
+        size = 35
     }
     artisans = {
         culture = finnish
@@ -137,9 +137,9 @@
         religion = protestant
         size = 80
     }
-    soldiers = {
+    farmers = {
         culture = finnish
         religion = protestant
-        size = 35
+        size = 3625
     }
 }

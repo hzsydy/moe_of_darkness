@@ -9,20 +9,20 @@
         religion = gelugpa
         size = 750
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = gelugpa
-        size = 950
+        size = 11150
     }
     aristocrats = {
         culture = key_fan
         religion = gelugpa
         size = 4150
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = gelugpa
-        size = 11150
+        size = 950
     }
     clergymen = {
         culture = key_fan
@@ -41,10 +41,10 @@
         religion = gelugpa
         size = 1600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = gelugpa
-        size = 142300
+        size = 1550
     }
     artisans = {
         culture = key_fan
@@ -56,10 +56,10 @@
         religion = gelugpa
         size = 2750
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = gelugpa
-        size = 1550
+        size = 142300
     }
 }
 1589 = {
@@ -68,10 +68,10 @@
         religion = gelugpa
         size = 925
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = gelugpa
-        size = 74500
+        size = 825
     }
     artisans = {
         culture = key_fan
@@ -83,10 +83,10 @@
         religion = gelugpa
         size = 1600
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = gelugpa
-        size = 825
+        size = 74500
     }
 }
 1590 = {
@@ -95,10 +95,10 @@
         religion = gelugpa
         size = 1750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = gelugpa
-        size = 156550
+        size = 1725
     }
     artisans = {
         culture = key_fan
@@ -110,10 +110,10 @@
         religion = gelugpa
         size = 3375
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = gelugpa
-        size = 1725
+        size = 156550
     }
 }
 1591 = {
@@ -122,10 +122,10 @@
         religion = gelugpa
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = gelugpa
-        size = 17300
+        size = 175
     }
     artisans = {
         culture = key_fan
@@ -137,10 +137,10 @@
         religion = gelugpa
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = gelugpa
-        size = 175
+        size = 17300
     }
 }
 1592 = {
@@ -149,10 +149,10 @@
         religion = gelugpa
         size = 775
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = gelugpa
-        size = 69175
+        size = 750
     }
     artisans = {
         culture = key_fan
@@ -164,10 +164,10 @@
         religion = gelugpa
         size = 1500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = gelugpa
-        size = 750
+        size = 69175
     }
 }
 1593 = {
@@ -176,10 +176,10 @@
         religion = hindu
         size = 2125
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = hindu
-        size = 190250
+        size = 2050
     }
     artisans = {
         culture = key_fan
@@ -191,9 +191,9 @@
         religion = hindu
         size = 4125
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = hindu
-        size = 2050
+        size = 190250
     }
 }

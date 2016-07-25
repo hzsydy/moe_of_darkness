@@ -4,10 +4,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 15475
+        size = 175
     }
     artisans = {
         culture = spanish
@@ -19,10 +19,10 @@
         religion = catholic
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 175
+        size = 15475
     }
 }
 2069 = {
@@ -31,10 +31,10 @@
         religion = catholic
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 21850
+        size = 250
     }
     artisans = {
         culture = spanish
@@ -46,10 +46,10 @@
         religion = catholic
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 250
+        size = 21850
     }
 }
 2070 = {
@@ -58,10 +58,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 21825
+        size = 250
     }
     artisans = {
         culture = spanish
@@ -73,10 +73,10 @@
         religion = catholic
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 250
+        size = 21825
     }
 }
 2635 = {
@@ -85,10 +85,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 8225
+        size = 90
     }
     artisans = {
         culture = spanish
@@ -100,10 +100,10 @@
         religion = catholic
         size = 110
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 90
+        size = 8225
     }
 }
 2071 = {
@@ -117,20 +117,20 @@
         religion = catholic
         size = 5
     }
-    officers = {
+    artisans = {
         culture = spanish
         religion = catholic
-        size = 20
+        size = 850
     }
     aristocrats = {
         culture = spanish
         religion = catholic
         size = 300
     }
-    artisans = {
+    officers = {
         culture = spanish
         religion = catholic
-        size = 850
+        size = 20
     }
     clergymen = {
         culture = spanish
@@ -149,10 +149,10 @@
         religion = catholic
         size = 115
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 10950
+        size = 150
     }
     artisans = {
         culture = spanish
@@ -164,10 +164,10 @@
         religion = catholic
         size = 185
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 150
+        size = 10950
     }
 }
 2073 = {
@@ -176,10 +176,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = spanish
         religion = catholic
-        size = 16375
+        size = 200
     }
     artisans = {
         culture = spanish
@@ -191,9 +191,9 @@
         religion = catholic
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = spanish
         religion = catholic
-        size = 200
+        size = 16375
     }
 }

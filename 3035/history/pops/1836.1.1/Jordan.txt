@@ -4,10 +4,10 @@
         religion = sunni
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 4550
+        size = 50
     }
     artisans = {
         culture = turkish
@@ -19,10 +19,10 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 50
+        size = 4550
     }
 }
 909 = {
@@ -31,10 +31,10 @@
         religion = sunni
         size = 90
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 3625
+        size = 50
     }
     artisans = {
         culture = turkish
@@ -46,10 +46,10 @@
         religion = sunni
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 50
+        size = 3625
     }
 }
 910 = {
@@ -58,10 +58,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 2725
+        size = 50
     }
     artisans = {
         culture = turkish
@@ -73,10 +73,10 @@
         religion = sunni
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 50
+        size = 2725
     }
 }
 911 = {
@@ -85,10 +85,10 @@
         religion = sunni
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 6425
+        size = 75
     }
     artisans = {
         culture = turkish
@@ -100,10 +100,10 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 75
+        size = 6425
     }
 }
 922 = {
@@ -112,10 +112,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 4675
+        size = 50
     }
     artisans = {
         culture = turkish
@@ -127,9 +127,9 @@
         religion = sunni
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 50
+        size = 4675
     }
 }

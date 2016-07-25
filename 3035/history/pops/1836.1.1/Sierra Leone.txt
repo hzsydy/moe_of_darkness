@@ -4,10 +4,10 @@
         religion = catholic
         size = 1000
     }
-    clergymen = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 950
+        size = 91450
     }
     artisans = {
         culture = french
@@ -19,10 +19,10 @@
         religion = catholic
         size = 1800
     }
-    farmers = {
+    clergymen = {
         culture = french
         religion = catholic
-        size = 91450
+        size = 950
     }
 }
 1886 = {

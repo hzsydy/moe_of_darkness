@@ -9,20 +9,20 @@
         religion = theravada
         size = 1100
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = theravada
-        size = 625
+        size = 30500
     }
     aristocrats = {
         culture = key_fan
         religion = theravada
         size = 3600
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = theravada
-        size = 30500
+        size = 625
     }
     clergymen = {
         culture = key_fan
@@ -46,10 +46,10 @@
         religion = theravada
         size = 1525
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 133650
+        size = 1325
     }
     artisans = {
         culture = key_fan
@@ -61,10 +61,10 @@
         religion = theravada
         size = 2750
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 1325
+        size = 133650
     }
 }
 1371 = {
@@ -206,20 +206,20 @@
         religion = theravada
         size = 850
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = theravada
-        size = 525
+        size = 12500
     }
     aristocrats = {
         culture = key_fan
         religion = theravada
         size = 4750
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = theravada
-        size = 12500
+        size = 525
     }
     clergymen = {
         culture = key_fan
@@ -243,10 +243,10 @@
         religion = theravada
         size = 1275
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 119425
+        size = 1250
     }
     artisans = {
         culture = key_fan
@@ -258,10 +258,10 @@
         religion = theravada
         size = 2500
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 1250
+        size = 119425
     }
 }
 1377 = {
@@ -334,10 +334,10 @@
         religion = theravada
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 27250
+        size = 325
     }
     artisans = {
         culture = key_fan
@@ -349,10 +349,10 @@
         religion = theravada
         size = 650
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 325
+        size = 27250
     }
 }
 1380 = {
@@ -366,20 +366,20 @@
         religion = theravada
         size = 325
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = theravada
-        size = 300
+        size = 12300
     }
     aristocrats = {
         culture = key_fan
         religion = theravada
         size = 3600
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = theravada
-        size = 12300
+        size = 300
     }
     clergymen = {
         culture = key_fan
@@ -403,10 +403,10 @@
         religion = theravada
         size = 600
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 55725
+        size = 550
     }
     artisans = {
         culture = key_fan
@@ -418,10 +418,10 @@
         religion = theravada
         size = 1075
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 550
+        size = 55725
     }
 }
 1382 = {
@@ -430,10 +430,10 @@
         religion = theravada
         size = 425
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 39725
+        size = 400
     }
     artisans = {
         culture = key_fan
@@ -445,10 +445,10 @@
         religion = theravada
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 400
+        size = 39725
     }
 }
 1383 = {
@@ -457,10 +457,10 @@
         religion = theravada
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = theravada
-        size = 26775
+        size = 1250
     }
     artisans = {
         culture = key_fan
@@ -472,9 +472,9 @@
         religion = theravada
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = theravada
-        size = 1250
+        size = 26775
     }
 }

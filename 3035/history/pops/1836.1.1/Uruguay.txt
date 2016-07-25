@@ -9,20 +9,20 @@
         religion = catholic
         size = 50
     }
-    officers = {
+    artisans = {
         culture = platinean
         religion = catholic
-        size = 50
+        size = 1230
     }
     aristocrats = {
         culture = platinean
         religion = catholic
         size = 575
     }
-    artisans = {
+    officers = {
         culture = platinean
         religion = catholic
-        size = 1230
+        size = 50
     }
     clergymen = {
         culture = platinean
@@ -46,10 +46,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = platinean
         religion = catholic
-        size = 7275
+        size = 1100
     }
     artisans = {
         culture = platinean
@@ -61,10 +61,10 @@
         religion = catholic
         size = 200
     }
-    soldiers = {
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 1100
+        size = 7275
     }
 }
 2346 = {
@@ -73,10 +73,10 @@
         religion = catholic
         size = 65
     }
-    farmers = {
+    soldiers = {
         culture = platinean
         religion = catholic
-        size = 2725
+        size = 35
     }
     artisans = {
         culture = platinean
@@ -88,10 +88,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 35
+        size = 2725
     }
 }
 2347 = {
@@ -100,10 +100,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = platinean
         religion = catholic
-        size = 8225
+        size = 1125
     }
     artisans = {
         culture = platinean
@@ -115,9 +115,9 @@
         religion = catholic
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 1125
+        size = 8225
     }
 }

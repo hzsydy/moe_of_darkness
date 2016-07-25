@@ -9,20 +9,20 @@
         religion = shiite
         size = 500
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 400
+        size = 26465
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 4000
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 26465
+        size = 400
     }
     clergymen = {
         culture = persian
@@ -41,10 +41,10 @@
         religion = shiite
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 38275
+        size = 450
     }
     artisans = {
         culture = persian
@@ -56,10 +56,10 @@
         religion = shiite
         size = 775
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 450
+        size = 38275
     }
 }
 1110 = {
@@ -68,10 +68,10 @@
         religion = shiite
         size = 425
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 43850
+        size = 475
     }
     artisans = {
         culture = persian
@@ -83,10 +83,10 @@
         religion = shiite
         size = 850
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 475
+        size = 43850
     }
 }
 1111 = {
@@ -95,10 +95,10 @@
         religion = shiite
         size = 475
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 44900
+        size = 1275
     }
     artisans = {
         culture = persian
@@ -110,10 +110,10 @@
         religion = shiite
         size = 950
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1275
+        size = 44900
     }
 }
 1112 = {
@@ -122,10 +122,10 @@
         religion = shiite
         size = 700
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 63050
+        size = 1475
     }
     artisans = {
         culture = persian
@@ -137,10 +137,10 @@
         religion = shiite
         size = 1375
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1475
+        size = 63050
     }
 }
 1113 = {
@@ -154,20 +154,20 @@
         religion = shiite
         size = 100
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 2100
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 800
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 2100
+        size = 125
     }
     clergymen = {
         culture = persian
@@ -186,10 +186,10 @@
         religion = shiite
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 21050
+        size = 225
     }
     artisans = {
         culture = persian
@@ -201,10 +201,10 @@
         religion = shiite
         size = 400
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 225
+        size = 21050
     }
 }
 1115 = {
@@ -213,10 +213,10 @@
         religion = shiite
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 11850
+        size = 125
     }
     artisans = {
         culture = persian
@@ -228,10 +228,10 @@
         religion = shiite
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 11850
     }
 }
 1116 = {
@@ -240,10 +240,10 @@
         religion = shiite
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 31150
+        size = 1200
     }
     artisans = {
         culture = persian
@@ -255,10 +255,10 @@
         religion = shiite
         size = 675
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1200
+        size = 31150
     }
 }
 1117 = {
@@ -272,20 +272,20 @@
         religion = shiite
         size = 75
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 6770
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 1075
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 6770
+        size = 125
     }
     clergymen = {
         culture = persian
@@ -304,10 +304,10 @@
         religion = shiite
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 20950
+        size = 250
     }
     artisans = {
         culture = persian
@@ -319,10 +319,10 @@
         religion = shiite
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 250
+        size = 20950
     }
 }
 1119 = {
@@ -331,10 +331,10 @@
         religion = shiite
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 19125
+        size = 225
     }
     artisans = {
         culture = persian
@@ -346,10 +346,10 @@
         religion = shiite
         size = 400
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 225
+        size = 19125
     }
 }
 1120 = {
@@ -358,10 +358,10 @@
         religion = shiite
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 13950
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -373,10 +373,10 @@
         religion = shiite
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 13950
     }
 }
 1121 = {
@@ -390,20 +390,20 @@
         religion = shiite
         size = 325
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 300
+        size = 29965
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 1875
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 29965
+        size = 300
     }
     clergymen = {
         culture = persian
@@ -422,10 +422,10 @@
         religion = shiite
         size = 345
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 20600
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -437,10 +437,10 @@
         religion = shiite
         size = 625
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 20600
     }
 }
 1123 = {
@@ -449,10 +449,10 @@
         religion = shiite
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 7575
+        size = 125
     }
     artisans = {
         culture = persian
@@ -464,10 +464,10 @@
         religion = shiite
         size = 200
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 7575
     }
 }
 1124 = {
@@ -476,10 +476,10 @@
         religion = shiite
         size = 375
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 27925
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -491,10 +491,10 @@
         religion = shiite
         size = 700
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 27925
     }
 }
 1125 = {
@@ -503,10 +503,10 @@
         religion = shiite
         size = 625
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 43275
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -518,10 +518,10 @@
         religion = shiite
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 43275
     }
 }
 1126 = {
@@ -530,10 +530,10 @@
         religion = shiite
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 10900
+        size = 125
     }
     artisans = {
         culture = persian
@@ -545,10 +545,10 @@
         religion = shiite
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 10900
     }
 }
 1127 = {
@@ -562,20 +562,20 @@
         religion = shiite
         size = 175
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 200
+        size = 16915
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 2000
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 16915
+        size = 200
     }
     clergymen = {
         culture = persian
@@ -594,10 +594,10 @@
         religion = shiite
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 13700
+        size = 150
     }
     artisans = {
         culture = persian
@@ -609,10 +609,10 @@
         religion = shiite
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 150
+        size = 13700
     }
 }
 1129 = {
@@ -621,10 +621,10 @@
         religion = shiite
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 24775
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -636,10 +636,10 @@
         religion = shiite
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 24775
     }
 }
 1130 = {
@@ -648,10 +648,10 @@
         religion = shiite
         size = 365
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 25950
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -663,10 +663,10 @@
         religion = shiite
         size = 700
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 25950
     }
 }
 1131 = {
@@ -680,20 +680,20 @@
         religion = shiite
         size = 25
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 820
+        size = 50
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 275
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 820
     }
     clergymen = {
         culture = persian
@@ -712,10 +712,10 @@
         religion = shiite
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 10050
+        size = 100
     }
     artisans = {
         culture = persian
@@ -727,10 +727,10 @@
         religion = shiite
         size = 200
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 100
+        size = 10050
     }
 }
 1133 = {
@@ -739,10 +739,10 @@
         religion = shiite
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 7275
+        size = 100
     }
     artisans = {
         culture = persian
@@ -754,10 +754,10 @@
         religion = shiite
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 100
+        size = 7275
     }
 }
 1134 = {
@@ -766,10 +766,10 @@
         religion = shiite
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 7275
+        size = 75
     }
     artisans = {
         culture = persian
@@ -781,10 +781,10 @@
         religion = shiite
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 75
+        size = 7275
     }
 }
 1135 = {
@@ -798,20 +798,20 @@
         religion = shiite
         size = 75
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 6995
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 775
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 6995
+        size = 125
     }
     clergymen = {
         culture = persian
@@ -830,10 +830,10 @@
         religion = shiite
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 22800
+        size = 250
     }
     artisans = {
         culture = persian
@@ -845,10 +845,10 @@
         religion = shiite
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 250
+        size = 22800
     }
 }
 1137 = {
@@ -857,10 +857,10 @@
         religion = shiite
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 32150
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -872,10 +872,10 @@
         religion = shiite
         size = 700
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 32150
     }
 }
 1138 = {
@@ -884,10 +884,10 @@
         religion = shiite
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 10925
+        size = 125
     }
     artisans = {
         culture = persian
@@ -899,10 +899,10 @@
         religion = shiite
         size = 225
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 10925
     }
 }
 1139 = {
@@ -911,10 +911,10 @@
         religion = shiite
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 3675
+        size = 25
     }
     artisans = {
         culture = persian
@@ -926,10 +926,10 @@
         religion = shiite
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 25
+        size = 3675
     }
 }
 1140 = {
@@ -943,20 +943,20 @@
         religion = shiite
         size = 50
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 75
+        size = 1100
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 350
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 75
     }
     clergymen = {
         culture = persian
@@ -975,10 +975,10 @@
         religion = shiite
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 16500
+        size = 1125
     }
     artisans = {
         culture = persian
@@ -990,10 +990,10 @@
         religion = shiite
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1125
+        size = 16500
     }
 }
 1142 = {
@@ -1002,10 +1002,10 @@
         religion = shiite
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 21050
+        size = 1175
     }
     artisans = {
         culture = persian
@@ -1017,10 +1017,10 @@
         religion = shiite
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1175
+        size = 21050
     }
 }
 1143 = {
@@ -1029,10 +1029,10 @@
         religion = shiite
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 18225
+        size = 225
     }
     artisans = {
         culture = persian
@@ -1044,10 +1044,10 @@
         religion = shiite
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 225
+        size = 18225
     }
 }
 1144 = {
@@ -1061,20 +1061,20 @@
         religion = shiite
         size = 25
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 75
+        size = 900
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 325
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 900
+        size = 75
     }
     clergymen = {
         culture = persian
@@ -1093,10 +1093,10 @@
         religion = shiite
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 20775
+        size = 1150
     }
     artisans = {
         culture = persian
@@ -1108,10 +1108,10 @@
         religion = shiite
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1150
+        size = 20775
     }
 }
 1146 = {
@@ -1120,10 +1120,10 @@
         religion = shiite
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 21900
+        size = 250
     }
     artisans = {
         culture = persian
@@ -1135,10 +1135,10 @@
         religion = shiite
         size = 400
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 250
+        size = 21900
     }
 }
 1147 = {
@@ -1152,20 +1152,20 @@
         religion = shiite
         size = 150
     }
-    officers = {
+    artisans = {
         culture = persian
         religion = shiite
-        size = 175
+        size = 13295
     }
     aristocrats = {
         culture = persian
         religion = shiite
         size = 1750
     }
-    artisans = {
+    officers = {
         culture = persian
         religion = shiite
-        size = 13295
+        size = 175
     }
     clergymen = {
         culture = persian
@@ -1184,10 +1184,10 @@
         religion = shiite
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 20250
+        size = 1100
     }
     artisans = {
         culture = persian
@@ -1199,10 +1199,10 @@
         religion = shiite
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 1100
+        size = 20250
     }
 }
 1149 = {
@@ -1211,10 +1211,10 @@
         religion = shiite
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 16400
+        size = 175
     }
     artisans = {
         culture = persian
@@ -1226,10 +1226,10 @@
         religion = shiite
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 175
+        size = 16400
     }
 }
 1150 = {
@@ -1238,10 +1238,10 @@
         religion = shiite
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = persian
         religion = shiite
-        size = 12775
+        size = 125
     }
     artisans = {
         culture = persian
@@ -1253,9 +1253,9 @@
         religion = shiite
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = persian
         religion = shiite
-        size = 125
+        size = 12775
     }
 }

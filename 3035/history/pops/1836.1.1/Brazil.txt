@@ -4,10 +4,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = north_andean
@@ -19,10 +19,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 2402 = {
@@ -36,20 +36,20 @@
         religion = catholic
         size = 10
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 10
+        size = 500
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 200
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 500
+        size = 10
     }
     clergymen = {
         culture = brazilian
@@ -68,10 +68,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = brazilian
@@ -83,10 +83,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 2404 = {
@@ -95,10 +95,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = brazilian
@@ -110,10 +110,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 2405 = {
@@ -122,10 +122,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = brazilian
@@ -137,10 +137,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 2407 = {
@@ -149,10 +149,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = brazilian
@@ -164,10 +164,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 2408 = {
@@ -176,10 +176,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 25
     }
     artisans = {
         culture = brazilian
@@ -191,10 +191,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 1800
     }
 }
 2532 = {
@@ -203,10 +203,10 @@
         religion = catholic
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 900
+        size = 15
     }
     artisans = {
         culture = brazilian
@@ -218,10 +218,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 15
+        size = 900
     }
 }
 2410 = {
@@ -235,20 +235,20 @@
         religion = catholic
         size = 25
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 725
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 300
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 725
+        size = 25
     }
     clergymen = {
         culture = brazilian
@@ -304,10 +304,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -319,10 +319,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2413 = {
@@ -331,10 +331,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 2700
+        size = 50
     }
     artisans = {
         culture = brazilian
@@ -346,10 +346,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 50
+        size = 2700
     }
 }
 2414 = {
@@ -390,10 +390,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -405,10 +405,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2600 = {
@@ -417,10 +417,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 2700
+        size = 50
     }
     artisans = {
         culture = brazilian
@@ -432,10 +432,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 50
+        size = 2700
     }
 }
 2416 = {
@@ -449,20 +449,20 @@
         religion = catholic
         size = 10
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 15
+        size = 500
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 225
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 500
+        size = 15
     }
     clergymen = {
         culture = brazilian
@@ -481,10 +481,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 6400
+        size = 75
     }
     artisans = {
         culture = brazilian
@@ -496,10 +496,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 75
+        size = 6400
     }
 }
 2418 = {
@@ -508,10 +508,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 6375
+        size = 90
     }
     artisans = {
         culture = brazilian
@@ -523,10 +523,10 @@
         religion = catholic
         size = 85
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 90
+        size = 6375
     }
 }
 2419 = {
@@ -535,10 +535,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -550,10 +550,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2420 = {
@@ -562,10 +562,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = platinean
         religion = catholic
-        size = 4525
+        size = 50
     }
     artisans = {
         culture = platinean
@@ -577,10 +577,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 50
+        size = 4525
     }
 }
 2421 = {
@@ -594,20 +594,20 @@
         religion = catholic
         size = 10
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 15
+        size = 500
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 225
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 500
+        size = 15
     }
     clergymen = {
         culture = brazilian
@@ -631,10 +631,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -646,10 +646,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2423 = {
@@ -658,10 +658,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 2700
+        size = 50
     }
     artisans = {
         culture = brazilian
@@ -673,10 +673,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 50
+        size = 2700
     }
 }
 2424 = {
@@ -690,20 +690,20 @@
         religion = catholic
         size = 125
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 100
+        size = 1850
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 825
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 1850
+        size = 100
     }
     clergymen = {
         culture = brazilian
@@ -727,10 +727,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 10875
+        size = 125
     }
     artisans = {
         culture = brazilian
@@ -742,10 +742,10 @@
         religion = catholic
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 125
+        size = 10875
     }
 }
 2426 = {
@@ -786,10 +786,10 @@
         religion = catholic
         size = 110
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 10005
+        size = 110
     }
     artisans = {
         culture = brazilian
@@ -801,10 +801,10 @@
         religion = catholic
         size = 225
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 110
+        size = 10005
     }
 }
 2428 = {
@@ -850,20 +850,20 @@
         religion = catholic
         size = 150
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 125
+        size = 3000
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 925
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 3000
+        size = 125
     }
     clergymen = {
         culture = brazilian
@@ -956,20 +956,20 @@
         religion = catholic
         size = 200
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 150
+        size = 12000
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 825
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 12000
+        size = 150
     }
     clergymen = {
         culture = brazilian
@@ -1094,20 +1094,20 @@
         religion = catholic
         size = 350
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 250
+        size = 32500
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 1800
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 32500
+        size = 250
     }
     clergymen = {
         culture = brazilian
@@ -1264,20 +1264,20 @@
         religion = catholic
         size = 300
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 225
+        size = 2550
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 1175
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 2550
+        size = 225
     }
     clergymen = {
         culture = brazilian
@@ -1466,20 +1466,20 @@
         religion = catholic
         size = 450
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 250
+        size = 32500
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 2650
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 32500
+        size = 250
     }
     clergymen = {
         culture = brazilian
@@ -1567,10 +1567,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -1582,10 +1582,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2450 = {
@@ -1599,20 +1599,20 @@
         religion = catholic
         size = 125
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 150
+        size = 2675
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 1275
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 2675
+        size = 150
     }
     clergymen = {
         culture = brazilian
@@ -1764,10 +1764,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1800
+        size = 40
     }
     artisans = {
         culture = brazilian
@@ -1779,10 +1779,10 @@
         religion = catholic
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 40
+        size = 1800
     }
 }
 2457 = {
@@ -1796,20 +1796,20 @@
         religion = catholic
         size = 200
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 125
+        size = 1775
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 875
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 1775
+        size = 125
     }
     clergymen = {
         culture = brazilian
@@ -1998,20 +1998,20 @@
         religion = catholic
         size = 200
     }
-    officers = {
+    artisans = {
         culture = brazilian
         religion = catholic
-        size = 125
+        size = 2375
     }
     aristocrats = {
         culture = brazilian
         religion = catholic
         size = 1025
     }
-    artisans = {
+    officers = {
         culture = brazilian
         religion = catholic
-        size = 2375
+        size = 125
     }
     clergymen = {
         culture = brazilian
@@ -2131,10 +2131,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 8250
+        size = 100
     }
     artisans = {
         culture = brazilian
@@ -2146,10 +2146,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 100
+        size = 8250
     }
 }
 2549 = {
@@ -2158,10 +2158,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = south_andean
         religion = catholic
-        size = 3625
+        size = 50
     }
     artisans = {
         culture = south_andean
@@ -2173,10 +2173,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = south_andean
         religion = catholic
-        size = 50
+        size = 3625
     }
 }
 2550 = {
@@ -2185,10 +2185,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = brazilian
         religion = catholic
-        size = 3600
+        size = 50
     }
     artisans = {
         culture = brazilian
@@ -2200,9 +2200,9 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = brazilian
         religion = catholic
-        size = 50
+        size = 3600
     }
 }

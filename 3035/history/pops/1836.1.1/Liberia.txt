@@ -9,20 +9,20 @@
         religion = catholic
         size = 5
     }
-    officers = {
+    artisans = {
         culture = french
         religion = catholic
-        size = 10
+        size = 3300
     }
     aristocrats = {
         culture = french
         religion = catholic
         size = 1100
     }
-    artisans = {
+    officers = {
         culture = french
         religion = catholic
-        size = 3300
+        size = 10
     }
     clergymen = {
         culture = french
@@ -41,10 +41,10 @@
         religion = catholic
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 46450
+        size = 500
     }
     artisans = {
         culture = french
@@ -56,10 +56,10 @@
         religion = catholic
         size = 1000
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 500
+        size = 46450
     }
 }
 1889 = {
@@ -68,10 +68,10 @@
         religion = catholic
         size = 300
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 28250
+        size = 325
     }
     artisans = {
         culture = french
@@ -83,10 +83,10 @@
         religion = catholic
         size = 575
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 325
+        size = 28250
     }
 }
 1890 = {
@@ -95,10 +95,10 @@
         religion = catholic
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 30050
+        size = 350
     }
     artisans = {
         culture = french
@@ -110,10 +110,10 @@
         religion = catholic
         size = 625
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 350
+        size = 30050
     }
 }
 1891 = {
@@ -122,10 +122,10 @@
         religion = catholic
         size = 450
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 38275
+        size = 450
     }
     artisans = {
         culture = french
@@ -137,9 +137,9 @@
         religion = catholic
         size = 775
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 450
+        size = 38275
     }
 }

@@ -9,20 +9,20 @@
         religion = hindu
         size = 25
     }
-    officers = {
+    artisans = {
         culture = key_fan
         religion = hindu
-        size = 25
+        size = 1700
     }
     aristocrats = {
         culture = key_fan
         religion = hindu
         size = 625
     }
-    artisans = {
+    officers = {
         culture = key_fan
         religion = hindu
-        size = 1700
+        size = 25
     }
     clergymen = {
         culture = key_fan

@@ -41,20 +41,20 @@
         religion = catholic
         size = 25
     }
-    officers = {
+    artisans = {
         culture = north_andean
         religion = catholic
-        size = 50
+        size = 650
     }
     aristocrats = {
         culture = north_andean
         religion = catholic
         size = 225
     }
-    artisans = {
+    officers = {
         culture = north_andean
         religion = catholic
-        size = 650
+        size = 50
     }
     clergymen = {
         culture = north_andean
@@ -142,10 +142,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 2690
+        size = 30
     }
     artisans = {
         culture = north_andean
@@ -157,9 +157,9 @@
         religion = catholic
         size = 55
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 30
+        size = 2690
     }
 }

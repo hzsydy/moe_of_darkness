@@ -41,20 +41,20 @@
         religion = sunni
         size = 75
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 100
+        size = 2750
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 1200
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 2750
+        size = 100
     }
     clergymen = {
         culture = misri
@@ -339,20 +339,20 @@
         religion = sunni
         size = 50
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 75
+        size = 2925
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 1000
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 2925
+        size = 75
     }
     clergymen = {
         culture = misri

@@ -1,6 +1,6 @@
 from V2_parser import *
 
-add_core_dict = {'CLA':'KEY', 'AIR':'KEY', 'KAN':'KEY', 'ANG':'KEY', 'LBU':'KEY', 'REW':'KEY'}
+add_core_dict = {'CLA':'KEY', 'AIR':'KEY', 'KAN':'KEY', 'PLA':'KEY', 'LBU':'KEY', 'REW':'KEY'}
 
 class work:
     def __init__(self):

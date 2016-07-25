@@ -9,20 +9,20 @@
         religion = protestant
         size = 1125
     }
-    artisans = {
+    officers = {
         culture = british
         religion = protestant
-        size = 17500
+        size = 250
     }
     aristocrats = {
         culture = british
         religion = protestant
         size = 1100
     }
-    officers = {
+    artisans = {
         culture = british
         religion = protestant
-        size = 250
+        size = 17500
     }
     clergymen = {
         culture = british
@@ -51,20 +51,20 @@
         religion = protestant
         size = 6500
     }
-    aristocrats = {
+    labourers = {
         culture = british
         religion = protestant
-        size = 500
+        size = 46625
     }
     clergymen = {
         culture = british
         religion = protestant
         size = 625
     }
-    labourers = {
+    aristocrats = {
         culture = british
         religion = protestant
-        size = 46625
+        size = 500
     }
     soldiers = {
         culture = british
@@ -73,10 +73,10 @@
     }
 }
 256 = {
-    labourers = {
+    aristocrats = {
         culture = british
         religion = protestant
-        size = 63500
+        size = 250
     }
     clergymen = {
         culture = british
@@ -88,10 +88,10 @@
         religion = protestant
         size = 3000
     }
-    aristocrats = {
+    labourers = {
         culture = british
         religion = protestant
-        size = 250
+        size = 63500
     }
     soldiers = {
         culture = british
@@ -110,20 +110,20 @@
         religion = protestant
         size = 6000
     }
-    labourers = {
+    aristocrats = {
         culture = british
         religion = protestant
-        size = 103250
+        size = 250
     }
     clergymen = {
         culture = british
         religion = protestant
         size = 300
     }
-    aristocrats = {
+    labourers = {
         culture = british
         religion = protestant
-        size = 250
+        size = 103250
     }
     soldiers = {
         culture = british
@@ -137,10 +137,10 @@
         religion = protestant
         size = 1250
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 126750
+        size = 1500
     }
     artisans = {
         culture = british
@@ -152,10 +152,10 @@
         religion = protestant
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 1500
+        size = 126750
     }
 }
 259 = {
@@ -201,20 +201,20 @@
         religion = protestant
         size = 2750
     }
-    officers = {
+    artisans = {
         culture = british
         religion = protestant
-        size = 750
+        size = 22000
     }
     aristocrats = {
         culture = british
         religion = protestant
         size = 1500
     }
-    artisans = {
+    officers = {
         culture = british
         religion = protestant
-        size = 22000
+        size = 750
     }
     clergymen = {
         culture = british
@@ -233,10 +233,10 @@
         religion = protestant
         size = 1500
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 186500
+        size = 1500
     }
     artisans = {
         culture = british
@@ -248,10 +248,10 @@
         religion = protestant
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 1500
+        size = 186500
     }
 }
 262 = {
@@ -260,10 +260,10 @@
         religion = protestant
         size = 750
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 124750
+        size = 1100
     }
     artisans = {
         culture = british
@@ -275,10 +275,10 @@
         religion = protestant
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 1100
+        size = 124750
     }
 }
 263 = {
@@ -292,20 +292,20 @@
         religion = protestant
         size = 2625
     }
-    artisans = {
+    officers = {
         culture = british
         religion = protestant
-        size = 52000
+        size = 500
     }
     aristocrats = {
         culture = british
         religion = protestant
         size = 1000
     }
-    officers = {
+    artisans = {
         culture = british
         religion = protestant
-        size = 500
+        size = 52000
     }
     clergymen = {
         culture = british
@@ -341,10 +341,10 @@
     }
 }
 265 = {
-    labourers = {
+    aristocrats = {
         culture = british
         religion = protestant
-        size = 104000
+        size = 500
     }
     soldiers = {
         culture = british
@@ -356,9 +356,9 @@
         religion = protestant
         size = 5500
     }
-    aristocrats = {
+    labourers = {
         culture = british
         religion = protestant
-        size = 500
+        size = 104000
     }
 }

@@ -9,20 +9,20 @@
         religion = catholic
         size = 35
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 950
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 365
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 950
+        size = 25
     }
     clergymen = {
         culture = mexican
@@ -41,10 +41,10 @@
         religion = catholic
         size = 70
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2695
+        size = 35
     }
     artisans = {
         culture = mexican
@@ -56,10 +56,10 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 35
+        size = 2695
     }
 }
 2141 = {
@@ -68,10 +68,10 @@
         religion = catholic
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 11750
+        size = 125
     }
     artisans = {
         culture = mexican
@@ -83,10 +83,10 @@
         religion = catholic
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 11750
     }
 }
 2138 = {
@@ -95,10 +95,10 @@
         religion = catholic
         size = 20
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 895
+        size = 10
     }
     artisans = {
         culture = mexican
@@ -110,10 +110,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 10
+        size = 895
     }
 }
 2139 = {
@@ -127,20 +127,20 @@
         religion = catholic
         size = 2
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 200
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 95
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 3
     }
     clergymen = {
         culture = mexican
@@ -164,20 +164,20 @@
         religion = catholic
         size = 35
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 1250
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 490
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 1250
+        size = 30
     }
     clergymen = {
         culture = mexican
@@ -196,10 +196,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -211,10 +211,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 2144 = {
@@ -223,10 +223,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -238,10 +238,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1750
     }
 }
 2145 = {
@@ -250,10 +250,10 @@
         religion = catholic
         size = 95
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 3595
+        size = 35
     }
     artisans = {
         culture = mexican
@@ -265,10 +265,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 35
+        size = 3595
     }
 }
 2147 = {
@@ -277,10 +277,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = mexican
@@ -292,10 +292,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 2700
     }
 }
 2151 = {
@@ -309,20 +309,20 @@
         religion = catholic
         size = 50
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 35
+        size = 550
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 250
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 550
+        size = 35
     }
     clergymen = {
         culture = mexican
@@ -341,10 +341,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 10875
+        size = 125
     }
     artisans = {
         culture = mexican
@@ -356,10 +356,10 @@
         religion = catholic
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 10875
     }
 }
 2155 = {
@@ -368,10 +368,10 @@
         religion = catholic
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 12675
+        size = 150
     }
     artisans = {
         culture = mexican
@@ -383,10 +383,10 @@
         religion = catholic
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 12675
     }
 }
 2146 = {
@@ -400,20 +400,20 @@
         religion = catholic
         size = 50
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 1300
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 550
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 1300
+        size = 50
     }
     clergymen = {
         culture = mexican
@@ -432,10 +432,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 3575
+        size = 50
     }
     artisans = {
         culture = mexican
@@ -447,10 +447,10 @@
         religion = catholic
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 3575
     }
 }
 2149 = {
@@ -459,10 +459,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 6325
+        size = 75
     }
     artisans = {
         culture = mexican
@@ -474,10 +474,10 @@
         religion = catholic
         size = 175
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 75
+        size = 6325
     }
 }
 2150 = {
@@ -486,10 +486,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 5450
+        size = 50
     }
     artisans = {
         culture = mexican
@@ -501,10 +501,10 @@
         religion = catholic
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 5450
     }
 }
 2153 = {
@@ -513,10 +513,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 14450
+        size = 175
     }
     artisans = {
         culture = mexican
@@ -528,10 +528,10 @@
         religion = catholic
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 175
+        size = 14450
     }
 }
 2154 = {
@@ -540,10 +540,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 10050
+        size = 125
     }
     artisans = {
         culture = mexican
@@ -555,10 +555,10 @@
         religion = catholic
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 10050
     }
 }
 2156 = {
@@ -572,20 +572,20 @@
         religion = catholic
         size = 75
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 1450
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 650
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 1450
+        size = 50
     }
     clergymen = {
         culture = mexican
@@ -604,10 +604,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 6325
+        size = 75
     }
     artisans = {
         culture = mexican
@@ -619,10 +619,10 @@
         religion = catholic
         size = 175
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 75
+        size = 6325
     }
 }
 2158 = {
@@ -636,20 +636,20 @@
         religion = catholic
         size = 225
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 175
+        size = 6000
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1725
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 6000
+        size = 175
     }
     clergymen = {
         culture = mexican
@@ -668,10 +668,10 @@
         religion = catholic
         size = 375
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 34850
+        size = 400
     }
     artisans = {
         culture = mexican
@@ -683,10 +683,10 @@
         religion = catholic
         size = 850
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 400
+        size = 34850
     }
 }
 2161 = {
@@ -695,10 +695,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 18875
+        size = 200
     }
     artisans = {
         culture = mexican
@@ -710,10 +710,10 @@
         religion = catholic
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 18875
     }
 }
 2159 = {
@@ -722,10 +722,10 @@
         religion = catholic
         size = 650
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 79025
+        size = 850
     }
     artisans = {
         culture = mexican
@@ -737,10 +737,10 @@
         religion = catholic
         size = 1625
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 850
+        size = 79025
     }
 }
 2167 = {
@@ -754,20 +754,20 @@
         religion = catholic
         size = 575
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 3375
+        size = 8400
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 3400
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 8400
+        size = 3375
     }
     clergymen = {
         culture = mexican
@@ -786,10 +786,10 @@
         religion = catholic
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 82575
+        size = 1075
     }
     artisans = {
         culture = mexican
@@ -801,10 +801,10 @@
         religion = catholic
         size = 1850
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 1075
+        size = 82575
     }
 }
 2162 = {
@@ -818,20 +818,20 @@
         religion = catholic
         size = 125
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 100
+        size = 1750
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1425
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 1750
+        size = 100
     }
     clergymen = {
         culture = mexican
@@ -850,10 +850,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 18150
+        size = 225
     }
     artisans = {
         culture = mexican
@@ -865,10 +865,10 @@
         religion = catholic
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 225
+        size = 18150
     }
 }
 2164 = {
@@ -877,10 +877,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 10875
+        size = 150
     }
     artisans = {
         culture = mexican
@@ -892,10 +892,10 @@
         religion = catholic
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 10875
     }
 }
 2165 = {
@@ -904,10 +904,10 @@
         religion = catholic
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 13600
+        size = 175
     }
     artisans = {
         culture = mexican
@@ -919,10 +919,10 @@
         religion = catholic
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 175
+        size = 13600
     }
 }
 2166 = {
@@ -936,20 +936,20 @@
         religion = catholic
         size = 200
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 12500
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1550
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 12500
+        size = 125
     }
     clergymen = {
         culture = mexican
@@ -968,10 +968,10 @@
         religion = catholic
         size = 300
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 33675
+        size = 400
     }
     artisans = {
         culture = mexican
@@ -983,10 +983,10 @@
         religion = catholic
         size = 750
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 400
+        size = 33675
     }
 }
 2169 = {
@@ -995,10 +995,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 24525
+        size = 275
     }
     artisans = {
         culture = mexican
@@ -1010,10 +1010,10 @@
         religion = catholic
         size = 575
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 275
+        size = 24525
     }
 }
 2170 = {
@@ -1027,20 +1027,20 @@
         religion = catholic
         size = 225
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 4350
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1750
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 4350
+        size = 150
     }
     clergymen = {
         culture = mexican
@@ -1059,10 +1059,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 25450
+        size = 300
     }
     artisans = {
         culture = mexican
@@ -1074,10 +1074,10 @@
         religion = catholic
         size = 575
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 300
+        size = 25450
     }
 }
 2172 = {
@@ -1091,20 +1091,20 @@
         religion = catholic
         size = 350
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 225
+        size = 46250
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1650
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 46250
+        size = 225
     }
     clergymen = {
         culture = mexican
@@ -1123,10 +1123,10 @@
         religion = catholic
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 41600
+        size = 7350
     }
     artisans = {
         culture = mexican
@@ -1138,10 +1138,10 @@
         religion = catholic
         size = 1050
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 7350
+        size = 41600
     }
 }
 2175 = {
@@ -1150,10 +1150,10 @@
         religion = catholic
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 42875
+        size = 500
     }
     artisans = {
         culture = mexican
@@ -1165,10 +1165,10 @@
         religion = catholic
         size = 950
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 500
+        size = 42875
     }
 }
 2176 = {
@@ -1182,20 +1182,20 @@
         religion = catholic
         size = 300
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 15000
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 2550
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 15000
+        size = 200
     }
     clergymen = {
         culture = mexican
@@ -1219,20 +1219,20 @@
         religion = catholic
         size = 125
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 6250
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1650
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 6250
+        size = 125
     }
     clergymen = {
         culture = mexican
@@ -1251,10 +1251,10 @@
         religion = catholic
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 22755
+        size = 250
     }
     artisans = {
         culture = mexican
@@ -1266,10 +1266,10 @@
         religion = catholic
         size = 525
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 250
+        size = 22755
     }
 }
 2179 = {
@@ -1283,20 +1283,20 @@
         religion = catholic
         size = 75
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 75
+        size = 2200
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 900
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 2200
+        size = 75
     }
     clergymen = {
         culture = mexican
@@ -1315,10 +1315,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 18125
+        size = 225
     }
     artisans = {
         culture = mexican
@@ -1330,10 +1330,10 @@
         religion = catholic
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 225
+        size = 18125
     }
 }
 2181 = {
@@ -1347,20 +1347,20 @@
         religion = catholic
         size = 25
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 1050
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 450
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 1050
+        size = 25
     }
     clergymen = {
         culture = mexican
@@ -1379,10 +1379,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 9025
+        size = 125
     }
     artisans = {
         culture = mexican
@@ -1394,10 +1394,10 @@
         religion = catholic
         size = 225
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 125
+        size = 9025
     }
 }
 2183 = {
@@ -1411,20 +1411,20 @@
         religion = catholic
         size = 100
     }
-    officers = {
+    artisans = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 3000
     }
     aristocrats = {
         culture = mexican
         religion = catholic
         size = 1275
     }
-    artisans = {
+    officers = {
         culture = mexican
         religion = catholic
-        size = 3000
+        size = 150
     }
     clergymen = {
         culture = mexican
@@ -1443,10 +1443,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 24575
+        size = 300
     }
     artisans = {
         culture = mexican
@@ -1458,10 +1458,10 @@
         religion = catholic
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 300
+        size = 24575
     }
 }
 2185 = {
@@ -1470,10 +1470,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = mexican
         religion = catholic
-        size = 21800
+        size = 235
     }
     artisans = {
         culture = mexican
@@ -1485,9 +1485,9 @@
         religion = catholic
         size = 475
     }
-    soldiers = {
+    farmers = {
         culture = mexican
         religion = catholic
-        size = 235
+        size = 21800
     }
 }

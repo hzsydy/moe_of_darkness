@@ -9,20 +9,20 @@
         religion = catholic
         size = 225
     }
-    officers = {
+    artisans = {
         culture = north_andean
         religion = catholic
-        size = 175
+        size = 3000
     }
     aristocrats = {
         culture = north_andean
         religion = catholic
         size = 1250
     }
-    artisans = {
+    officers = {
         culture = north_andean
         religion = catholic
-        size = 3000
+        size = 175
     }
     clergymen = {
         culture = north_andean
@@ -78,10 +78,10 @@
         religion = catholic
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 12750
+        size = 150
     }
     artisans = {
         culture = north_andean
@@ -93,10 +93,10 @@
         religion = catholic
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 150
+        size = 12750
     }
 }
 2250 = {
@@ -105,10 +105,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 26650
+        size = 1100
     }
     artisans = {
         culture = north_andean
@@ -120,10 +120,10 @@
         religion = catholic
         size = 625
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 1100
+        size = 26650
     }
 }
 2251 = {
@@ -132,10 +132,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 19175
+        size = 225
     }
     artisans = {
         culture = north_andean
@@ -147,10 +147,10 @@
         religion = catholic
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 225
+        size = 19175
     }
 }
 2252 = {
@@ -164,20 +164,20 @@
         religion = catholic
         size = 150
     }
-    officers = {
+    artisans = {
         culture = north_andean
         religion = catholic
-        size = 125
+        size = 1650
     }
     aristocrats = {
         culture = north_andean
         religion = catholic
         size = 650
     }
-    artisans = {
+    officers = {
         culture = north_andean
         religion = catholic
-        size = 1650
+        size = 125
     }
     clergymen = {
         culture = north_andean
@@ -302,20 +302,20 @@
         religion = catholic
         size = 100
     }
-    officers = {
+    artisans = {
         culture = north_andean
         religion = catholic
-        size = 100
+        size = 1150
     }
     aristocrats = {
         culture = north_andean
         religion = catholic
         size = 475
     }
-    artisans = {
+    officers = {
         culture = north_andean
         religion = catholic
-        size = 1150
+        size = 100
     }
     clergymen = {
         culture = north_andean
@@ -339,10 +339,10 @@
         religion = catholic
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 15425
+        size = 200
     }
     artisans = {
         culture = north_andean
@@ -354,10 +354,10 @@
         religion = catholic
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 200
+        size = 15425
     }
 }
 2258 = {
@@ -398,10 +398,10 @@
         religion = catholic
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 18200
+        size = 225
     }
     artisans = {
         culture = north_andean
@@ -413,10 +413,10 @@
         religion = catholic
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 225
+        size = 18200
     }
 }
 2260 = {
@@ -425,10 +425,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 8150
+        size = 100
     }
     artisans = {
         culture = north_andean
@@ -440,10 +440,10 @@
         religion = catholic
         size = 175
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 100
+        size = 8150
     }
 }
 2261 = {
@@ -452,10 +452,10 @@
         religion = catholic
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 4575
+        size = 50
     }
     artisans = {
         culture = north_andean
@@ -467,10 +467,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 50
+        size = 4575
     }
 }
 2262 = {
@@ -484,20 +484,20 @@
         religion = catholic
         size = 25
     }
-    officers = {
+    artisans = {
         culture = north_andean
         religion = catholic
-        size = 25
+        size = 750
     }
     aristocrats = {
         culture = north_andean
         religion = catholic
         size = 250
     }
-    artisans = {
+    officers = {
         culture = north_andean
         religion = catholic
-        size = 750
+        size = 25
     }
     clergymen = {
         culture = north_andean
@@ -521,10 +521,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = north_andean
         religion = catholic
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = north_andean
@@ -536,9 +536,9 @@
         religion = catholic
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = north_andean
         religion = catholic
-        size = 25
+        size = 2700
     }
 }

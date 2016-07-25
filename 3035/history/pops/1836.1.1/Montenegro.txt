@@ -4,20 +4,20 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 8375
     }
     artisans = {
         culture = turkish
         religion = sunni
         size = 450
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 8375
+        size = 100
     }
 }
 2569 = {
@@ -26,10 +26,10 @@
         religion = sunni
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 125
+        size = 17225
     }
     artisans = {
         culture = turkish
@@ -41,10 +41,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 17225
+        size = 125
     }
 }
 2583 = {
@@ -58,15 +58,15 @@
         religion = sunni
         size = 25
     }
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 25
-    }
     artisans = {
         culture = turkish
         religion = sunni
         size = 1300
+    }
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 25
     }
     clergymen = {
         culture = turkish
@@ -85,10 +85,10 @@
         religion = sunni
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 11825
     }
     artisans = {
         culture = turkish
@@ -100,10 +100,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 11825
+        size = 150
     }
 }
 2582 = {
@@ -112,19 +112,19 @@
         religion = catholic
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = south_german
         religion = catholic
-        size = 14875
+        size = 175
     }
     artisans = {
         culture = south_german
         religion = catholic
         size = 800
     }
-    soldiers = {
+    farmers = {
         culture = south_german
         religion = catholic
-        size = 175
+        size = 14875
     }
 }

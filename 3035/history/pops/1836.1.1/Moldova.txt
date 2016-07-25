@@ -9,20 +9,20 @@
         religion = orthodox
         size = 225
     }
-    officers = {
+    artisans = {
         culture = romanian
         religion = orthodox
-        size = 175
+        size = 11850
     }
     aristocrats = {
         culture = romanian
         religion = orthodox
         size = 1400
     }
-    artisans = {
+    officers = {
         culture = romanian
         religion = orthodox
-        size = 11850
+        size = 175
     }
     clergymen = {
         culture = romanian
@@ -41,10 +41,10 @@
         religion = orthodox
         size = 775
     }
-    farmers = {
+    soldiers = {
         culture = romanian
         religion = orthodox
-        size = 72725
+        size = 800
     }
     artisans = {
         culture = romanian
@@ -56,9 +56,9 @@
         religion = orthodox
         size = 1300
     }
-    soldiers = {
+    farmers = {
         culture = romanian
         religion = orthodox
-        size = 800
+        size = 72725
     }
 }

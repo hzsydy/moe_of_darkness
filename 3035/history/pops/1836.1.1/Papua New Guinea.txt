@@ -4,10 +4,10 @@
         religion = sunni
         size = 525
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = sunni
-        size = 48350
+        size = 550
     }
     artisans = {
         culture = key_fan
@@ -19,10 +19,10 @@
         religion = sunni
         size = 1025
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = sunni
-        size = 550
+        size = 48350
     }
 }
 2529 = {
@@ -31,10 +31,10 @@
         religion = sunni
         size = 300
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = sunni
-        size = 26400
+        size = 300
     }
     artisans = {
         culture = key_fan
@@ -46,10 +46,10 @@
         religion = sunni
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = sunni
-        size = 300
+        size = 26400
     }
 }
 2530 = {
@@ -58,10 +58,10 @@
         religion = sunni
         size = 650
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = sunni
-        size = 60075
+        size = 675
     }
     artisans = {
         culture = key_fan
@@ -73,10 +73,10 @@
         religion = sunni
         size = 1300
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = sunni
-        size = 675
+        size = 60075
     }
 }
 2531 = {
@@ -85,10 +85,10 @@
         religion = sunni
         size = 750
     }
-    farmers = {
+    soldiers = {
         culture = key_fan
         religion = sunni
-        size = 68375
+        size = 750
     }
     artisans = {
         culture = key_fan
@@ -100,10 +100,10 @@
         religion = sunni
         size = 1475
     }
-    soldiers = {
+    farmers = {
         culture = key_fan
         religion = sunni
-        size = 750
+        size = 68375
     }
 }
 1531 = {

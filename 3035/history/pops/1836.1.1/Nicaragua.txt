@@ -9,20 +9,20 @@
         religion = catholic
         size = 100
     }
-    officers = {
+    artisans = {
         culture = central_american
         religion = catholic
-        size = 75
+        size = 2400
     }
     aristocrats = {
         culture = central_american
         religion = catholic
         size = 1050
     }
-    artisans = {
+    officers = {
         culture = central_american
         religion = catholic
-        size = 2400
+        size = 75
     }
     clergymen = {
         culture = central_american
@@ -41,10 +41,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 9025
+        size = 100
     }
     artisans = {
         culture = central_american
@@ -56,10 +56,10 @@
         religion = catholic
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 100
+        size = 9025
     }
 }
 2199 = {
@@ -68,10 +68,10 @@
         religion = catholic
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 11825
+        size = 125
     }
     artisans = {
         culture = central_american
@@ -83,10 +83,10 @@
         religion = catholic
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 125
+        size = 11825
     }
 }
 2200 = {
@@ -95,10 +95,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 2700
+        size = 60
     }
     artisans = {
         culture = central_american
@@ -110,9 +110,9 @@
         religion = catholic
         size = 15
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 60
+        size = 2700
     }
 }

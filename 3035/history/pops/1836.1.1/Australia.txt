@@ -9,20 +9,20 @@
         religion = protestant
         size = 35
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 9675
+        size = 1125
     }
     artisans = {
         culture = british
         religion = protestant
         size = 4150
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 1125
+        size = 9675
     }
 }
 2469 = {
@@ -31,20 +31,20 @@
         religion = protestant
         size = 45
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 3555
+        size = 65
     }
     artisans = {
         culture = british
         religion = protestant
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 65
+        size = 3555
     }
 }
 2470 = {
@@ -53,10 +53,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2650
+        size = 50
     }
     artisans = {
         culture = british
@@ -68,10 +68,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 50
+        size = 2650
     }
 }
 2472 = {
@@ -80,10 +80,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2750
+        size = 40
     }
     artisans = {
         culture = british
@@ -95,10 +95,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 40
+        size = 2750
     }
 }
 2473 = {
@@ -107,10 +107,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2650
+        size = 50
     }
     artisans = {
         culture = british
@@ -122,10 +122,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 50
+        size = 2650
     }
 }
 2471 = {
@@ -134,10 +134,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -149,10 +149,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2474 = {
@@ -161,10 +161,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -176,10 +176,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2475 = {
@@ -188,10 +188,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = british
@@ -203,10 +203,10 @@
         religion = protestant
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 2476 = {
@@ -215,10 +215,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = british
@@ -230,10 +230,10 @@
         religion = protestant
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 2477 = {
@@ -242,10 +242,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -257,10 +257,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2478 = {
@@ -269,10 +269,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -284,10 +284,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2479 = {
@@ -296,10 +296,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -311,10 +311,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2480 = {
@@ -323,10 +323,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -338,10 +338,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2481 = {
@@ -350,10 +350,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -365,10 +365,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2482 = {
@@ -382,20 +382,20 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 6775
+        size = 100
     }
     artisans = {
         culture = british
         religion = protestant
         size = 2000
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 100
+        size = 6775
     }
 }
 2483 = {
@@ -404,10 +404,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2650
+        size = 50
     }
     artisans = {
         culture = british
@@ -419,10 +419,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 50
+        size = 2650
     }
 }
 2484 = {
@@ -431,10 +431,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -446,10 +446,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2485 = {
@@ -458,10 +458,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -473,10 +473,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2486 = {
@@ -485,10 +485,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -500,10 +500,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2487 = {
@@ -512,10 +512,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -527,10 +527,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2488 = {
@@ -539,10 +539,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2275
+        size = 25
     }
     artisans = {
         culture = british
@@ -554,10 +554,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 2275
     }
 }
 2489 = {
@@ -566,10 +566,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -581,10 +581,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2490 = {
@@ -593,10 +593,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -608,10 +608,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2604 = {
@@ -620,10 +620,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1370
+        size = 15
     }
     artisans = {
         culture = british
@@ -635,10 +635,10 @@
         religion = protestant
         size = 15
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 1370
     }
 }
 2491 = {
@@ -647,10 +647,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = british
@@ -662,10 +662,10 @@
         religion = protestant
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 2492 = {
@@ -674,10 +674,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -689,10 +689,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2493 = {
@@ -701,10 +701,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -716,10 +716,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2494 = {
@@ -728,10 +728,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -743,10 +743,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2495 = {
@@ -755,10 +755,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -770,10 +770,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2496 = {
@@ -782,10 +782,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -797,10 +797,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2497 = {
@@ -809,10 +809,10 @@
         religion = protestant
         size = 140
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 5185
+        size = 60
     }
     artisans = {
         culture = british
@@ -824,10 +824,10 @@
         religion = protestant
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 60
+        size = 5185
     }
 }
 2498 = {
@@ -836,10 +836,10 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 2700
+        size = 25
     }
     artisans = {
         culture = british
@@ -851,10 +851,10 @@
         religion = protestant
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 2700
     }
 }
 2499 = {
@@ -863,10 +863,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -878,10 +878,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2500 = {
@@ -890,10 +890,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -905,10 +905,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2501 = {
@@ -917,10 +917,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -932,10 +932,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2502 = {
@@ -944,10 +944,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 450
+        size = 10
     }
     artisans = {
         culture = british
@@ -959,10 +959,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 10
+        size = 450
     }
 }
 2503 = {
@@ -971,10 +971,10 @@
         religion = protestant
         size = 15
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 630
+        size = 10
     }
     artisans = {
         culture = british
@@ -986,10 +986,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 10
+        size = 630
     }
 }
 2504 = {
@@ -998,10 +998,10 @@
         religion = protestant
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 15
     }
     artisans = {
         culture = british
@@ -1013,10 +1013,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 15
+        size = 900
     }
 }
 2601 = {
@@ -1025,10 +1025,10 @@
         religion = protestant
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 450
+        size = 5
     }
     artisans = {
         culture = british
@@ -1040,10 +1040,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 5
+        size = 450
     }
 }
 2602 = {
@@ -1052,10 +1052,10 @@
         religion = protestant
         size = 15
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 450
+        size = 5
     }
     artisans = {
         culture = british
@@ -1067,10 +1067,10 @@
         religion = protestant
         size = 5
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 5
+        size = 450
     }
 }
 2605 = {
@@ -1079,10 +1079,10 @@
         religion = protestant
         size = 15
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 725
+        size = 10
     }
     artisans = {
         culture = british
@@ -1094,10 +1094,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 10
+        size = 725
     }
 }
 2505 = {
@@ -1106,10 +1106,10 @@
         religion = protestant
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 4500
+        size = 50
     }
     artisans = {
         culture = british
@@ -1121,10 +1121,10 @@
         religion = protestant
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 50
+        size = 4500
     }
 }
 2506 = {
@@ -1133,10 +1133,10 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 1750
+        size = 25
     }
     artisans = {
         culture = british
@@ -1148,10 +1148,10 @@
         religion = protestant
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 1750
     }
 }
 2507 = {
@@ -1160,10 +1160,10 @@
         religion = protestant
         size = 15
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 630
+        size = 10
     }
     artisans = {
         culture = british
@@ -1175,10 +1175,10 @@
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 10
+        size = 630
     }
 }
 2603 = {
@@ -1187,10 +1187,10 @@
         religion = protestant
         size = 3
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 275
+        size = 5
     }
     artisans = {
         culture = british
@@ -1202,10 +1202,10 @@
         religion = protestant
         size = 2
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 5
+        size = 275
     }
 }
 2508 = {
@@ -1214,19 +1214,19 @@
         religion = protestant
         size = 3
     }
-    farmers = {
+    soldiers = {
         culture = british
         religion = protestant
-        size = 235
+        size = 2
     }
     artisans = {
         culture = british
         religion = protestant
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = british
         religion = protestant
-        size = 2
+        size = 235
     }
 }

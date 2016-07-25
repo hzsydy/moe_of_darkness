@@ -9,20 +9,20 @@
         religion = sunni
         size = 125
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 150
+        size = 9975
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 650
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 9975
+        size = 150
     }
     clergymen = {
         culture = misri
@@ -41,10 +41,10 @@
         religion = sunni
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 38325
+        size = 1150
     }
     artisans = {
         culture = misri
@@ -56,10 +56,10 @@
         religion = sunni
         size = 575
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1150
+        size = 38325
     }
 }
 1682 = {
@@ -68,10 +68,10 @@
         religion = sunni
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 15050
+        size = 1125
     }
     artisans = {
         culture = misri
@@ -83,10 +83,10 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1125
+        size = 15050
     }
 }
 1683 = {
@@ -95,10 +95,10 @@
         religion = sunni
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 17700
+        size = 1150
     }
     artisans = {
         culture = misri
@@ -110,10 +110,10 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1150
+        size = 17700
     }
 }
 1684 = {
@@ -122,10 +122,10 @@
         religion = sunni
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 6450
+        size = 50
     }
     artisans = {
         culture = misri
@@ -137,10 +137,10 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 50
+        size = 6450
     }
 }
 1685 = {
@@ -149,10 +149,10 @@
         religion = sunni
         size = 230
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 23900
+        size = 1125
     }
     artisans = {
         culture = misri
@@ -164,10 +164,10 @@
         religion = sunni
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1125
+        size = 23900
     }
 }
 2563 = {
@@ -176,10 +176,10 @@
         religion = sunni
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 16675
+        size = 1125
     }
     artisans = {
         culture = misri
@@ -191,10 +191,10 @@
         religion = sunni
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1125
+        size = 16675
     }
 }
 1686 = {
@@ -208,20 +208,20 @@
         religion = sunni
         size = 50
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 75
+        size = 1150
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 425
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 1150
+        size = 75
     }
     clergymen = {
         culture = misri
@@ -240,10 +240,10 @@
         religion = sunni
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 17550
+        size = 1175
     }
     artisans = {
         culture = misri
@@ -255,10 +255,10 @@
         religion = sunni
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1175
+        size = 17550
     }
 }
 1688 = {
@@ -267,10 +267,10 @@
         religion = sunni
         size = 525
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 24225
+        size = 1175
     }
     artisans = {
         culture = misri
@@ -282,10 +282,10 @@
         religion = sunni
         size = 925
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1175
+        size = 24225
     }
 }
 1689 = {
@@ -299,11 +299,6 @@
         religion = catholic
         size = 15
     }
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 600
-    }
     artisans = {
         culture = spanish
         religion = catholic
@@ -313,6 +308,11 @@
         culture = spanish
         religion = catholic
         size = 75
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 600
     }
 }
 1690 = {
@@ -326,20 +326,20 @@
         religion = sunni
         size = 75
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 100
+        size = 3015
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 975
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 3015
+        size = 100
     }
     clergymen = {
         culture = misri
@@ -358,10 +358,10 @@
         religion = sunni
         size = 180
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 12675
+        size = 1125
     }
     artisans = {
         culture = misri
@@ -373,10 +373,10 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1125
+        size = 12675
     }
 }
 1692 = {
@@ -385,10 +385,10 @@
         religion = sunni
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 8200
+        size = 100
     }
     artisans = {
         culture = misri
@@ -400,10 +400,10 @@
         religion = sunni
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 100
+        size = 8200
     }
 }
 1693 = {
@@ -412,10 +412,10 @@
         religion = sunni
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 8175
+        size = 100
     }
     artisans = {
         culture = misri
@@ -427,10 +427,10 @@
         religion = sunni
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 100
+        size = 8175
     }
 }
 1694 = {
@@ -439,10 +439,10 @@
         religion = sunni
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 12800
+        size = 1125
     }
     artisans = {
         culture = misri
@@ -454,10 +454,10 @@
         religion = sunni
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 1125
+        size = 12800
     }
 }
 1695 = {
@@ -466,10 +466,10 @@
         religion = sunni
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 900
+        size = 15
     }
     artisans = {
         culture = misri
@@ -481,10 +481,10 @@
         religion = sunni
         size = 10
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 15
+        size = 900
     }
 }
 1696 = {
@@ -493,10 +493,10 @@
         religion = sunni
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 8125
+        size = 150
     }
     artisans = {
         culture = misri
@@ -508,10 +508,10 @@
         religion = sunni
         size = 140
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 150
+        size = 8125
     }
 }
 1697 = {
@@ -525,20 +525,20 @@
         religion = sunni
         size = 25
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 25
+        size = 500
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 165
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 500
+        size = 25
     }
     clergymen = {
         culture = misri
@@ -557,10 +557,10 @@
         religion = sunni
         size = 150
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 9975
+        size = 125
     }
     artisans = {
         culture = misri
@@ -572,10 +572,10 @@
         religion = sunni
         size = 200
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 125
+        size = 9975
     }
 }
 1699 = {
@@ -584,10 +584,10 @@
         religion = sunni
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 17375
+        size = 225
     }
     artisans = {
         culture = misri
@@ -599,9 +599,9 @@
         religion = sunni
         size = 325
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 225
+        size = 17375
     }
 }

@@ -4,10 +4,10 @@
         religion = catholic
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 23675
+        size = 275
     }
     artisans = {
         culture = french
@@ -19,10 +19,10 @@
         religion = catholic
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 275
+        size = 23675
     }
 }
 1966 = {
@@ -31,10 +31,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 9125
+        size = 100
     }
     artisans = {
         culture = french
@@ -46,10 +46,10 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 100
+        size = 9125
     }
 }
 1967 = {
@@ -58,10 +58,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 6375
+        size = 75
     }
     artisans = {
         culture = french
@@ -73,10 +73,10 @@
         religion = catholic
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 75
+        size = 6375
     }
 }
 1968 = {
@@ -85,10 +85,10 @@
         religion = catholic
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 12725
+        size = 140
     }
     artisans = {
         culture = french
@@ -100,10 +100,10 @@
         religion = catholic
         size = 135
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 140
+        size = 12725
     }
 }
 1969 = {
@@ -112,10 +112,10 @@
         religion = catholic
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 10050
+        size = 125
     }
     artisans = {
         culture = french
@@ -127,10 +127,10 @@
         religion = catholic
         size = 175
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 125
+        size = 10050
     }
 }
 1970 = {
@@ -139,10 +139,10 @@
         religion = catholic
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 12775
+        size = 165
     }
     artisans = {
         culture = french
@@ -154,10 +154,10 @@
         religion = catholic
         size = 235
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 165
+        size = 12775
     }
 }
 1971 = {
@@ -166,10 +166,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 6375
+        size = 90
     }
     artisans = {
         culture = french
@@ -181,9 +181,9 @@
         religion = catholic
         size = 110
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 90
+        size = 6375
     }
 }

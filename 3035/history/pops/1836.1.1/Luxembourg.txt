@@ -9,20 +9,20 @@
         religion = protestant
         size = 75
     }
-    artisans = {
+    officers = {
         culture = north_german
         religion = protestant
-        size = 2500
+        size = 50
     }
     aristocrats = {
         culture = north_german
         religion = protestant
         size = 425
     }
-    officers = {
+    artisans = {
         culture = north_german
         religion = protestant
-        size = 50
+        size = 2500
     }
     clergymen = {
         culture = north_german

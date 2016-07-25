@@ -1,326 +1,326 @@
 1455 = {
     farmers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 155075
     }
     bureaucrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 850
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 32350
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1450
     }
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1075
     }
     soldiers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 4300
     }
 }
 1456 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 675
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 141175
+        size = 1550
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 7600
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1100
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 1550
+        size = 141175
     }
 }
 1457 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 675
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 130875
+        size = 1450
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 7000
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1100
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 1450
+        size = 130875
     }
 }
 1458 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 300
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 49900
+        size = 550
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 2850
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 400
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 550
+        size = 49900
     }
 }
 1459 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 150
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 18575
+        size = 225
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 950
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 100
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 225
+        size = 18575
     }
 }
 1460 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 425
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 72075
+        size = 850
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 4000
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 650
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 850
+        size = 72075
     }
 }
 1461 = {
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 625
     }
-    farmers = {
-        culture = filipino
+    soldiers = {
+        culture = key_fan
         religion = catholic
-        size = 80125
+        size = 850
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 4250
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 750
     }
-    soldiers = {
-        culture = filipino
+    farmers = {
+        culture = key_fan
         religion = catholic
-        size = 850
+        size = 80125
     }
 }
 2565 = {
     farmers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 69425
     }
     bureaucrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 500
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 4000
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 675
     }
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 550
     }
     soldiers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 850
     }
 }
 1463 = {
     farmers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 34375
     }
     bureaucrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 75
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1800
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 300
     }
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 325
     }
     soldiers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 1325
     }
 }
 1462 = {
     farmers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 65625
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 3550
     }
     aristocrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 700
     }
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 625
     }
     slaves = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 4000
     }
     soldiers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 600
     }
 }
 1464 = {
     farmers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 9825
     }
     bureaucrats = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 75
-    }
-    officers = {
-        culture = filipino
-        religion = catholic
-        size = 75
-    }
-    aristocrats = {
-        culture = filipino
-        religion = catholic
-        size = 100
     }
     artisans = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 600
     }
+    aristocrats = {
+        culture = key_fan
+        religion = catholic
+        size = 100
+    }
+    officers = {
+        culture = key_fan
+        religion = catholic
+        size = 75
+    }
     clergymen = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 100
     }
     soldiers = {
-        culture = filipino
+        culture = key_fan
         religion = catholic
         size = 225
     }

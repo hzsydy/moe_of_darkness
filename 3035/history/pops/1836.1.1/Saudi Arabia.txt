@@ -9,20 +9,20 @@
         religion = sunni
         size = 100
     }
-    officers = {
+    artisans = {
         culture = bedouin
         religion = sunni
-        size = 125
+        size = 7600
     }
     aristocrats = {
         culture = bedouin
         religion = sunni
         size = 800
     }
-    artisans = {
+    officers = {
         culture = bedouin
         religion = sunni
-        size = 7600
+        size = 125
     }
     clergymen = {
         culture = bedouin
@@ -110,10 +110,10 @@
         religion = sunni
         size = 25
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 1825
+        size = 25
     }
     artisans = {
         culture = bedouin
@@ -125,10 +125,10 @@
         religion = sunni
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 1825
     }
 }
 1155 = {
@@ -137,10 +137,10 @@
         religion = sunni
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 11850
+        size = 1175
     }
     artisans = {
         culture = bedouin
@@ -152,10 +152,10 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 1175
+        size = 11850
     }
 }
 1156 = {
@@ -164,10 +164,10 @@
         religion = sunni
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4600
+        size = 50
     }
     artisans = {
         culture = bedouin
@@ -179,10 +179,10 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 4600
     }
 }
 1157 = {
@@ -196,20 +196,20 @@
         religion = sunni
         size = 25
     }
-    officers = {
+    artisans = {
         culture = bedouin
         religion = sunni
-        size = 75
+        size = 1450
     }
     aristocrats = {
         culture = bedouin
         religion = sunni
         size = 500
     }
-    artisans = {
+    officers = {
         culture = bedouin
         religion = sunni
-        size = 1450
+        size = 75
     }
     clergymen = {
         culture = bedouin
@@ -228,10 +228,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 3675
+        size = 1100
     }
     artisans = {
         culture = bedouin
@@ -243,10 +243,10 @@
         religion = sunni
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 1100
+        size = 3675
     }
 }
 1159 = {
@@ -255,10 +255,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5525
+        size = 1100
     }
     artisans = {
         culture = bedouin
@@ -270,10 +270,10 @@
         religion = sunni
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 1100
+        size = 5525
     }
 }
 1160 = {
@@ -282,10 +282,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 2750
+        size = 25
     }
     artisans = {
         culture = bedouin
@@ -297,10 +297,10 @@
         religion = sunni
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 2750
     }
 }
 1161 = {
@@ -309,10 +309,10 @@
         religion = sunni
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5525
+        size = 1100
     }
     artisans = {
         culture = bedouin
@@ -324,10 +324,10 @@
         religion = sunni
         size = 100
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 1100
+        size = 5525
     }
 }
 1163 = {
@@ -341,20 +341,20 @@
         religion = sunni
         size = 25
     }
-    officers = {
+    artisans = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 1150
     }
     aristocrats = {
         culture = bedouin
         religion = sunni
         size = 300
     }
-    artisans = {
+    officers = {
         culture = bedouin
         religion = sunni
-        size = 1150
+        size = 50
     }
     clergymen = {
         culture = bedouin
@@ -373,10 +373,10 @@
         religion = sunni
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 21050
+        size = 1225
     }
     artisans = {
         culture = bedouin
@@ -388,10 +388,10 @@
         religion = sunni
         size = 400
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 1225
+        size = 21050
     }
 }
 2586 = {
@@ -400,10 +400,10 @@
         religion = sunni
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = bedouin
         religion = sunni
-        size = 3850
+        size = 25
     }
     artisans = {
         culture = bedouin
@@ -415,9 +415,9 @@
         religion = sunni
         size = 50
     }
-    soldiers = {
+    farmers = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 3850
     }
 }

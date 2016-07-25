@@ -9,20 +9,20 @@
         religion = mahayana
         size = 300
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 400
+        size = 9500
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 3750
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 9500
+        size = 400
     }
     clergymen = {
         culture = korean
@@ -83,20 +83,20 @@
         religion = mahayana
         size = 150
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 200
+        size = 3500
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 1400
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 3500
+        size = 200
     }
     clergymen = {
         culture = korean
@@ -189,20 +189,20 @@
         religion = mahayana
         size = 675
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 625
+        size = 13750
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 5425
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 13750
+        size = 625
     }
     clergymen = {
         culture = korean
@@ -359,20 +359,20 @@
         religion = mahayana
         size = 175
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 225
+        size = 4250
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 1700
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 4250
+        size = 225
     }
     clergymen = {
         culture = korean
@@ -465,20 +465,20 @@
         religion = mahayana
         size = 375
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 425
+        size = 8750
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 3400
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 8750
+        size = 425
     }
     clergymen = {
         culture = korean
@@ -571,20 +571,20 @@
         religion = mahayana
         size = 300
     }
-    officers = {
+    artisans = {
         culture = korean
         religion = mahayana
-        size = 350
+        size = 7550
     }
     aristocrats = {
         culture = korean
         religion = mahayana
         size = 3000
     }
-    artisans = {
+    officers = {
         culture = korean
         religion = mahayana
-        size = 7550
+        size = 350
     }
     clergymen = {
         culture = korean

@@ -9,15 +9,15 @@
         religion = protestant
         size = 300
     }
-    officers = {
-        culture = swedish
-        religion = protestant
-        size = 50
-    }
     artisans = {
         culture = swedish
         religion = protestant
         size = 3250
+    }
+    officers = {
+        culture = swedish
+        religion = protestant
+        size = 50
     }
     clergymen = {
         culture = swedish
@@ -36,20 +36,20 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 13200
+        size = 100
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 750
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 100
+        size = 13200
     }
 }
 307 = {
@@ -58,20 +58,20 @@
         religion = protestant
         size = 50
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 8400
+        size = 50
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 50
+        size = 8400
     }
 }
 308 = {
@@ -80,20 +80,20 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 16825
+        size = 100
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 100
+        size = 16825
     }
 }
 3246 = {
@@ -114,15 +114,15 @@
         religion = protestant
         size = 500
     }
-    officers = {
-        culture = swedish
-        religion = protestant
-        size = 100
-    }
     artisans = {
         culture = swedish
         religion = protestant
         size = 5000
+    }
+    officers = {
+        culture = swedish
+        religion = protestant
+        size = 100
     }
     clergymen = {
         culture = swedish
@@ -141,20 +141,20 @@
         religion = protestant
         size = 175
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 37825
+        size = 1100
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 2000
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 1100
+        size = 37825
     }
 }
 311 = {
@@ -163,20 +163,20 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 16075
+        size = 100
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 750
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 100
+        size = 16075
     }
 }
 312 = {
@@ -185,20 +185,20 @@
         religion = protestant
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 31125
+        size = 250
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 2000
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 250
+        size = 31125
     }
 }
 313 = {
@@ -212,15 +212,15 @@
         religion = protestant
         size = 500
     }
-    officers = {
-        culture = swedish
-        religion = protestant
-        size = 100
-    }
     artisans = {
         culture = swedish
         religion = protestant
         size = 7000
+    }
+    officers = {
+        culture = swedish
+        religion = protestant
+        size = 100
     }
     clergymen = {
         culture = swedish
@@ -239,20 +239,20 @@
         religion = protestant
         size = 100
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 18750
+        size = 150
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 150
+        size = 18750
     }
 }
 315 = {
@@ -261,20 +261,20 @@
         religion = protestant
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 22425
+        size = 200
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 1250
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 200
+        size = 22425
     }
 }
 316 = {
@@ -283,19 +283,19 @@
         religion = protestant
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = swedish
         religion = protestant
-        size = 16025
+        size = 150
     }
     artisans = {
         culture = swedish
         religion = protestant
         size = 750
     }
-    soldiers = {
+    farmers = {
         culture = swedish
         religion = protestant
-        size = 150
+        size = 16025
     }
 }

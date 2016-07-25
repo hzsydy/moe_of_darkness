@@ -9,20 +9,20 @@
         religion = sunni
         size = 225
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 125
+        size = 21925
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 900
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 21925
+        size = 125
     }
     clergymen = {
         culture = turkish
@@ -41,10 +41,10 @@
         religion = sunni
         size = 305
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 24200
+        size = 300
     }
     artisans = {
         culture = turkish
@@ -56,10 +56,10 @@
         religion = sunni
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 300
+        size = 24200
     }
 }
 859 = {
@@ -68,10 +68,10 @@
         religion = sunni
         size = 180
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 17200
+        size = 1100
     }
     artisans = {
         culture = turkish
@@ -83,10 +83,10 @@
         religion = sunni
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 17200
     }
 }
 860 = {
@@ -100,20 +100,20 @@
         religion = sunni
         size = 750
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 149900
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 750
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 149900
+        size = 450
     }
     clergymen = {
         culture = turkish
@@ -132,10 +132,10 @@
         religion = sunni
         size = 475
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 36075
+        size = 1100
     }
     artisans = {
         culture = turkish
@@ -147,10 +147,10 @@
         religion = sunni
         size = 450
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 36075
     }
 }
 862 = {
@@ -159,10 +159,10 @@
         religion = sunni
         size = 775
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 72100
+        size = 800
     }
     artisans = {
         culture = turkish
@@ -174,10 +174,10 @@
         religion = sunni
         size = 1100
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 800
+        size = 72100
     }
 }
 863 = {
@@ -191,20 +191,20 @@
         religion = sunni
         size = 325
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 14490
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 1150
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 14490
+        size = 200
     }
     clergymen = {
         culture = turkish
@@ -223,10 +223,10 @@
         religion = sunni
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 46800
+        size = 500
     }
     artisans = {
         culture = turkish
@@ -238,10 +238,10 @@
         religion = sunni
         size = 650
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 46800
     }
 }
 865 = {
@@ -250,10 +250,10 @@
         religion = sunni
         size = 325
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 30400
+        size = 325
     }
     artisans = {
         culture = turkish
@@ -265,10 +265,10 @@
         religion = sunni
         size = 350
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 325
+        size = 30400
     }
 }
 866 = {
@@ -277,10 +277,10 @@
         religion = sunni
         size = 215
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 19430
+        size = 200
     }
     artisans = {
         culture = turkish
@@ -292,10 +292,10 @@
         religion = sunni
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 19430
     }
 }
 867 = {
@@ -304,10 +304,10 @@
         religion = sunni
         size = 295
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 25655
+        size = 275
     }
     artisans = {
         culture = turkish
@@ -319,10 +319,10 @@
         religion = sunni
         size = 375
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 275
+        size = 25655
     }
 }
 868 = {
@@ -336,20 +336,20 @@
         religion = sunni
         size = 525
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 1750
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 450
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 1750
+        size = 100
     }
     clergymen = {
         culture = turkish
@@ -373,20 +373,20 @@
         religion = sunni
         size = 425
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 38030
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 575
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 38030
+        size = 250
     }
     clergymen = {
         culture = turkish
@@ -405,10 +405,10 @@
         religion = sunni
         size = 600
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 48250
+        size = 600
     }
     artisans = {
         culture = turkish
@@ -420,10 +420,10 @@
         religion = sunni
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 600
+        size = 48250
     }
 }
 871 = {
@@ -432,10 +432,10 @@
         religion = sunni
         size = 800
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 70725
+        size = 750
     }
     artisans = {
         culture = turkish
@@ -447,10 +447,10 @@
         religion = sunni
         size = 900
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 750
+        size = 70725
     }
 }
 872 = {
@@ -459,10 +459,10 @@
         religion = sunni
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 22050
+        size = 250
     }
     artisans = {
         culture = turkish
@@ -474,10 +474,10 @@
         religion = sunni
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 22050
     }
 }
 873 = {
@@ -491,20 +491,20 @@
         religion = sunni
         size = 300
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 4250
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 1150
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 4250
+        size = 225
     }
     clergymen = {
         culture = turkish
@@ -523,10 +523,10 @@
         religion = sunni
         size = 520
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 45830
+        size = 500
     }
     artisans = {
         culture = turkish
@@ -538,10 +538,10 @@
         religion = sunni
         size = 650
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 500
+        size = 45830
     }
 }
 875 = {
@@ -550,10 +550,10 @@
         religion = sunni
         size = 525
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 46825
+        size = 525
     }
     artisans = {
         culture = turkish
@@ -565,10 +565,10 @@
         religion = sunni
         size = 575
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 525
+        size = 46825
     }
 }
 876 = {
@@ -582,20 +582,20 @@
         religion = sunni
         size = 250
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 2500
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 700
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 2500
+        size = 200
     }
     clergymen = {
         culture = turkish
@@ -614,10 +614,10 @@
         religion = sunni
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 30000
+        size = 325
     }
     artisans = {
         culture = turkish
@@ -629,10 +629,10 @@
         religion = sunni
         size = 675
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 325
+        size = 30000
     }
 }
 878 = {
@@ -641,10 +641,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 118500
+        size = 250
     }
     artisans = {
         culture = turkish
@@ -656,10 +656,10 @@
         religion = sunni
         size = 300
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 118500
     }
 }
 879 = {
@@ -668,10 +668,10 @@
         religion = sunni
         size = 550
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 51050
+        size = 2000
     }
     artisans = {
         culture = turkish
@@ -683,10 +683,10 @@
         religion = sunni
         size = 600
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 2000
+        size = 51050
     }
 }
 880 = {
@@ -700,20 +700,20 @@
         religion = sunni
         size = 125
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 100
+        size = 3700
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 825
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 3700
+        size = 100
     }
     clergymen = {
         culture = turkish
@@ -732,10 +732,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 22050
+        size = 250
     }
     artisans = {
         culture = turkish
@@ -747,10 +747,10 @@
         religion = sunni
         size = 250
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 22050
     }
 }
 882 = {
@@ -764,20 +764,20 @@
         religion = sunni
         size = 175
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 2650
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 550
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 2650
+        size = 150
     }
     clergymen = {
         culture = turkish
@@ -796,10 +796,10 @@
         religion = sunni
         size = 475
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 42600
+        size = 2000
     }
     artisans = {
         culture = turkish
@@ -811,10 +811,10 @@
         religion = sunni
         size = 525
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 2000
+        size = 42600
     }
 }
 884 = {
@@ -823,10 +823,10 @@
         religion = sunni
         size = 350
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 31400
+        size = 1100
     }
     artisans = {
         culture = turkish
@@ -838,10 +838,10 @@
         religion = sunni
         size = 400
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 31400
     }
 }
 885 = {
@@ -855,20 +855,20 @@
         religion = sunni
         size = 250
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 5100
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 1050
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 5100
+        size = 225
     }
     clergymen = {
         culture = turkish
@@ -887,10 +887,10 @@
         religion = sunni
         size = 1100
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 102950
+        size = 1150
     }
     artisans = {
         culture = turkish
@@ -902,10 +902,10 @@
         religion = sunni
         size = 1200
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 1150
+        size = 102950
     }
 }
 887 = {
@@ -919,20 +919,20 @@
         religion = sunni
         size = 200
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 2200
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 500
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 2200
+        size = 200
     }
     clergymen = {
         culture = turkish
@@ -951,10 +951,10 @@
         religion = sunni
         size = 775
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 70475
+        size = 2200
     }
     artisans = {
         culture = turkish
@@ -966,10 +966,10 @@
         religion = sunni
         size = 850
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 2200
+        size = 70475
     }
 }
 889 = {
@@ -978,10 +978,10 @@
         religion = sunni
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 46000
+        size = 525
     }
     artisans = {
         culture = turkish
@@ -993,10 +993,10 @@
         religion = sunni
         size = 550
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 525
+        size = 46000
     }
 }
 890 = {
@@ -1010,20 +1010,20 @@
         religion = sunni
         size = 200
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 3600
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 725
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 3600
+        size = 200
     }
     clergymen = {
         culture = turkish
@@ -1042,10 +1042,10 @@
         religion = sunni
         size = 200
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 17425
+        size = 200
     }
     artisans = {
         culture = turkish
@@ -1057,10 +1057,10 @@
         religion = sunni
         size = 225
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 200
+        size = 17425
     }
 }
 892 = {
@@ -1069,10 +1069,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 21150
+        size = 250
     }
     artisans = {
         culture = turkish
@@ -1084,10 +1084,10 @@
         religion = sunni
         size = 200
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 250
+        size = 21150
     }
 }
 893 = {
@@ -1096,10 +1096,10 @@
         religion = sunni
         size = 825
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 62075
+        size = 700
     }
     artisans = {
         culture = turkish
@@ -1111,10 +1111,10 @@
         religion = sunni
         size = 675
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 700
+        size = 62075
     }
 }
 894 = {
@@ -1128,20 +1128,20 @@
         religion = sunni
         size = 150
     }
-    officers = {
+    artisans = {
         culture = turkish
         religion = sunni
-        size = 150
+        size = 3150
     }
     aristocrats = {
         culture = turkish
         religion = sunni
         size = 650
     }
-    artisans = {
+    officers = {
         culture = turkish
         religion = sunni
-        size = 3150
+        size = 150
     }
     clergymen = {
         culture = turkish
@@ -1160,10 +1160,10 @@
         religion = sunni
         size = 250
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 22050
+        size = 225
     }
     artisans = {
         culture = turkish
@@ -1175,10 +1175,10 @@
         religion = sunni
         size = 275
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 22050
     }
 }
 896 = {
@@ -1187,10 +1187,10 @@
         religion = sunni
         size = 475
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 44175
+        size = 425
     }
     artisans = {
         culture = turkish
@@ -1202,10 +1202,10 @@
         religion = sunni
         size = 525
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 44175
     }
 }
 898 = {
@@ -1214,10 +1214,10 @@
         religion = sunni
         size = 600
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 56975
+        size = 625
     }
     artisans = {
         culture = turkish
@@ -1229,10 +1229,10 @@
         religion = sunni
         size = 700
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 625
+        size = 56975
     }
 }
 899 = {
@@ -1241,10 +1241,10 @@
         religion = sunni
         size = 775
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 81900
+        size = 875
     }
     artisans = {
         culture = turkish
@@ -1256,10 +1256,10 @@
         religion = sunni
         size = 1000
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 875
+        size = 81900
     }
 }
 900 = {
@@ -1268,10 +1268,10 @@
         religion = sunni
         size = 400
     }
-    farmers = {
+    soldiers = {
         culture = turkish
         religion = sunni
-        size = 36700
+        size = 400
     }
     artisans = {
         culture = turkish
@@ -1283,9 +1283,9 @@
         religion = sunni
         size = 500
     }
-    soldiers = {
+    farmers = {
         culture = turkish
         religion = sunni
-        size = 400
+        size = 36700
     }
 }

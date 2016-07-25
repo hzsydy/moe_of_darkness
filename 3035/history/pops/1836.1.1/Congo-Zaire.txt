@@ -169,20 +169,20 @@
         religion = catholic
         size = 20
     }
-    officers = {
+    artisans = {
         culture = spanish
         religion = catholic
-        size = 80
+        size = 4575
     }
     aristocrats = {
         culture = spanish
         religion = catholic
         size = 2200
     }
-    artisans = {
+    officers = {
         culture = spanish
         religion = catholic
-        size = 4575
+        size = 80
     }
     clergymen = {
         culture = spanish
@@ -526,10 +526,10 @@
         religion = catholic
         size = 275
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 24575
+        size = 275
     }
     artisans = {
         culture = french
@@ -541,9 +541,9 @@
         religion = catholic
         size = 525
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 275
+        size = 24575
     }
 }

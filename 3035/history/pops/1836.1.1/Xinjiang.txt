@@ -9,20 +9,20 @@
         religion = mahayana
         size = 250
     }
-    officers = {
+    artisans = {
         culture = manchu
         religion = mahayana
-        size = 325
+        size = 4650
     }
     aristocrats = {
         culture = manchu
         religion = mahayana
         size = 1325
     }
-    artisans = {
+    officers = {
         culture = manchu
         religion = mahayana
-        size = 4650
+        size = 325
     }
     clergymen = {
         culture = manchu
@@ -41,10 +41,10 @@
         religion = mahayana
         size = 420
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 38250
+        size = 435
     }
     artisans = {
         culture = manchu
@@ -56,10 +56,10 @@
         religion = mahayana
         size = 795
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 435
+        size = 38250
     }
 }
 1596 = {
@@ -68,10 +68,10 @@
         religion = mahayana
         size = 245
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 20025
+        size = 235
     }
     artisans = {
         culture = manchu
@@ -83,10 +83,10 @@
         religion = mahayana
         size = 395
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 235
+        size = 20025
     }
 }
 1597 = {
@@ -95,10 +95,10 @@
         religion = mahayana
         size = 500
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 43650
+        size = 500
     }
     artisans = {
         culture = manchu
@@ -110,10 +110,10 @@
         religion = mahayana
         size = 950
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 500
+        size = 43650
     }
 }
 1598 = {
@@ -122,10 +122,10 @@
         religion = mahayana
         size = 225
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 20025
+        size = 225
     }
     artisans = {
         culture = manchu
@@ -137,10 +137,10 @@
         religion = mahayana
         size = 425
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 225
+        size = 20025
     }
 }
 1599 = {
@@ -149,10 +149,10 @@
         religion = mahayana
         size = 525
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 42800
+        size = 475
     }
     artisans = {
         culture = manchu
@@ -164,10 +164,10 @@
         religion = mahayana
         size = 900
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 475
+        size = 42800
     }
 }
 1600 = {
@@ -208,10 +208,10 @@
         religion = mahayana
         size = 125
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 7275
+        size = 75
     }
     artisans = {
         culture = manchu
@@ -223,9 +223,9 @@
         religion = mahayana
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 75
+        size = 7275
     }
 }

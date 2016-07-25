@@ -12,7 +12,7 @@ CLA = "countries/Clannad.txt"
 KAN = "countries/Kanon.txt"
 KEY = "countries/KEY.txt"
 LBU = "countries/Little Busters.txt"
-#PLA = "countries/Planetarian.txt"
+PLA = "countries/Planetarian.txt"
 REW = "countries/Rewrite.txt"
 
 ## Kyoto Animation

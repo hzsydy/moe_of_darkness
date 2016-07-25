@@ -36,10 +36,10 @@
         religion = catholic
         size = 20
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 10
+        size = 1410
     }
     artisans = {
         culture = central_american
@@ -51,10 +51,10 @@
         religion = catholic
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 1410
+        size = 10
     }
 }
 2226 = {
@@ -63,10 +63,10 @@
         religion = catholic
         size = 25
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 10
+        size = 1080
     }
     artisans = {
         culture = central_american
@@ -78,10 +78,10 @@
         religion = catholic
         size = 10
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 1080
+        size = 10
     }
 }
 2227 = {
@@ -90,10 +90,10 @@
         religion = catholic
         size = 90
     }
-    farmers = {
+    soldiers = {
         culture = central_american
         religion = catholic
-        size = 6160
+        size = 125
     }
     artisans = {
         culture = central_american
@@ -105,9 +105,9 @@
         religion = catholic
         size = 75
     }
-    soldiers = {
+    farmers = {
         culture = central_american
         religion = catholic
-        size = 125
+        size = 6160
     }
 }

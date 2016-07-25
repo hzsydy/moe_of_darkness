@@ -9,20 +9,20 @@
         religion = sunni
         size = 325
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 550
+        size = 5475
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 2100
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 5475
+        size = 550
     }
     clergymen = {
         culture = misri
@@ -147,20 +147,20 @@
         religion = sunni
         size = 50
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 75
+        size = 1450
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 625
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 1450
+        size = 75
     }
     clergymen = {
         culture = misri
@@ -253,20 +253,20 @@
         religion = sunni
         size = 300
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 525
+        size = 12375
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 6000
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 12375
+        size = 525
     }
     clergymen = {
         culture = misri
@@ -455,20 +455,20 @@
         religion = sunni
         size = 15
     }
-    officers = {
+    artisans = {
         culture = misri
         religion = sunni
-        size = 10
+        size = 4350
     }
     aristocrats = {
         culture = misri
         religion = sunni
         size = 1875
     }
-    artisans = {
+    officers = {
         culture = misri
         religion = sunni
-        size = 4350
+        size = 10
     }
     clergymen = {
         culture = misri

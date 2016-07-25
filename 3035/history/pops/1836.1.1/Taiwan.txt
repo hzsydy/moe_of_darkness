@@ -9,20 +9,20 @@
         religion = mahayana
         size = 450
     }
-    officers = {
+    artisans = {
         culture = manchu
         religion = mahayana
-        size = 750
+        size = 18150
     }
     aristocrats = {
         culture = manchu
         religion = mahayana
         size = 4500
     }
-    artisans = {
+    officers = {
         culture = manchu
         religion = mahayana
-        size = 18150
+        size = 750
     }
     clergymen = {
         culture = manchu
@@ -41,10 +41,10 @@
         religion = mahayana
         size = 3825
     }
-    farmers = {
+    soldiers = {
         culture = manchu
         religion = mahayana
-        size = 350225
+        size = 3825
     }
     artisans = {
         culture = manchu
@@ -56,9 +56,9 @@
         religion = mahayana
         size = 5025
     }
-    soldiers = {
+    farmers = {
         culture = manchu
         religion = mahayana
-        size = 3825
+        size = 350225
     }
 }

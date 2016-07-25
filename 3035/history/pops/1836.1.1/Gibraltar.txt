@@ -9,15 +9,15 @@
         religion = protestant
         size = 5
     }
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 3535
-    }
     officers = {
         culture = british
         religion = protestant
         size = 5
+    }
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 3535
     }
     clergymen = {
         culture = british

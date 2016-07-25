@@ -4,10 +4,10 @@
         religion = sunni
         size = 65
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 2700
+        size = 50
     }
     artisans = {
         culture = misri
@@ -19,10 +19,10 @@
         religion = sunni
         size = 35
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 50
+        size = 2700
     }
 }
 1774 = {
@@ -31,10 +31,10 @@
         religion = sunni
         size = 30
     }
-    farmers = {
+    soldiers = {
         culture = misri
         religion = sunni
-        size = 1800
+        size = 50
     }
     artisans = {
         culture = misri
@@ -46,9 +46,9 @@
         religion = sunni
         size = 20
     }
-    soldiers = {
+    farmers = {
         culture = misri
         religion = sunni
-        size = 50
+        size = 1800
     }
 }

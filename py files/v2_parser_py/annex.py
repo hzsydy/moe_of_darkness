@@ -8,7 +8,7 @@ from V2_parser import *
 #    'SOK':'FRA', 'GRE':'TUR', 'TEX':'MEX', 'HAI':'UCA', 'CUB':'UCA', 'ITA':'SPA', 'YUG':'TUR', 'UBD':'FIN'
 #}
 
-annex_dict = {'HND':'CLA', 'JAV':'AIR', 'BUR':'KAN', 'USA':'ANG', 'TIB':'LBU', 'SIA':'REW', 'DAI':'SIA'}
+annex_dict = {'HND':'CLA', 'JAV':'AIR', 'BUR':'KAN', 'USA':'ANG', 'TIB':'LBU', 'SIA':'REW', 'DAI':'SIA', 'PHI':'PLA', 'ANG':'ANG'}
 
 class work:
     def __init__(self):

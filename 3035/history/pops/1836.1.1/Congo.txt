@@ -100,10 +100,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 6375
+        size = 75
     }
     artisans = {
         culture = french
@@ -115,10 +115,10 @@
         religion = catholic
         size = 125
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 75
+        size = 6375
     }
 }
 1981 = {
@@ -127,10 +127,10 @@
         religion = catholic
         size = 75
     }
-    farmers = {
+    soldiers = {
         culture = french
         religion = catholic
-        size = 7300
+        size = 75
     }
     artisans = {
         culture = french
@@ -142,9 +142,9 @@
         religion = catholic
         size = 150
     }
-    soldiers = {
+    farmers = {
         culture = french
         religion = catholic
-        size = 75
+        size = 7300
     }
 }
