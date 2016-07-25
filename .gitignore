@@ -19,11 +19,11 @@ tutorial/
 *.vdf
 *.dll
 *.html
-*.jpg
 *.ini
 *.exe
 *.ico
 *.rar
+load_bg.jpg
 
 #gfx
 anims/
