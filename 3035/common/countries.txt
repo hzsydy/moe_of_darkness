@@ -18,7 +18,7 @@ REW = "countries/Rewrite.txt"
 ## Kyoto Animation
 
 #HYO = "countries/Hyoka.txt"
-#KON = "countries/K_ON.txt"
+#KON = "countries/KON.txt"
 #KYO = "countries/Kyoto Animation.txt"
 #LUC = "countries/Lucky star.txt"
 #SUZ = "countries/Suzumiya Haruhi no Yuutsu.txt"
@@ -121,7 +121,7 @@ WUR		= "countries/Wurttemberg.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"
-LUC		= "countries/Lucca.txt"
+#LUC		= "countries/Lucca.txt"
 MOD		= "countries/Modena.txt"
 PAP		= "countries/Papal States.txt"
 PAR		= "countries/Parma.txt"
