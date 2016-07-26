@@ -1,6 +1,6 @@
-owner = GER
-controller = GER
-add_core = GER
+owner = HAY
+controller = HAY
+add_core = HAY
 trade_goods = coal
 life_rating = 40
 state_building = {

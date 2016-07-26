@@ -1,6 +1,6 @@
-owner = GER
-controller = GER
-add_core = GER
+owner = HAY
+controller = HAY
+add_core = HAY
 trade_goods = cattle
 life_rating = 40
 fort = 1

@@ -1,6 +1,6 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = tea
 life_rating = 32
 fort = 1

@@ -1,17 +1,55 @@
 #;;;;;;;;;;;;;x
 CLA;Clannad;;;;;;;;;;X
-CLA_ADJ;Clannad的;;;;;;;;;;X
 AIR;Air;;;;;;;;;;X
-AIR_ADJ;Air的;;;;;;;;;;X
 KAN;Kanon;;;;;;;;;;X
-KAN_ADJ;Kanon的;;;;;;;;;;X
 ANG;Angel Beats;;;;;;;;;;X
-ANG_ADJ;AB的;;;;;;;;;;X
 LBU;Little Busters;;;;;;;;;;X
-LBU_ADJ;LB的;;;;;;;;;;X
 REW;Rewrite;;;;;;;;;;X
-REW_ADJ;Rewrite的;;;;;;;;;;X
 KEY;KEY;;;;;;;;;;X
-KEY_ADJ;KEY社的;;;;;;;;;;X
 PLA;Planetarian;;;;;;;;;;X
+CCS;Cardcaptor Sakura;;;;;;;;;;X
+FAT;Fate;;;;;;;;;;X
+HAY;Hayate no Gotoku;;;;;;;;;;X
+HIG;Higurashi no Naku Koro ni;;;;;;;;;;X
+HOL;Holy Alliance;;;;;;;;;;X
+HYO;Hyoka;;;;;;;;;;X
+KON;K-ON;;;;;;;;;;X
+KUG;Party of Kugimiya;;;;;;;;;;X
+KYO;Kyoto Animatio;;;;;;;;;;X
+LUC;Lucky star;;;;;;;;;;X
+MAD;Puella Magi Madoka Magica;;;;;;;;;;X
+NAN;Maho Shojo Lyrical Nanoha;;;;;;;;;;X
+ROZ;Rozen Maiden;;;;;;;;;;X
+SAK;Saki;;;;;;;;;;X
+SET;Seto no Hanayome;;;;;;;;;;X
+SHA;Shakugan no Shana;;;;;;;;;;X
+SUZ;Suzumiya Haruhi no Yuutsu;;;;;;;;;;X
+TOR;Toradora;;;;;;;;;;X
+ZER;Zero no Tsukaima;;;;;;;;;;X
+AIR_ADJ;Air的;;;;;;;;;;X
+ANG_ADJ;AB的;;;;;;;;;;X
+CLA_ADJ;Clannad的;;;;;;;;;;X
+KAN_ADJ;Kanon的;;;;;;;;;;X
+KEY_ADJ;KEY社的;;;;;;;;;;X
+LBU_ADJ;LB的;;;;;;;;;;X
 PLA_ADJ;星之梦的;;;;;;;;;;X
+REW_ADJ;Rewrite的;;;;;;;;;;X
+CCS_ADJ;小樱的;;;;;;;;;;X
+FAT_ADJ;Fate的;;;;;;;;;;X
+HAY_ADJ;管家的;;;;;;;;;;X
+HIG_ADJ;寒蝉的;;;;;;;;;;X
+HOL_ADJ;神圣同盟的;;;;;;;;;;X
+HYO_ADJ;冰菓的;;;;;;;;;;X
+KON_ADJ;轻音的;;;;;;;;;;X
+KUG_ADJ;钉宫的;;;;;;;;;;X
+KYO_ADJ;京都的;;;;;;;;;;X
+LUC_ADJ;幸运星的;;;;;;;;;;X
+MAD_ADJ;小圆的;;;;;;;;;;X
+NAN_ADJ;魔炮的;;;;;;;;;;X
+ROZ_ADJ;蔷薇的;;;;;;;;;;X
+SAK_ADJ;天麻的;;;;;;;;;;X
+SET_ADJ;人鱼的;;;;;;;;;;X
+SHA_ADJ;傻娜的;;;;;;;;;;X
+SUZ_ADJ;凉宫的;;;;;;;;;;X
+TOR_ADJ;龙虎的;;;;;;;;;;X
+ZER_ADJ;614大神的;;;;;;;;;;X

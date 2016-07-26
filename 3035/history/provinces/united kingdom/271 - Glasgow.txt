@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = SCO
+owner = TOR
+controller = TOR
+add_core = TOR
 trade_goods = coal
 naval_base = 2
 life_rating = 35
@@ -14,17 +13,4 @@ state_building = {
     level = 1
     building = steel_factory
     upgrade = yes
-}
-1861.1.1 = {
-    state_building = {
-        level = 2
-        building = steel_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 2
-        building = steamer_shipyard
-        upgrade = yes
-    }
-    railroad = 3
 }

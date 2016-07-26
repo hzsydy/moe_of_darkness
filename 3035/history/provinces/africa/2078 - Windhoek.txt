@@ -1,4 +1,4 @@
-owner = SPA
-controller = SPA
+owner = SAK
+controller = SAK
 trade_goods = wool
 life_rating = 10

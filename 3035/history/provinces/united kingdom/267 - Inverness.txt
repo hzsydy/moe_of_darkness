@@ -1,10 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = SCO
+owner = TOR
+controller = TOR
+add_core = TOR
 trade_goods = sulphur
 life_rating = 35
 naval_base = 1
-1861.1.1 = {
-    railroad = 1
-}

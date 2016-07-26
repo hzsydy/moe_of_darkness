@@ -1,6 +1,5 @@
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = SCA
+owner = SHA
+controller = SHA
+add_core = SHA
 trade_goods = iron
 life_rating = 35

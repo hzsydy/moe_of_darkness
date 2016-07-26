@@ -17,36 +17,36 @@ REW = "countries/Rewrite.txt"
 
 ## Kyoto Animation
 
-#HYO = "countries/Hyoka.txt"
-#KON = "countries/KON.txt"
-#KYO = "countries/Kyoto Animation.txt"
-#LUC = "countries/Lucky star.txt"
-#SUZ = "countries/Suzumiya Haruhi no Yuutsu.txt"
+HYO = "countries/Hyoka.txt"
+KON = "countries/KON.txt"
+KYO = "countries/Kyoto Animation.txt"
+LUC = "countries/Lucky star.txt"
+SUZ = "countries/Suzumiya Haruhi no Yuutsu.txt"
 
 ## Holy Alliance
 
-#HIG = "countries/Higurashi no Naku Koro ni.txt"
-#HOL = "countries/Holy Alliance.txt"
-#NAN = "countries/Maho Shojo Lyrical Nanoha.txt"
-#ROZ = "countries/Rozen Maiden.txt"
+HIG = "countries/Higurashi no Naku Koro ni.txt"
+HOL = "countries/Holy Alliance.txt"
+NAN = "countries/Maho Shojo Lyrical Nanoha.txt"
+ROZ = "countries/Rozen Maiden.txt"
 
 ## The Party of Kugimiya
 
-#HAY = "countries/Hayate no Gotoku.txt"
-#KUG = "countries/Kugimiya.txt"
-#SHA = "countries/Shakugan no Shana.txt"
-#TOR = "countries/Toradora.txt"
-#ZER = "countries/Zero no Tsukaima.txt"
+HAY = "countries/Hayate no Gotoku.txt"
+KUG = "countries/Kugimiya.txt"
+SHA = "countries/Shakugan no Shana.txt"
+TOR = "countries/Toradora.txt"
+ZER = "countries/Zero no Tsukaima.txt"
 
-## Axis
+## Axis Power
 
-#MAD = "countries/Puella Magi Madoka Magica.txt"
-#SAK = "countries/Saki.txt"
+MAD = "countries/Puella Magi Madoka Magica.txt"
+SAK = "countries/Saki.txt"
 
 ## other japan saimoe 2010-
-#CCS = "countries/Cardcaptor Sakura.txt"
-#FAT = "countries/Fate.txt"
-#SET = "countries/Seto no Hanayome.txt" 
+CCS = "countries/Cardcaptor Sakura.txt"
+FAT = "countries/Fate.txt"
+SET = "countries/Seto no Hanayome.txt" 
 
 ## other japan saimoe 2010+
 #DAL = "countries/Date A Live.txt"
@@ -58,6 +58,8 @@ REW = "countries/Rewrite.txt"
 #KTC = "countries/Kantai Collection.txt"
 #LOV = "countries/LoveLive.txt"
 
+## Touhou Project
+#TOU = "countries/Touhou Project.txt"
 
 
 # Common Great Powers
@@ -104,7 +106,7 @@ HAM		= "countries/Hamburg.txt"
 HAN		= "countries/Hanover.txt"
 HES		= "countries/Hesse-Darmstadt.txt"
 HEK		= "countries/Hesse-Kassel.txt"
-HOL		= "countries/Holstein.txt"
+#HOL		= "countries/Holstein.txt"
 LIP		= "countries/Lippe-Detmold.txt"
 LUB		= "countries/Lubeck.txt"
 LUX		= "countries/Luxemburg.txt"
@@ -170,7 +172,7 @@ ALD		="countries/Aldjazair.txt"
 CNG		="countries/Congo Free State.txt"
 EGY		="countries/Egypt.txt"
 ETH		="countries/Ethiopia.txt"
-MAD		="countries/Madagascar.txt"
+#MAD		="countries/Madagascar.txt"
 LIB		="countries/Liberia.txt"
 MOR		="countries/Morocco.txt"
 NAL		="countries/Natalia.txt"

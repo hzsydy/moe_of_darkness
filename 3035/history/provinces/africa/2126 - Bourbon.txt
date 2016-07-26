@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
+owner = MAD
+controller = MAD
 trade_goods = fish
 life_rating = 35
-colonial = 2
 naval_base = 1

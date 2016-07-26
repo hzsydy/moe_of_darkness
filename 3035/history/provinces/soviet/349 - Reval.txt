@@ -1,6 +1,6 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = ZER
+controller = ZER
+add_core = ZER
 trade_goods = grain
 life_rating = 35
 fort = 1

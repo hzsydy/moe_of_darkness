@@ -1,5 +1,5 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = ZER
+controller = ZER
+add_core = ZER
 trade_goods = cattle
 life_rating = 35

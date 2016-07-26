@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = MAD
+controller = MAD
+add_core = MAD
 trade_goods = tobacco
 life_rating = 32

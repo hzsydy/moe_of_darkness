@@ -1,5 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = SUZ
+controller = SUZ
+add_core = SUZ
 trade_goods = opium
 life_rating = 35

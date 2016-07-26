@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = KON
+controller = KON
+add_core = KON
 trade_goods = fish
 life_rating = 35
 naval_base = 1

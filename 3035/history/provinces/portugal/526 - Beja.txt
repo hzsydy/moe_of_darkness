@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = SAK
+controller = SAK
+add_core = SAK
 trade_goods = iron
 life_rating = 35
 naval_base = 1

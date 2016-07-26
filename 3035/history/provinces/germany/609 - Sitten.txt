@@ -1,5 +1,5 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = CCS
+controller = CCS
+add_core = CCS
 trade_goods = coal
 life_rating = 40
