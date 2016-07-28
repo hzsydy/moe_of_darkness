@@ -1,0 +1,21 @@
+country_event = {
+	id = 663500
+    title = "EVTNAME663500"
+	desc = "EVTDESC663500"
+	trigger = {
+		tag = MRS
+		NOT = {
+            has_country_modifier = xioxiyige
+        }
+	}	
+    major = yes
+	option = {
+		name = "+1s"
+		plurality = 5
+        add_country_modifier = {
+            name = xioxiyige
+            duration = -1
+        }
+	}
+
+}

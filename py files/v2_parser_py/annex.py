@@ -27,7 +27,8 @@ annex_dict = {
 'ENG':'TOR',
 'FIN':'ZER',
 'NET':'FAT',
-'NEJ':'FAT'
+'NEJ':'FAT',
+'MOR':'MRS'
 }
 
 class work:

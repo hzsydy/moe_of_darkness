@@ -812,3 +812,9 @@ a_wealthy_empire6 = {
 	min_military_spending = 1
 	max_military_spending = 1
 }
+
+##### moe country modifier ###
+xioxiyige = {
+	icon = 1
+    land_unit_start_experience = 10
+}

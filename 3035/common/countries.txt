@@ -59,6 +59,7 @@ SET = "countries/Seto no Hanayome.txt"
 #LOV = "countries/LoveLive.txt"
 
 ## Touhou Project
+MRS = "countries/Moriya Shrine.txt"
 #TOU = "countries/Touhou Project.txt"
 
 
@@ -174,7 +175,7 @@ EGY		="countries/Egypt.txt"
 ETH		="countries/Ethiopia.txt"
 #MAD		="countries/Madagascar.txt"
 LIB		="countries/Liberia.txt"
-MOR		="countries/Morocco.txt"
+#MOR		="countries/Morocco.txt"
 NAL		="countries/Natalia.txt"
 ORA		="countries/Oranje.txt"
 SAF		="countries/South Africa.txt"

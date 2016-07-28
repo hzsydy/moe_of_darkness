@@ -1,6 +1,5 @@
-owner = PEU
-controller = PEU
-add_core = PEU
-add_core = CHL
+owner = MRS
+controller = MRS
+add_core = MRS
 trade_goods = wool
 life_rating = 35
