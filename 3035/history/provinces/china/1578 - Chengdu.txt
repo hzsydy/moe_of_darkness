@@ -1,5 +1,6 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = LBU
+controller = LBU
+add_core = LBU
+add_core = KEY
 trade_goods = tea
 life_rating = 32

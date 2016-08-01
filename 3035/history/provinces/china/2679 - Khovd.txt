@@ -1,5 +1,5 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = ROZ
+controller = ROZ
+add_core = ROZ
 trade_goods = cotton
 life_rating = 32

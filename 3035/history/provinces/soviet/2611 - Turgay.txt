@@ -1,5 +1,5 @@
-owner = ROZ
-controller = ROZ
-add_core = ROZ
+owner = SUZ
+controller = SUZ
+add_core = SUZ
 trade_goods = wool
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = ANH
+controller = ANH
+add_core = ANH
 trade_goods = coffee
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = SET
-controller = SET
-add_core = SET
+owner = LUC
+controller = LUC
+add_core = LUC
 trade_goods = fruit
 life_rating = 35

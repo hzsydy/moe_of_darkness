@@ -10,26 +10,33 @@ from V2_parser import *
 
 #annex_dict = {'HND':'CLA', 'JAV':'AIR', 'BUR':'KAN', 'USA':'ANG', 'TIB':'LBU', 'SIA':'REW', 'DAI':'SIA', 'PHI':'PLA', 'ANG':'ANG'}
 
+#annex_dict = {
+#'SWI':'CCS',
+#'GER':'HAY',
+#'PLC':'HIG',
+#'AST':'HYO',
+#'AUS':'KON',
+#'TUR':'LUC',
+#'FRA':'MAD',
+#'CHI':'NAN',
+#'RUS':'ROZ',
+#'SPA':'SAK',
+#'ROM':'SET',
+#'SWE':'SHA',
+#'PER':'SUZ',
+#'ENG':'TOR',
+#'FIN':'ZER',
+#'NET':'FAT',
+#'NEJ':'FAT',
+#'MOR':'MRS',
+#'SET':'LUC'
+#}
+
 annex_dict = {
-'SWI':'CCS',
-'GER':'HAY',
-'PLC':'HIG',
-'AST':'HYO',
-'AUS':'KON',
-'TUR':'LUC',
-'FRA':'MAD',
-'CHI':'NAN',
-'RUS':'ROZ',
-'SPA':'SAK',
-'ROM':'SET',
-'SWE':'SHA',
-'PER':'SUZ',
-'ENG':'TOR',
-'FIN':'ZER',
-'NET':'FAT',
-'NEJ':'FAT',
-'MOR':'MRS'
+'NAN':'ANH',
+'ROZ':'BAD',
 }
+
 
 class work:
     def __init__(self):
@@ -67,7 +74,7 @@ class work:
         return V2_struct
 
 if __name__=='__main__':
-    p = V2_parser("./../../3035/history/provinces") 
+    p = V2_parser("./../../3035/history/provinces/south america") 
     #p = V2_parser("./fuck") 
     w = work()
     p.process(w)

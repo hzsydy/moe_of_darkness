@@ -59,8 +59,8 @@ SET = "countries/Seto no Hanayome.txt"
 #LOV = "countries/LoveLive.txt"
 
 ## Touhou Project
-MRS = "countries/Moriya Shrine.txt"
 #TOU = "countries/Touhou Project.txt"
+#T06 = "countries/T06.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

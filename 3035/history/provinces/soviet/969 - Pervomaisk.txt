@@ -1,5 +1,5 @@
-owner = ROZ
-controller = ROZ
-add_core = ROZ
+owner = LUC
+controller = LUC
+add_core = LUC
 trade_goods = cattle
 life_rating = 35

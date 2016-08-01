@@ -1,5 +1,6 @@
-owner = SCA
-controller = SCA
+owner = SCA
+controller = SCA
 add_core = SCA
-trade_goods = wool
-life_rating = 35naval_base = 1
+trade_goods = wool
+life_rating = 35
+naval_base = 1

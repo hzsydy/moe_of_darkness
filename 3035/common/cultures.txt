@@ -21,6 +21,8 @@ visual_arts = {
 	union = KEY
 }
 
+
+
 germanic = {
 	leader = european
 	unit = EuropeanGC

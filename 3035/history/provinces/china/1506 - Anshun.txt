@@ -1,5 +1,6 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = KAN
+controller = KAN
+add_core = KAN
+add_core = KEY
 trade_goods = tea
 life_rating = 32

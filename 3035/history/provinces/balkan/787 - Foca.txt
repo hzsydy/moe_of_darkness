@@ -1,5 +1,5 @@
-owner = LUC
-controller = LUC
-add_core = LUC
+owner = KON
+controller = KON
+add_core = KON
 trade_goods = coal
 life_rating = 35
