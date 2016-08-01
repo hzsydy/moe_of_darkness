@@ -106,3 +106,8 @@ goods 10000
 debug fow
 event 19355
 event 663500
+debug fow
+event 19355
+goods 100000
+debug fow
+goods 10000000000000
