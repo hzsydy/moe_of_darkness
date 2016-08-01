@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = tobacco
 life_rating = 35

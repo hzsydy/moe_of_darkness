@@ -1,5 +1,5 @@
-owner = MRS
-controller = MRS
-add_core = MRS
+oowner = USA
+controller = USA
+add_core = USA
 trade_goods = tropical_wood
 life_rating = 25

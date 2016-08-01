@@ -1,5 +1,5 @@
-owner = MRS
-controller = MRS
-add_core = MRS
+owner = CLM
+controller = CLM
+add_core = CLM
 trade_goods = timber
 life_rating = 30

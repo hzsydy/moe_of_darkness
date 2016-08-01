@@ -1,5 +1,5 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = BRZ
+controller = BRZ
+add_core = BRZ
 trade_goods = sulphur
 life_rating = 25

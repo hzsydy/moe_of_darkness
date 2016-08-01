@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = CHI
+controller = CHI
+add_core = CHI
 trade_goods = fruit
 life_rating = 35

@@ -62,7 +62,6 @@ SET = "countries/Seto no Hanayome.txt"
 MRS = "countries/Moriya Shrine.txt"
 #TOU = "countries/Touhou Project.txt"
 
-
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
