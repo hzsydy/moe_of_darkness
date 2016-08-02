@@ -1,0 +1,28 @@
+country_event = {
+	id = 662300
+    title = "EVTNAME662300"
+	desc = "EVTDESC662300"
+	trigger = {
+		tag = CCS
+		NOT = {
+            has_country_modifier = xiaoying
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+    picture = "Danishgovernment"
+    fire_only_once = yes
+	option = {
+		name = "EVTOPTA662300"
+        add_country_modifier = {
+            name = xiaoying
+            duration = -1
+        }
+        add_country_modifier = {
+            name = neutrality
+            duration = -1
+        }
+	}
+
+}

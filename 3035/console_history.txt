@@ -116,3 +116,4 @@ tag HAY
 tag HUZ
 tag SUZ
 tag KAN
+tag HAY

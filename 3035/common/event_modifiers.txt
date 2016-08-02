@@ -813,8 +813,23 @@ a_wealthy_empire6 = {
 	max_military_spending = 1
 }
 
-##### moe country modifier ###
+##### moe country modifier #####
+
+neutrality = {
+    icon = 17
+}
+
+##MRS##
 xioxiyige = {
-	icon = 1
+	icon = 17
     land_unit_start_experience = 10
+}
+
+##CCS##
+xiaoying = {
+    icon = 19
+    prestige = 5
+    research_points = 5
+    global_pop_militancy_modifier = -1
+    global_pop_consciousness_modifier = -1
 }
