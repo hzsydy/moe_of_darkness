@@ -4,77 +4,14 @@
 #														#
 #########################################################
 
-#########################################################
-#														#
-#        		        Generic Events		    		#
-#														#
-#########################################################
-
-#Echo to the begin of Saimoe War
-country_event = {
-	id = 230001
-	title = "EVTNAME230001"
-	desc = "EVTDESC230001"
-	picture = "Danishgovernment"
-    is_triggered_only = yes
-    major = yes
-	option = {
-		name = "我们拭目以待。"
-		set_country_flag = saimoe_war_participant
-	}
-}
-
-#Lose War
-country_event = {
-	id = 230002
-	title = "EVTNAME230002"
-	desc = "EVTDESC230002"
-	picture = "Danishgovernment"
-    is_triggered_only = yes
-    major = yes
-	option = {
-		name = "明年再来过！"
-		clr_country_flag = saimoe_war_participant
-        clr_country_flag = moe_war_already_joined
-	}
-}
-
-#Add core 
-province_event = {
-	id = 230003
-	title = "EVTNAME230003"
-	desc = "EVTDESC230003"
-	picture = "Danishgovernment"
-    trigger = {
-        has_province_modifier = role_in_moe_war
-		any_neighbor_province = {
-			NOT = {
-				is_core = THIS
-			}
-		}
-	}	
-    mean_time_to_happen =  {
-		months = 1
-	}
-	option = {
-		name = "上啊！"
-		random_neighbor_province = {
-            limit = {
-				has_province_modifier = role_in_moe_war
-                NOT = { is_core = THIS }
-			}
-            add_core = THIS
-        }
-	}
-}
 
 #########################################################
 #														#
-#        	 National Events in Moe War				    #
+#        	        Roles Join Moe War				    #
 #														#
 #########################################################
 
-#NAN join war
+#Nanoha join war
 country_event = {
 	id = 540001
 	title = "EVTNAME540001"
@@ -83,8 +20,9 @@ country_event = {
     trigger = {
 		tag = NAN
         has_country_flag = saimoe_war_participant
+        has_country_modifier = moe_war_mobilizing
         NOT = {
-            has_country_flag = moe_war_already_joined
+            has_country_flag = nanoha_already_joined
         }
 	}	
     mean_time_to_happen =  {
@@ -92,7 +30,11 @@ country_event = {
 	}
 	option = {
 		name = "我们拭目以待。"
-		set_country_flag = moe_war_already_joined
+		set_country_flag = nanoha_already_joined
+        change_variable = { 
+            which = saimoe_war_role_num
+            value = 1
+        }
         3249 = {
             add_province_modifier = {
 				name = role_in_moe_war
@@ -102,17 +44,43 @@ country_event = {
 	}
 }
 
-#ROZ join war
+#Nanoha lose war
+province_event = {
+	id = 541001
+	title = "EVTNAME541001"
+	desc = "EVTDESC541001"
+	picture = "Danishgovernment"
+    trigger = {
+        province_id = 3249
+        NOT = { controlled_by = NAN }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+	option = {
+		name = "默哀。"
+        change_variable = { 
+            which = saimoe_war_role_num
+            value = -1
+        }
+        secede_province = NAN
+        NAN = {
+            remove_country_flag = nanoha_already_joined
+        }
+	}
+}
+
+#Suiseiseki join war
 country_event = {
 	id = 540002
-	title = "EVTNAME540001"
-	desc = "EVTDESC540001"
+	title = "EVTNAME540002"
+	desc = "EVTDESC540002"
 	picture = "Danishgovernment"
     trigger = {
 		tag = ROZ
         has_country_flag = saimoe_war_participant
         NOT = {
-            has_country_flag = moe_war_already_joined
+            has_country_flag = Suiseiseki_already_joined
         }
 	}	
     mean_time_to_happen =  {
@@ -120,7 +88,11 @@ country_event = {
 	}
 	option = {
 		name = "我们拭目以待。"
-		set_country_flag = moe_war_already_joined
+		set_country_flag = Suiseiseki_already_joined
+        change_variable = { 
+            which = saimoe_war_role_num
+            value = 1
+        }
         3251 = {
             add_province_modifier = {
 				name = role_in_moe_war
@@ -129,6 +101,33 @@ country_event = {
         }
 	}
 }
+
+#Suiseiseki lose war
+province_event = {
+	id = 541002
+	title = "EVTNAME541002"
+	desc = "EVTDESC541002"
+	picture = "Danishgovernment"
+    trigger = {
+        province_id = 3251
+        NOT = { controlled_by = ROZ }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+	option = {
+		name = "默哀。"
+        change_variable = { 
+            which = saimoe_war_role_num
+            value = -1
+        }
+        secede_province = ROZ
+        ROZ = {
+            remove_country_flag = Suiseiseki_already_joined
+        }
+	}
+}
+
 
 #########################################################
 #														#
@@ -153,15 +152,20 @@ country_event = {
 
 	mean_time_to_happen = {
 		months = 1
-        modifier = {
-			factor = 0.5
-			year = 1837
-		}
 	}
 
 	option = {
 		name = "我们拭目以待。"
         set_global_flag = saimoe_war_2005_begin
+        set_global_flag = saimoe_war_begin
+        set_variable = { 
+            which = saimoe_war_role_num
+            value = 0
+        }
+        set_variable = { 
+            which = saimoe_war_participant_num
+            value = 0
+        }
 		any_country = {
 			limit = { 
                 OR = {
@@ -171,5 +175,145 @@ country_event = {
             }					
 			country_event = 230001
 		}
+	}
+}
+
+
+#########################################################
+#														#
+#        		        Generic Events		    		#
+#														#
+#########################################################
+
+#Echo to the begin of Saimoe War
+country_event = {
+	id = 230001
+	title = "EVTNAME230001"
+	desc = "EVTDESC230001"
+	picture = "Danishgovernment"
+    is_triggered_only = yes
+    major = yes
+	option = {
+		name = "我们拭目以待。"
+		set_country_flag = saimoe_war_participant
+        change_variable = { 
+            which = saimoe_war_participant_num
+            value = 1
+        }
+        add_country_modifier = {
+            name = moe_war_mobilizing
+            duration = 90
+        }
+        treasury = 100000000
+	}
+}
+
+#Paticipant Lose War
+country_event = {
+	id = 230002
+	title = "EVTNAME230002"
+	desc = "EVTDESC230002"
+	picture = "Danishgovernment"
+    trigger = {
+        has_country_flag = saimoe_war_participant
+        NOT = { has_country_modifier = moe_war_mobilizing }
+        NOT = {
+            any_owned_province = {
+				has_province_modifier = role_in_moe_war
+			}
+		}
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+    major = yes
+	option = {
+		name = "明年再来过！"
+		clr_country_flag = saimoe_war_participant
+        change_variable = { 
+            which = saimoe_war_participant_num
+            value = -1
+        }
+	}
+}
+
+#Add core 
+province_event = {
+	id = 230003
+	title = "EVTNAME230003"
+	desc = "EVTDESC230003"
+    trigger = {
+        has_province_modifier = role_in_moe_war
+		any_neighbor_province = {
+			NOT = {
+				is_core = THIS
+			}
+		}
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+	option = {
+		name = "上啊！"
+		random_neighbor_province = {
+            limit = {
+				has_province_modifier = role_in_moe_war
+                NOT = { is_core = THIS }
+			}
+            add_core = THIS
+        }
+	}
+}
+
+#Win War
+country_event = {
+	id = 230004
+	title = "EVTNAME230004"
+	desc = "EVTDESC230004"
+	picture = "Danishgovernment"
+    trigger = {
+        has_country_flag = saimoe_war_participant
+        has_global_flag = saimoe_war_begin
+        NOT = { has_country_modifier = moe_war_mobilizing }
+        NOT = {
+            check_variable = {
+                which = saimoe_war_participant_num
+                value = 1.5
+            }
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 1
+	}
+    major = yes
+	option = {
+		name = "万岁！"
+		clr_country_flag = saimoe_war_participant
+        clr_global_flag = saimoe_war_begin
+        add_country_modifier = {
+            name = moe_king
+            duration = 730
+        }
+	}
+}
+
+#Be the moe king
+province_event = {
+	id = 230005
+	title = "EVTNAME230005"
+	desc = "EVTDESC230005"
+    trigger = {
+        has_province_modifier = role_in_moe_war
+		owner = {
+            has_country_modifier = moe_king
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 1
+	}
+	option = {
+		name = "万岁！"
+        remove_province_modifier = role_in_moe_war
+        
 	}
 }

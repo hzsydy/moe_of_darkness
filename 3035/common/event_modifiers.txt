@@ -823,6 +823,15 @@ role_in_moe_war = {
     icon = 15
 }
 
+moe_war_mobilizing = {
+    icon = 17
+}
+
+moe_king = {
+    icon = 17
+}
+
+
 ##MRS##
 xioxiyige = {
 	icon = 17
