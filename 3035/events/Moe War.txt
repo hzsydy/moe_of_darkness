@@ -1,0 +1,78 @@
+#########################################################
+#														#
+#        		 The War of Saimoe Events				#
+#														#
+#########################################################
+
+#Echo to the begin of Saimoe War
+country_event = {
+	id = 230001
+	title = "EVTNAME230001"
+	desc = "EVTDESC230001"
+	picture = "Danishgovernment"
+    is_triggered_only = yes
+    major = yes
+	option = {
+		name = "我们拭目以待。"
+		set_country_flag = saimoe_war_participant
+	}
+}
+
+#Echo to the begin of Saimoe War 2005
+country_event = {
+	id = 230002
+	title = "EVTNAME230002"
+	desc = "EVTDESC230002"
+	picture = "Danishgovernment"
+    is_triggered_only = yes
+    major = yes
+	option = {
+		name = "明年再来过！"
+		clr_country_flag = saimoe_war_participant
+	}
+}
+
+#########################################################
+#														#
+#            The War of Saimoe Events 2005				#
+#														#
+#########################################################
+
+#Start of Saimoe War 2005
+country_event = {
+	id = 230500
+	title = "EVTNAME230500"
+	desc = "EVTDESC230500"
+	picture = "Danishgovernment"
+
+	trigger = {
+		tag = CCS
+		year = 1836
+		NOT = { has_global_flag = saimoe_war_2005_begin }
+	}
+    
+    major = yes
+
+	mean_time_to_happen = {
+		months = 1
+        modifier = {
+			factor = 0.5
+			year = 1837
+		}
+	}
+
+	option = {
+		name = "我们拭目以待。"
+        set_global_flag = saimoe_war_2005_begin
+		any_country = {
+			limit = { 
+                OR = {
+					tag = ROZ
+					tag = AIR
+                    tag = NAN
+				}
+            }					
+			country_event = 230001
+		}
+	}
+}

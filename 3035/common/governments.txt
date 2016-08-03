@@ -99,5 +99,15 @@ democracy = {
 	duration = 42
 	appoint_ruling_party = no
 }
+
+absolute_nvzhu = {
+	liberal = yes
+	conservative = yes
+	reactionary = yes
+	socialist = yes
+	election = no
+	appoint_ruling_party = yes
+	flagType = monarchy
+}
  
 
