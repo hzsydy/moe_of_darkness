@@ -1,0 +1,7 @@
+3249 = {
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1
+    }
+}
