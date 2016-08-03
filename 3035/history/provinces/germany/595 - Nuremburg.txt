@@ -1,6 +1,6 @@
-owner = HAY
-controller = HAY
-add_core = HAY
+owner = KON
+controller = KON
+add_core = KON
 trade_goods = grain
 life_rating = 40
 railroad = 1
