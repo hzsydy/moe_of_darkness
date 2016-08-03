@@ -294,3 +294,29 @@ event 541001
 debug yesmen
 tag NAN
 tag ROZ
+event 230004
+goods 100000
+event 666555
+event 230500
+event 666655
+event 666555
+event 230500
+
+
+event 6666555
+event 666655
+event 666655
+event 666555
+tag ROZ
+tag NAN
+tag CCS
+event 666655
+event 666555
+event 666555
+debug fow
+event 666555
+event 666655
+tag ROZ
+event 666655
+event 230004
+debug fow

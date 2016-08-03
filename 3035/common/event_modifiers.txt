@@ -825,10 +825,12 @@ role_in_moe_war = {
 
 moe_war_mobilizing = {
     icon = 17
+    mobilisation_size = 0.1
 }
 
 moe_king = {
     icon = 17
+    immigrant_attract = 0.3
 }
 
 

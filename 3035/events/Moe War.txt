@@ -31,10 +31,6 @@ country_event = {
 	option = {
 		name = "我们拭目以待。"
 		set_country_flag = nanoha_already_joined
-        change_variable = { 
-            which = saimoe_war_role_num
-            value = 1
-        }
         3249 = {
             add_province_modifier = {
 				name = role_in_moe_war
@@ -59,10 +55,6 @@ province_event = {
 	}
 	option = {
 		name = "默哀。"
-        change_variable = { 
-            which = saimoe_war_role_num
-            value = -1
-        }
         secede_province = NAN
         NAN = {
             remove_country_flag = nanoha_already_joined
@@ -89,10 +81,6 @@ country_event = {
 	option = {
 		name = "我们拭目以待。"
 		set_country_flag = Suiseiseki_already_joined
-        change_variable = { 
-            which = saimoe_war_role_num
-            value = 1
-        }
         3251 = {
             add_province_modifier = {
 				name = role_in_moe_war
@@ -117,10 +105,6 @@ province_event = {
 	}
 	option = {
 		name = "默哀。"
-        change_variable = { 
-            which = saimoe_war_role_num
-            value = -1
-        }
         secede_province = ROZ
         ROZ = {
             remove_country_flag = Suiseiseki_already_joined
@@ -159,12 +143,8 @@ country_event = {
         set_global_flag = saimoe_war_2005_begin
         set_global_flag = saimoe_war_begin
         set_variable = { 
-            which = saimoe_war_role_num
-            value = 0
-        }
-        set_variable = { 
             which = saimoe_war_participant_num
-            value = 0
+            value = 2
         }
 		any_country = {
 			limit = { 
@@ -196,13 +176,9 @@ country_event = {
 	option = {
 		name = "我们拭目以待。"
 		set_country_flag = saimoe_war_participant
-        change_variable = { 
-            which = saimoe_war_participant_num
-            value = 1
-        }
         add_country_modifier = {
             name = moe_war_mobilizing
-            duration = 90
+            duration = 180
         }
         treasury = 100000000
 	}
@@ -230,9 +206,11 @@ country_event = {
 	option = {
 		name = "明年再来过！"
 		clr_country_flag = saimoe_war_participant
-        change_variable = { 
-            which = saimoe_war_participant_num
-            value = -1
+        CCS = {
+            change_variable = { 
+                which = saimoe_war_participant_num
+                value = -1
+            }
         }
 	}
 }
@@ -275,10 +253,12 @@ country_event = {
         has_country_flag = saimoe_war_participant
         has_global_flag = saimoe_war_begin
         NOT = { has_country_modifier = moe_war_mobilizing }
-        NOT = {
-            check_variable = {
-                which = saimoe_war_participant_num
-                value = 1.5
+        CCS = {
+            NOT = {
+                check_variable = {
+                    which = saimoe_war_participant_num
+                    value = 1.5
+                }
             }
         }
 	}	
@@ -315,5 +295,54 @@ province_event = {
 		name = "万岁！"
         remove_province_modifier = role_in_moe_war
         
+	}
+}
+
+#debug
+country_event = {
+	id = 666555
+	title = "fuck"
+	desc = "fuck"
+	picture = "Danishgovernment"
+    trigger = {
+        has_global_flag = saimoe_war_begin
+        ai = no
+        check_variable = {
+            which = saimoe_war_participant_num
+            value = 1.90
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+    fire_only_once = yes
+    major = yes
+	option = {
+		name = "fuck"
+	}
+}
+
+
+#debug
+country_event = {
+	id = 666655
+	title = "fuck"
+	desc = "fuck"
+	picture = "Danishgovernment"
+    trigger = {
+        has_global_flag = saimoe_war_begin
+        ai = no
+        check_variable = {
+            which = saimoe_war_participant_num
+            value = 0.90
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+    fire_only_once = yes
+    major = yes
+	option = {
+		name = "fuck"
 	}
 }
