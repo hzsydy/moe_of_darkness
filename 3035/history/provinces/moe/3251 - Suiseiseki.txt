@@ -1,0 +1,6 @@
+owner = ROZ
+controller = ROZ
+add_core = ROZ
+trade_goods = fruit
+life_rating = 0
+terrain = plains

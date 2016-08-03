@@ -2,4 +2,5 @@ owner = NAN
 controller = NAN
 add_core = NAN
 trade_goods = fruit
-life_rating = 40
+life_rating = 0
+terrain = plains

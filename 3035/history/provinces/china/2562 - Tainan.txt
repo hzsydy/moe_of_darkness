@@ -1,6 +1,5 @@
-owner = ROZ
-controller = ROZ
+owner = NAN
+controller = NAN
 add_core = NAN
-add_core = ROZ
 trade_goods = tea
 life_rating = 32

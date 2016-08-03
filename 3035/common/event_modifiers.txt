@@ -819,6 +819,10 @@ neutrality = {
     icon = 17
 }
 
+role_in_moe_war = {
+    icon = 15
+}
+
 ##MRS##
 xioxiyige = {
 	icon = 17

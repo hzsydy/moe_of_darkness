@@ -5,7 +5,6 @@ download/
 interface/
 launcher/
 logs/
-map/
 mod/
 movies/
 music/
@@ -39,7 +38,10 @@ pictures/
 test/
 *.dds
 
-
+#map
+province_flag_sprites/
+cache/
+terrain/
 
 #Debug
 fuck*

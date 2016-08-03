@@ -4,6 +4,12 @@
 #														#
 #########################################################
 
+#########################################################
+#														#
+#        		        Generic Events		    		#
+#														#
+#########################################################
+
 #Echo to the begin of Saimoe War
 country_event = {
 	id = 230001
@@ -18,7 +24,7 @@ country_event = {
 	}
 }
 
-#Echo to the begin of Saimoe War 2005
+#Lose War
 country_event = {
 	id = 230002
 	title = "EVTNAME230002"
@@ -29,6 +35,98 @@ country_event = {
 	option = {
 		name = "明年再来过！"
 		clr_country_flag = saimoe_war_participant
+        clr_country_flag = moe_war_already_joined
+	}
+}
+
+#Add core 
+province_event = {
+	id = 230003
+	title = "EVTNAME230003"
+	desc = "EVTDESC230003"
+	picture = "Danishgovernment"
+    trigger = {
+        has_province_modifier = role_in_moe_war
+		any_neighbor_province = {
+			NOT = {
+				is_core = THIS
+			}
+		}
+	}	
+    mean_time_to_happen =  {
+		months = 1
+	}
+	option = {
+		name = "上啊！"
+		random_neighbor_province = {
+            limit = {
+				has_province_modifier = role_in_moe_war
+                NOT = { is_core = THIS }
+			}
+            add_core = THIS
+        }
+	}
+}
+
+#########################################################
+#														#
+#        	 National Events in Moe War				    #
+#														#
+#########################################################
+
+#NAN join war
+country_event = {
+	id = 540001
+	title = "EVTNAME540001"
+	desc = "EVTDESC540001"
+	picture = "Danishgovernment"
+    trigger = {
+		tag = NAN
+        has_country_flag = saimoe_war_participant
+        NOT = {
+            has_country_flag = moe_war_already_joined
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+	option = {
+		name = "我们拭目以待。"
+		set_country_flag = moe_war_already_joined
+        3249 = {
+            add_province_modifier = {
+				name = role_in_moe_war
+				duration = -1
+			}
+        }
+	}
+}
+
+#ROZ join war
+country_event = {
+	id = 540002
+	title = "EVTNAME540001"
+	desc = "EVTDESC540001"
+	picture = "Danishgovernment"
+    trigger = {
+		tag = ROZ
+        has_country_flag = saimoe_war_participant
+        NOT = {
+            has_country_flag = moe_war_already_joined
+        }
+	}	
+    mean_time_to_happen =  {
+		months = 0
+	}
+	option = {
+		name = "我们拭目以待。"
+		set_country_flag = moe_war_already_joined
+        3251 = {
+            add_province_modifier = {
+				name = role_in_moe_war
+				duration = -1
+			}
+        }
 	}
 }
 
@@ -68,7 +166,6 @@ country_event = {
 			limit = { 
                 OR = {
 					tag = ROZ
-					tag = AIR
                     tag = NAN
 				}
             }					

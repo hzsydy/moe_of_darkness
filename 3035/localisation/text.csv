@@ -102,7 +102,7 @@ BUDGET_ADMIN_EFFICIENCY;ÐÐÕþÐ§ÂÊ£º§Y$PERC$%§W;;;;;;;;;;X
 BUDGET_ADMIN_EFFICIENCY_DESC;ÎÒÃÇ¹úÃñÖÐÓÐ§Y$PERC$%§WµÄÈËÊÇ§Y¹ÙÁÅ§W\nÎªÁË´ïµ½×î¸ßµÄÐÐÕþÐ§ÂÊ£¬ÎÒÃÇÐèÒªÖÁÉÙ§Y$MAX$%§WÃû¹ÙÁÅ§W\n;;;;;;;;;;X
 ADM_EXPLAIN_DESC;ÕâÒ»ËùÐè°Ù·Ö±È»ùÓÚÒÔÏÂ¸÷Ïî\n;;;;;;;;;;X
 SHADOWY_INVESTOR;Ë½ÈËÍ¶×ÊÕß;;;;;;;;;;X
-GUNBOAT_ALERT;$COUNTRY$ÓÃËûÃÇµÄº£¾üÁ¦Á¿ÆÈÊ¹ÎÒÃÇÃ¿Ìì³¥»¹Õ®Îñ$VALUE$¤ ;;;;;;;;;;X
+GUNBOAT_ALERT;$COUNTRY$ÓÃËûÃÇµÄº£¾üÁ¦Á¿ÆÈÊ¹ÎÒÃÇÃ¿Ìì³¥»¹Õ®Îñ$VALUE$?;;;;;;;;;;X
 BUDGET_COUNTRY;¹ú¼Ò;;;;;;;;;;X
 BUDGET_AMOUNT;×Ü¶î;;;;;;;;;;X
 BUDGET_LOANS_TAKEN;½è¿î;;;;;;;;;;X
@@ -1877,7 +1877,7 @@ TRADE_AUTOMATE;×Ô¶¯;;;;;;;;;;X
 TRADE_BUY_INTERNAL;¹úÄÚ¹ºÂò;;;;;;;;;;X
 TRADE_BUY_FROM_STOCKPILE;Ê¹¿â´æÏò¹²Í¬ÊÐ³¡¿ª·Å;;;;;;;;;;X
 TRADE_SELL;³öÊÛ;;;;;;;;;;X
-TRADE_PRICE_TREND;×òÈÕ¼Û¸ñ±ä¶¯£º$VALUE$¤ ;;;;;;;;;;X
+TRADE_PRICE_TREND;×òÈÕ¼Û¸ñ±ä¶¯£º$VALUE$?;;;;;;;;;;X
 TRADE_PRICE_TREND_UNCHANGED;×òÈÕ¼Û¸ñÃ»ÓÐ±ä»¯;;;;;;;;;;X
 TRADE_SELLING;³öÊÛ¿â´æ;;;;;;;;;;X
 TRADE_BUYING;²¹³ä¿â´æ;;;;;;;;;;X
@@ -2108,9 +2108,9 @@ add_to_sphere_setup;½«$RECIPIENT$ÄÉÈëÊÆÁ¦·¶Î§;;;;;;;;;;X
 take_from_sphere;ÇÀ¶áÊÆÁ¦È¦;;;;;;;;;;X
 take_from_sphere_short;´ÓÊÆÁ¦·¶Î§¶áÈ¡$THIRD$;;;;;;;;;;X
 take_from_sphere_setup;´Ó$RECIPIENT$µÄÊÆÁ¦·¶Î§¶áÈ¡$THIRD$;;;;;;;;;;X
-acquire_core_state;»ñµÃºËÐÄÁìÍÁ;;;;;;;;;;X
-acquire_core_state_short;»ñµÃ$STATE$;;;;;;;;;;X
-acquire_core_state_setup;´Ó$RECIPIENT$»ñµÃÓÐÎÒÃÇºËÐÄµÄ$STATE$;;;;;;;;;;X
+#acquire_core_state;»ñµÃºËÐÄÁìÍÁ;;;;;;;;;;X
+#acquire_core_state_short;»ñµÃ$STATE$;;;;;;;;;;X
+#acquire_core_state_setup;´Ó$RECIPIENT$»ñµÃÓÐÎÒÃÇºËÐÄµÄ$STATE$;;;;;;;;;;X
 acquire_state;»ñµÃÁìÍÁ;;;;;;;;;;X
 acquire_state_short;»ñµÃ$STATE$;;;;;;;;;;X
 acquire_state_setup;´Ó$RECIPIENT$»ñµÃ$STATE$;;;;;;;;;;X
@@ -3070,7 +3070,7 @@ GUNBOAT_WE_ACCEPT_1;ÅÚ½¢Íâ½»£¡;;;;;;;;;;X
 GUNBOAT_WE_ACCEPT_2;$ACTOR$;;;;;;;;;;X
 GUNBOAT_WE_ACCEPT_3;ÓÃÅÚ½¢Î§×¡ÁËÎÒ¹úµÄ¸Û¿Ú;;;;;;;;;;X
 GUNBOAT_WE_ACCEPT_4;²¢ÒªÇóÎÒ¹ú³¥»¹Õ®Îñ£º;;;;;;;;;;X
-GUNBOAT_WE_ACCEPT_5;ÎÒ¹úÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W¤ ¡£;;;;;;;;;;X
+GUNBOAT_WE_ACCEPT_5;ÎÒ¹úÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W?¡£;;;;;;;;;;X
 GUNBOAT_WE_ACCEPT_6;*;;;;;;;;;;X
 REMOVE_GUNBOAT_WE_ACCEPT_LOG;ÎÒ¹ú½ÓÊÜÁË$ACTOR$Ìá³öµÄºÍÆ½Ð­ÒÇ¡£;;;;;;;;;;X
 GUNBOAT_WE_ACCEPT_BTN1;ÊÀÉÏÃ»ÓÐÃâ·ÑµÄÎç²Í£¡;;;;;;;;;;X
@@ -3081,7 +3081,7 @@ GUNBOAT_THEY_ACCEPT_1;ÅÚ½¢Íâ½»£¡;;;;;;;;;;X
 GUNBOAT_THEY_ACCEPT_2;ÎÒ¹úÓÃÅÚ½¢Î§×¡ÁËÏÂÁÐ¹ú¼ÒµÄ¸Û¿Ú;;;;;;;;;;X
 GUNBOAT_THEY_ACCEPT_3;$RECIPIENT$;;;;;;;;;;X
 GUNBOAT_THEY_ACCEPT_4;Ç¿ÆÈËûÃÇ³¥»¹Õ®Îñ£º;;;;;;;;;;X
-GUNBOAT_THEY_ACCEPT_5;ËûÃÇÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W¤ ¡£;;;;;;;;;;X
+GUNBOAT_THEY_ACCEPT_5;ËûÃÇÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W?¡£;;;;;;;;;;X
 GUNBOAT_THEY_ACCEPT_6;*;;;;;;;;;;X
 REMOVE_GUNBOAT_THEY_ACCEPT_LOG;;;;;;;;;;;X
 GUNBOAT_THEY_ACCEPT_BTN1;×ÜËãÊÜµ½Ç®ÁË£¡;;;;;;;;;;X
@@ -3092,7 +3092,7 @@ GUNBOAT_OTHER_ACCEPT_2;$ACTOR$;;;;;;;;;;X
 GUNBOAT_OTHER_ACCEPT_3;ÓÃÅÚ½¢Î§×¡ÁËÏÂÁÐ¹ú¼ÒµÄ¸Û¿Ú;;;;;;;;;;X
 GUNBOAT_OTHER_ACCEPT_4;$RECIPIENT$;;;;;;;;;;X
 GUNBOAT_OTHER_ACCEPT_5;Ç¿ÆÈËûÃÇ³¥»¹Õ®Îñ£º;;;;;;;;;;X
-GUNBOAT_OTHER_ACCEPT_6;ËûÃÇÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W¤ ¡£;;;;;;;;;;X
+GUNBOAT_OTHER_ACCEPT_6;ËûÃÇÃ¿Ìì½«Ö§¸¶§Y$VALUE$§W?¡£;;;;;;;;;;X
 REMOVE_GUNBOAT_OTHER_ACCEPT_LOG;;;;;;;;;;;X
 GUNBOAT_OTHER_ACCEPT_BTN1;ºÃµÄ;;;;;;;;;;X
 GUNBOAT_OTHER_ACCEPT_BTN3;²é¿´;;;;;;;;;;X
@@ -9931,16 +9931,16 @@ POP_EXPAND_STATE_FACTORY;Í¶×ÊÀ©½¨¹¤³§;;;;;;;;;;X
 POP_NO_PROJECT;ÎÞÏîÄ¿;;;;;;;;;;X
 POP_STATE;µØÇø£º§Y$VALUE$§W\n;;;;;;;;;;X
 POP_PROVINCE;Ê¡·Ý£º§Y$VALUE$§W\n;;;;;;;;;;X
-POP_DAILY_MONEY;ÈÕÊÕÈë£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_NEEDS;ÐèÇó£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_WELFARE;¸£Àû£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_SALARY;Ð½Ë®£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_EXPENSES;Ö§³ö£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_EVENTS;ÊÂ¼þ£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_PROJECT;¼Æ»®£º§Y$VAL$§W¤ ;;;;;;;;;;X
-POP_DAILY_BANK;ÒøÐÐÕË»§£º§Y$VAL$§W¤ ;;;;;;;;;;X
-UNIT_PRICE;µ¥¼Û£º§Y$VAL$§W¤ ;;;;;;;;;;X
-AVAILABLE_IN_BANK;ÒøÐÐ´¢Ðî£º§Y$VAL$§W¤ ;;;;;;;;;;X
+POP_DAILY_MONEY;ÈÕÊÕÈë£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_NEEDS;ÐèÇó£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_WELFARE;¸£Àû£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_SALARY;Ð½Ë®£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_EXPENSES;Ö§³ö£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_EVENTS;ÊÂ¼þ£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_PROJECT;¼Æ»®£º§Y$VAL$§W?;;;;;;;;;;X
+POP_DAILY_BANK;ÒøÐÐÕË»§£º§Y$VAL$§W?;;;;;;;;;;X
+UNIT_PRICE;µ¥¼Û£º§Y$VAL$§W?;;;;;;;;;;X
+AVAILABLE_IN_BANK;ÒøÐÐ´¢Ðî£º§Y$VAL$§W?;;;;;;;;;;X
 PV_PROMOTIONS;Éý¼¶£º;;;;;;;;;;X
 POP_NO_POPS_OF_TYPE;Ã»ÓÐÕâÖÖÈËÈºÀàÐÍ;;;;;;;;;;X
 europe;Å·ÖÞ;;;;;;;;;;X
@@ -13198,7 +13198,7 @@ PROV3246;ÑïÂíÑÓ;;;;;;;;;;X
 PROVINCEVIEW_RGOOWNER;µØÇøÔ­ÁÏ²úµØÒµÖ÷£º§Y$VALUE$%¸ö$TYPE$§W;;;;;;;;;;X
 PROVINCEVIEW_ADMIN;µØÇøÐÐÕþÐ§ÂÊ£º§Y$VALUE$%§W;;;;;;;;;;X
 PROVINCEVIEW_LIFERATING;Ê¡·ÝÉú»îÌõ¼þ£º§Y$VALUE$§W;;;;;;;;;;X
-PROVINCEVIEW_GOODSINCOME;×òÈÕÂô³ö¼ÛÖµ§Y$VALUE$§W¤ µÄ§Y$GOODS$§W;;;;;;;;;;X
+PROVINCEVIEW_GOODSINCOME;×òÈÕÂô³ö¼ÛÖµ§Y$VALUE$§W?µÄ§Y$GOODS$§W;;;;;;;;;;X
 PROVINCEVIEW_EMPLOYMENT;µ±Ç°Ô­ÁÏ²úµØ¹ÍÓ¶ÈËÊý£º§Y$VALUE$§W;;;;;;;;;;X
 PROVINCEVIEW_CRIMEFIGHT;Ê¡·ÝÖÎ°²Ö¸Êý£º§Y$VALUE$%§W;;;;;;;;;;X
 PROVINCEVIEW_REVOLTRISK;Ê¡·ÝÅÑÂÒ·çÏÕ£º$VALUE$;;;;;;;;;;X
@@ -13655,7 +13655,7 @@ gas_defense_capability_desc;Í¨¹ýÔÚ¶¾Æø¹¥»÷Ê±Ê¹ÓÃ·À¶¾Ãæ¾ßÒ»ÏµÁÐ´©×ÅÖÆ·þµÄ¹æÔò£¬ÒÔ
 elastic_defense_system;µ¯ÐÔ·ÀÓùÌåÏµ;;;;;;;;;;X
 elastic_defense_system_desc;´ËÊ±Õ½º¾ÑÝ±ä³É¿Ö²ÀµÄÕ½º¾·ÀÓùÏµÍ³£¬ÓÉÁ½ÈýÌõº¾¹µÒÔ¼°»ìÄýÍÁµï±¤ÒÔ¼°»úÇ¹»ðÁ¦µãËù×é³É¡£±¾³¡¾°À´×ÔÓÚµ«¶¡ÉñÇúµÄµØÓü²¿·Ö¡£´Ë·¢Ã÷ÔÊÐíÄãÐÞ½¨ÐÂÐÍ¹¤ÊÂ±¤ÀÝ¡£;;;;;;;;;;X
 flexible_counterattacks;Áé»îÐÔ·´»÷;;;;;;;;;;X
-flexible_counterattacks_desc;µ±µÐÈËµÄ¹¥ÊÆ´ïµ½¸ß³±²¢¿ªÊ¼¼õÈõ£¬ÀûÓÃ´Ë²ßÂÔÍ¨¹ýÔ¤ÏÈ¼Æ»®µÄÕ½Êõ¶ÔµÐÈËÕ½ÏßµÄ¼äÏ¶½øÐÐ·´»÷¡£ÕâÖÖ·´»÷ÓÐÊ±ºò¿ÉÒÔ°ÑµÐÈËÍË»Øµ½±ÈÆðÊ¼½ø¹¥Î»ÖÃ¸üÔ¶µÄµØ·½¡£;;;;;;;;;;X
+flexible_counterattacks_desc;µ±µÐÈËµÄ¹¥ÊÆ´ïµ½¸ß³±²¢¿ªÊ¼¼õÈõ£¬ÀûÓÃ´Ë²ßÂÔÍ¨¹ýÔ¤ÏÈ¼Æ»®µÄÕ½Êõ¶ÔµÐÈËÕ½ÏßµÄ¼äÏ¶½ø?Ð·´»÷¡£ÕâÖÖ·´»÷ÓÐÊ±ºò¿ÉÒÔ°ÑµÐÈËÍË»Øµ½±ÈÆðÊ¼½ø¹¥Î»ÖÃ¸üÔ¶µÄµØ·½¡?;;;;;;;;;X
 infiltration;ÉøÍ¸Õ½Êõ;;;;;;;;;;X
 infiltration_desc;ÉøÍ¸Õ½Êõ;;;;;;;;;;X
 low_echelon_fire_support;Ç³ÌÝ¶Ó»ðÁ¦Ö§Ô®;;;;;;;;;;X

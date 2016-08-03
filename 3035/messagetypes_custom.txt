@@ -1270,7 +1270,7 @@ interesting=
 	idle=no
 	option=no
 	pausepopup=no
-	icon=yes
+	icon=no
 	categories="cat_events"
 }
 }
